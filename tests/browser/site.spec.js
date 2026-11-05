@@ -26,8 +26,14 @@ test('catalog search, details, favorites persistence and empty results',async({p
 });
 test('taxonomic sections, subgroups, source details and filter reset',async({page})=>{
  await page.goto('/');
- await page.locator('[data-tab="reptile"]').click();
- await expect(page.locator('#result-count strong')).toHaveText(String(catalogCounts.reptile));
+ await expect(page.locator('.category-grid .category-card')).toHaveCount(3);
+ await page.locator('[data-category="animal"]').click();
+ await expect(page.locator('.taxonomy-grid button')).toHaveCount(11);
+ await expect(page.locator('[data-facet-category="lizards"]')).toContainText('도마뱀류');
+ await expect(page.locator('[data-facet-category="caecilians"]')).toContainText('무족영원류');
+ await expect(page.locator('#result-count strong')).toHaveText(String(catalogCounts.reptile+catalogCounts.amphibian+catalogCounts.arthropod));
+ await page.locator('[data-facet-category="snakes"]').click();
+ await expect(page.locator('#result-count strong')).toHaveText('79');
  await page.getByLabel('세부 분류',{exact:true}).selectOption('뱀');
  await page.getByRole('searchbox').fill('볼 파이톤');
  await expect(page.locator('.entry-card')).toHaveCount(1);
@@ -36,10 +42,10 @@ test('taxonomic sections, subgroups, source details and filter reset',async({pag
  await expect(page.locator('.record-sources')).toContainText('조사 원자료');
  await page.keyboard.press('Escape');
  await page.locator('#reset-filters').click();
- await page.locator('[data-tab="amphibian"]').click();
+ await page.locator('[data-tab="animal"]').click();
  await page.getByLabel('세부 분류',{exact:true}).selectOption('도롱뇽');
  await expect(page.locator('#result-count strong')).toHaveText('30');
- await page.locator('[data-tab="arthropod"]').click();
+ await page.locator('[data-tab="animal"]').click();
  await page.getByLabel('세부 분류',{exact:true}).selectOption('등각류');
  await page.getByLabel('세부 유형').selectOption('Armadillidiidae');
  await expect(page.locator('.entry-card').first()).toContainText('등각류');
@@ -122,7 +128,7 @@ test('bundled photographs and large catalog have no failed local resources',asyn
  expect(failures).toEqual([]);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);
  await page.screenshot({path:`test-results/${testInfo.project.name}-final-home.png`,fullPage:true});
- await page.locator('[data-tab="reptile"]').click();
+ await page.locator('[data-tab="animal"]').click();
  await page.getByLabel('세부 분류',{exact:true}).selectOption('거북');
  await page.screenshot({path:`test-results/${testInfo.project.name}-reptiles.png`,fullPage:true});
 });
