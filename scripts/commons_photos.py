@@ -29,8 +29,12 @@ def reusable_photo(page,latin):
   license_url='https://commons.wikimedia.org/wiki/Commons:Licensing#Public_domain'
  title=page.get('title','');description=meta.get('ImageDescription','')
  categories=' '.join(c['title'] for c in page.get('categories',[]))
+ exact_categories={c['title'].replace('_',' ').removeprefix('Category:').casefold() for c in page.get('categories',[])}
  if BLOCKED.search(' '.join([title,description,categories,meta.get('Attribution','')])):return None
  if latin.casefold() not in ' '.join([title,description,categories]).replace('_',' ').casefold():return None
+ # A name merely mentioned in prose (for example a comparison to another
+ # monitor species) does not identify the photographed subject.
+ if latin.casefold() not in title.replace('_',' ').casefold() and latin.casefold() not in exact_categories:return None
  photographer=meta.get('Artist','')
  if not photographer:return None
  image_url=info.get('thumburl') or info.get('url','')

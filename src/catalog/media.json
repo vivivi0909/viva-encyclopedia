@@ -1,36 +1,4 @@
 {
-  "Correlophus ciliatus": {
-    "latin": "Correlophus ciliatus",
-    "title": "Gekkoninae Rhacodactylus ciliatus tete.png",
-    "photographer": "annakilljoy, moderator of geckoleo.com/forum",
-    "license": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing#Public_domain",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File:Gekkoninae_Rhacodactylus_ciliatus_tete.png",
-    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Gekkoninae_Rhacodactylus_ciliatus_tete.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Gekkoninae_Rhacodactylus_ciliatus_tete.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "modifications": "Wikimedia thumbnail resizing; no VIVA image editing",
-    "retrievedAt": "2026-11-05",
-    "identificationBasis": "Wikimedia title/description/category matches scientific name; not independent identification",
-    "image": "./photos/species-correlophus-ciliatus.png",
-    "sha256": "a1f6cc36d296abf11edd3126db88b25a7b195287830652877beb0fadf7ff733f",
-    "credit": "granted by the author"
-  },
-  "Rhacodactylus auriculatus": {
-    "latin": "Rhacodactylus auriculatus",
-    "title": "Rhacodactylus auriculatus.jpg",
-    "photographer": "The original uploader was Firereptiles at English Wikipedia.",
-    "license": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing#Public_domain",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rhacodactylus_auriculatus.jpg",
-    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Rhacodactylus_auriculatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Rhacodactylus_auriculatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "modifications": "Wikimedia thumbnail resizing; no VIVA image editing",
-    "retrievedAt": "2026-11-05",
-    "identificationBasis": "Wikimedia title/description/category matches scientific name; not independent identification",
-    "image": "./photos/species-rhacodactylus-auriculatus.jpg",
-    "sha256": "b1a9a52930f4dfaf17e466f45136d101189211cbe2a0e1cdba20d630331734dd",
-    "credit": "Transferred from en.wikipedia to Commons."
-  },
   "Eurydactylodes vieillardi": {
     "latin": "Eurydactylodes vieillardi",
     "title": "Eurydactylodes vieillardi.JPG",
@@ -175,22 +143,6 @@
     "sha256": "7fbfabe351157c3cc7ea4d2d7c2db8c84aaad1718e8cdf44bde0637b80d116c3",
     "credit": "http://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0912+0224"
   },
-  "Paroedura androyensis": {
-    "latin": "Paroedura androyensis",
-    "title": "Paroedura-androyensis.jpg",
-    "photographer": "SpydercoGecko",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File:Paroedura-androyensis.jpg",
-    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Paroedura-androyensis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Paroedura-androyensis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "modifications": "Wikimedia thumbnail resizing; no VIVA image editing",
-    "retrievedAt": "2026-11-05",
-    "identificationBasis": "Wikimedia title/description/category matches scientific name; not independent identification",
-    "image": "./photos/species-paroedura-androyensis.jpg",
-    "sha256": "170bbfe10ef9df1c8b0a7c4b750bee2ff80a285559d9e79ff53ad31ef7446197",
-    "credit": "Spydercogecko"
-  },
   "Phelsuma lineata": {
     "latin": "Phelsuma lineata",
     "title": "Phelsuma Antanosy Andasibe Madagascar.jpg",
@@ -207,22 +159,6 @@
     "sha256": "4867436d6b3757d54ed95244b2e1d40efc8ac822ef08c079be7d94c412cdb0ec",
     "credit": "Own work"
   },
-  "Gekko gecko": {
-    "latin": "Gekko gecko",
-    "title": "Tokay.jpg",
-    "photographer": "Nick Hobgood",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File:Tokay.jpg",
-    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Tokay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Tokay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "modifications": "Wikimedia thumbnail resizing; no VIVA image editing",
-    "retrievedAt": "2026-11-05",
-    "identificationBasis": "Wikimedia title/description/category matches scientific name; not independent identification",
-    "image": "./photos/species-gekko-gecko.jpg",
-    "sha256": "10a4fb57ca48e881d6ac8b312452ed59e57214816e6581ae34464f84f5185060",
-    "credit": "Flickr"
-  },
   "Uroplatus fimbriatus": {
     "latin": "Uroplatus fimbriatus",
     "title": "UroplatusFimbriatus.JPG",
@@ -238,22 +174,6 @@
     "image": "./photos/species-uroplatus-fimbriatus.jpg",
     "sha256": "d2973e647c8be7230149771c1dfa7cea8f595a7aaa13b67a54223a0827409f4c",
     "credit": "No machine-readable source provided. Own work assumed (based on copyright claims)."
-  },
-  "Nephrurus amyae": {
-    "latin": "Nephrurus amyae",
-    "title": "Nephrurus amyae.jpg",
-    "photographer": "Ileventhal86",
-    "license": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing#Public_domain",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File:Nephrurus_amyae.jpg",
-    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Nephrurus_amyae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Nephrurus_amyae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "modifications": "Wikimedia thumbnail resizing; no VIVA image editing",
-    "retrievedAt": "2026-11-05",
-    "identificationBasis": "Wikimedia title/description/category matches scientific name; not independent identification",
-    "image": "./photos/species-nephrurus-amyae.jpg",
-    "sha256": "a4880b432fa025b99e1c14c71ccd1e4fdde432881e0b5f71bb20ab387c0c0f08",
-    "credit": "Imported from en:"
   },
   "Plestiodon inexpectatus": {
     "latin": "Plestiodon inexpectatus",
@@ -286,22 +206,6 @@
     "image": "./photos/species-chamaeleo-calyptratus.jpg",
     "sha256": "4407b25ad38e3b46c8f233f85d92054640e606c44a888118a3eeffadbeb1219a",
     "credit": "Flickr"
-  },
-  "Varanus tristis": {
-    "latin": "Varanus tristis",
-    "title": "Gillenibaumann.JPG",
-    "photographer": "Christoph Baumann",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File:Gillenibaumann.JPG",
-    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Gillenibaumann.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Gillenibaumann.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "modifications": "Wikimedia thumbnail resizing; no VIVA image editing",
-    "retrievedAt": "2026-11-05",
-    "identificationBasis": "Wikimedia title/description/category matches scientific name; not independent identification",
-    "image": "./photos/species-varanus-tristis.jpg",
-    "sha256": "a6b77d280ef41cff81b54b8eedfe28c90657e7950e6ac949a4403554213291ac",
-    "credit": "Christoph Baumann, www.varanidae.de"
   },
   "Boa constrictor": {
     "latin": "Boa constrictor",
@@ -545,5 +449,105 @@
     "image": "./photos/species-tradescantia-zebrina.jpg",
     "sha256": "486cfb9ad7e5190bdf42efdd2a35f922d564047248dda27aaf8bb27b35b9590a",
     "credit": "Derivative from Image:Zebrina_pendula_20060521_2.JPG (small extract)"
+  },
+  "Hypselotriton orientalis": {
+    "latin": "Hypselotriton orientalis",
+    "title": "Cynops orientalis - Chinesischer Feuerbauchmolch.jpg",
+    "photographer": "Quirltreiber",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing#Public_domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Cynops_orientalis_-_Chinesischer_Feuerbauchmolch.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cynops_orientalis_-_Chinesischer_Feuerbauchmolch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cynops_orientalis_-_Chinesischer_Feuerbauchmolch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "modifications": "Wikimedia thumbnail resizing; no VIVA image editing",
+    "retrievedAt": "2026-11-05",
+    "identificationBasis": "Scientific name in Wikimedia file title or exact species category; visually reviewed framing; not independent biological identification",
+    "sha256": "a9833132a1716bd71c505c426117c8992a04ae4b76b83c6593181d520a4cb5f4",
+    "image": "./photos/review-hypselotriton-orientalis-a9833132a1.jpg",
+    "visualReview": {
+      "date": "2026-11-05",
+      "criteria": "A clearer view of the animal and its main features; avoid isolated body parts, distant subjects and obscuring clutter where a better licensed candidate is available. Image contents not edited.",
+      "scope": "Visual framing review, not independent species identification."
+    }
+  },
+  "Triturus cristatus": {
+    "latin": "Triturus cristatus",
+    "title": "Triturus cristatus m.jpg",
+    "photographer": "Magnefl",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Triturus_cristatus_m.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Triturus_cristatus_m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Triturus_cristatus_m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "modifications": "Wikimedia thumbnail resizing; no VIVA image editing",
+    "retrievedAt": "2026-11-05",
+    "identificationBasis": "Scientific name in Wikimedia file title or exact species category; visually reviewed framing; not independent biological identification",
+    "sha256": "0b74aa0333cb3dd992c08c1a9bd35c2c1ecf3b5562d42b9fa55692cbac1e70d3",
+    "image": "./photos/review-triturus-cristatus-0b74aa0333.jpg",
+    "visualReview": {
+      "date": "2026-11-05",
+      "criteria": "A clearer view of the animal and its main features; avoid isolated body parts, distant subjects and obscuring clutter where a better licensed candidate is available. Image contents not edited.",
+      "scope": "Visual framing review, not independent species identification."
+    }
+  },
+  "Chromatopelma cyaneopubescens": {
+    "latin": "Chromatopelma cyaneopubescens",
+    "title": "Chromatopelma cyaneopubescens spiderling.jpg",
+    "photographer": "DigitalLem0n",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Chromatopelma_cyaneopubescens_spiderling.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Chromatopelma_cyaneopubescens_spiderling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Chromatopelma_cyaneopubescens_spiderling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "modifications": "Wikimedia thumbnail resizing; no VIVA image editing",
+    "retrievedAt": "2026-11-05",
+    "identificationBasis": "Scientific name in Wikimedia file title or exact species category; visually reviewed framing; not independent biological identification",
+    "sha256": "943f5c9e2d02e8f16db822fab489919b4364320017cc6ed8258295408a13244b",
+    "image": "./photos/review-chromatopelma-cyaneopubescens-943f5c9e2d.jpg",
+    "visualReview": {
+      "date": "2026-11-05",
+      "criteria": "A clearer view of the animal and its main features; avoid isolated body parts, distant subjects and obscuring clutter where a better licensed candidate is available. Image contents not edited.",
+      "scope": "Visual framing review, not independent species identification."
+    }
+  },
+  "Anolis carolinensis": {
+    "latin": "Anolis carolinensis",
+    "title": "Anolis carolinensis (male&female) by Robert Michniewicz.jpg",
+    "photographer": "Robert Michniewicz (edited by Ark)",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Anolis_carolinensis_(male%26female)_by_Robert_Michniewicz.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Anolis_carolinensis_%28male%26female%29_by_Robert_Michniewicz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Anolis_carolinensis_%28male%26female%29_by_Robert_Michniewicz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "modifications": "Wikimedia thumbnail resizing; no VIVA image editing",
+    "retrievedAt": "2026-11-05",
+    "identificationBasis": "Scientific name in Wikimedia file title or exact species category; visually reviewed framing; not independent biological identification",
+    "sha256": "4411bd35f02c533cfd4f513554fa7d3f6418356ebc7644bc23a39a2188cc5eb2",
+    "image": "./photos/review-anolis-carolinensis-4411bd35f0.jpg",
+    "visualReview": {
+      "date": "2026-11-05",
+      "criteria": "A clearer view of the animal and its main features; avoid isolated body parts, distant subjects and obscuring clutter where a better licensed candidate is available. Image contents not edited.",
+      "scope": "Visual framing review, not independent species identification."
+    }
+  },
+  "Basiliscus basiliscus": {
+    "latin": "Basiliscus basiliscus",
+    "title": "Basiliscus basiliscus 179710316 1.jpg",
+    "photographer": "Chloe and Trevor Van Loon",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Basiliscus_basiliscus_179710316_1.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Basiliscus_basiliscus_179710316_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Basiliscus_basiliscus_179710316_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "modifications": "Wikimedia thumbnail resizing; no VIVA image editing",
+    "retrievedAt": "2026-11-05",
+    "identificationBasis": "Scientific name in Wikimedia file title or exact species category; visually reviewed framing; not independent biological identification",
+    "sha256": "28c730b99fbb66688947d13c4e9f02c636a8a3e47ad9a79b6f7c69d46f77355f",
+    "image": "./photos/review-basiliscus-basiliscus-28c730b99f.jpg",
+    "visualReview": {
+      "date": "2026-11-05",
+      "criteria": "A clearer view of the animal and its main features; avoid isolated body parts, distant subjects and obscuring clutter where a better licensed candidate is available. Image contents not edited.",
+      "scope": "Visual framing review, not independent species identification."
+    }
   }
 }

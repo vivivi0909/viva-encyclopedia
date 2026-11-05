@@ -10,8 +10,9 @@
     "plant": 279
   },
   "aiImagesUsed": 0,
-  "photographsFromCommons": 34,
-  "photographsFromINaturalist": 683,
+  "photographsFromCommons": 33,
+  "photographsFromINaturalist": 671,
   "careSpeciesWithSourceFacts": 58,
-  "plantSpeciesWithNCFacts": 222
+  "plantSpeciesWithNCFacts": 222,
+  "visuallyReplacedPhotos": 135
 }
