@@ -20,7 +20,16 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build
-      - uses: actions/configure-pages@v5
+      - name: Create downloadable preview
+        run: |
+          mkdir -p preview
+          python3 scripts/export-preview.py --external-photos --output preview/index.html --zip-output /tmp/viva-preview.zip
+          unzip -o /tmp/viva-preview.zip -d preview
+      - uses: actions/upload-artifact@v4
+        with:
+          name: VIVA-preview
+          path: preview/
+          retention-days: 14
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
@@ -34,6 +43,7 @@ jobs:
       pages: write
       id-token: write
     steps:
+      - uses: actions/configure-pages@v5
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
