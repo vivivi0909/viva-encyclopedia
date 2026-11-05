@@ -10,7 +10,7 @@ export function plantCandidate(animal,plant){
  const temperature=overlap(animal.temp,plant.temp),humidity=overlap(animal.humidity,plant.humidity);
  if(missing.length)return {status:'insufficient',reasons:missing};
  if(!temperature||!humidity)return {status:'different',reasons:['온습도 공통 범위 없음']};
- if(/독성 보고|자극·약한 독성/.test(plant.toxicity||''))risks.push('식물 독성 보고: 섭취·접촉 위험 검토');
+ if(/독성 보고|자극·약한 독성|자극성 보고/.test(plant.toxicity||''))risks.push('식물 독성·자극성 보고: 섭취·접촉 위험 검토');
  risks.push('성체 무게·식물 파손·농약·환기·조명·물 고임을 별도로 검토해야 함');
  if(animal.tempRole&&animal.tempRole!=='ambient')risks.push('동물 온도는 구역별 값: 식물 재배 온도와 같은 의미가 아님');
  return {status:risks.some(r=>r.startsWith('식물 독성'))?'risk':'review-candidate',temperature,humidity,reasons:risks};
@@ -18,6 +18,7 @@ export function plantCandidate(animal,plant){
 export function reverseMatch(entry,criteria){
  const missing=[],mismatch=[],reasons=[];
  for(const [field,label] of [['temp','온도'],['humidity','습도']]){
+  if(field==='temp'&&entry.tempRole==='water')continue;
   if(!validRange(entry[field]))missing.push(label+' 범위');
   else if(criteria[field]&& !overlap(entry[field],criteria[field]))mismatch.push(label+' 범위 불일치');
  }
@@ -26,9 +27,11 @@ export function reverseMatch(entry,criteria){
   if(!entry.plant?.finalHeightCm)missing.push('출처가 확인된 성숙 높이와 확장 공간');
   if(entry.plant?.finalHeightCm&&entry.plant.finalHeightCm[1]>criteria.dimensions[2])mismatch.push('원자료 성숙 높이가 사육장 높이를 초과');
   if(mismatch.length)return {status:'different',reasons:mismatch};
-  return {status:missing.length?'insufficient':'review-candidate',reasons:[...missing,.../독성 보고|자극·약한 독성/.test(entry.toxicity||'')?['독성·자극성 보고가 있어 섭취·접촉 위험을 동물별로 검토해야 함']:[],'동물과의 안전성·빛·배지·식재 위치는 개별 검토 필요']};
+  return {status:missing.length?'insufficient':'review-candidate',reasons:[...missing,.../독성 보고|자극·약한 독성|자극성 보고/.test(entry.toxicity||'')?['독성·자극성 보고가 있어 섭취·접촉 위험을 동물별로 검토해야 함']:[],'동물과의 안전성·빛·배지·식재 위치는 개별 검토 필요']};
  }
  const animal=entry.animal||{};
+ if(entry.tempRole==='water')missing.push('입력 공기 온도와 종별 사육 수온을 구분할 자료');
+ if(entry.tempRole&&!['ambient','cool_air','cool_hide','water'].includes(entry.tempRole))missing.push('원문 온도의 측정 구역·매체 확인 필요');
  if(entry.tempRole==='cool_hide')missing.push('은신처 온도와 사육장 공기 온도를 구분할 자료');
  if(criteria.habitats?.length&&!criteria.habitats.some(h=>animal.habitats?.includes(h))){if(!animal.habitats?.length)missing.push('서식 위치');else mismatch.push('서식 위치 불일치');}
  if(criteria.climates?.length&&!criteria.climates.some(c=>animal.climates?.includes(c))){if(!animal.climates?.length)missing.push('기후 조건');else mismatch.push('기후 조건 불일치');}

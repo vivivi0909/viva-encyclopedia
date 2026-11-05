@@ -1,0 +1,344 @@
+{
+  "Hypselotriton cyanurus": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Cynops/C_cyanurus.shtml",
+    "sourceTitle": "Caudata Culture · Cynops cyanurus",
+    "sourceSha256": "d2e494acc63b07cdf737d029d6da19a84a52963bb289a7c3b22d446582fd8ec6",
+    "reviewedAt": "2026-11-05",
+    "scope": "species",
+    "fields": {
+      "temperatureNotes": "수생 성체의 계절별 저자 기록: 겨울 16–18°C, 여름 21–24°C. 이를 연중 16–24°C 범위로 합치지 않음. 유생·유체의 저온 민감성을 별도 검토.",
+      "feeding": "잘게 자른 지렁이·블랙웜·장구벌레류 유충·물벼룩 등을 제시함. 적합한 육식성 수생동물용 펠릿에 적응하는 개체도 있으며, 먹이는 개체가 삼킬 수 있는 크기로 제공.",
+      "hides": "주로 수생인 성체 수조에도 물 밖으로 쉴 수 있는 섬을 제공. 강한 여과 수류는 피하도록 원문이 안내함.",
+      "behavior": "수생 성체의 관리가 중심이며, 강한 물살에 맞춘 종으로 단정하지 않음.",
+      "lifeStages": "성체의 계절별 관리와 유생·유체를 구분. 원문은 유생·어린 개체의 저온 민감성을 경고하므로 성체의 겨울 저온 조건을 그대로 적용하지 않음.",
+      "healthNotes": "급격한 저온 노출 후 반응이 둔해질 수 있으므로 즉시 깊은 물에 넣지 말고 회복 상태를 확인하도록 원문이 안내함."
+    },
+    "habitats": [
+      "aquatic"
+    ],
+    "diets": []
+  },
+  "Cynops ensicauda": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Cynops/C_ensicauda.shtml",
+    "sourceTitle": "Caudata Culture · Cynops ensicauda",
+    "sourceSha256": "6319560c9c55e1219078727f69935c29dc0affeede615eb1eb81c53ac3a7966a",
+    "reviewedAt": "2026-11-05",
+    "scope": "species",
+    "fields": {
+      "temperatureNotes": "원문 일반 관리 수온 20–24°C. 겨울 번식 유도 조건과 유생·유체 조건을 별도로 설명하므로 하나의 연중 범위로 합치지 않음.",
+      "hides": "수생식물을 충분히 심은 수조 또는 큰 수역을 갖춘 반수생 환경. 부유 식물·코르크·유목·작은 육상부로 수면 위 휴식 공간 제공.",
+      "careEnclosureNotes": "원문은 성체 2–3마리의 60 × 30 × 30 cm 수조 예시를 다룸. 집단 수조 예시를 개별 종의 검증된 최소 규격으로 자동 사용하지 않음.",
+      "behavior": "야생에서는 성체가 육상에 오래 머무는 기록도 있으므로 수생·육상 선택지를 구분.",
+      "lifeStages": "원문은 유생·유체에 성체 겨울 번식 조건을 그대로 적용하지 않도록 다른 온도 조건을 제시함. 개체 단계에 맞는 관리 문맥 확인.",
+      "healthNotes": "수질·정기 환수와 여과를 관리하고 강한 수류를 만들지 않도록 원문이 안내함.",
+      "feeding": "원문은 변태 후 유체의 크기에 맞는 작은 환형동물·잘게 자른 지렁이 등과 육상 관리 시 작은 먹이 곤충을 예시로 제시함. 수중·육상 단계의 먹이 제시 방식과 성체 급여 조건은 원문에서 구분해 확인."
+    },
+    "habitats": [
+      "aquatic",
+      "terrestrial",
+      "semiaquatic"
+    ],
+    "diets": [],
+    "temperature": {
+      "range": [
+        20,
+        24
+      ],
+      "role": "water",
+      "label": "수온 · 일반 관리 원문 참고"
+    }
+  },
+  "Cynops pyrrhogaster": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Cynops/C_pyrrhogaster.shtml",
+    "sourceTitle": "Caudata Culture · Cynops pyrrhogaster",
+    "sourceSha256": "4349da99b4bd3d2ce7e7c0da7128a32259e402c47f580747bc8eb7928a337887",
+    "reviewedAt": "2026-11-05",
+    "scope": "species",
+    "fields": {
+      "temperatureNotes": "원문에 60–74°F와 18–21°C가 함께 표기돼 서로 정확히 일치하지 않음. 하나의 적정 수온으로 자동 등록하지 않고 원문·최신 종별 자료 대조가 필요함.",
+      "feeding": "사육 먹이 예시로 지렁이·잘게 자른 큰 지렁이·생먹이 또는 냉동 장구벌레류 유충 등을 제시. 펠릿 수용 여부는 개체차가 있으므로 거식·체중 상태를 관찰.",
+      "hides": "수생식물을 충분히 심은 수조와 수면 위로 나올 수 있는 육상부를 제공하는 예시. 개체군·개체별로 수생·반수생 생활 비중이 다름.",
+      "behavior": "일부 개체군은 연중 상당 기간 육상에 머물고 번식기에 물로 들어가므로 모든 개체를 항상 수생이라고 단정하지 않음.",
+      "lifeStages": "개체군과 성장 단계에 따라 육상·수생 비중이 달라질 수 있으므로 단계별 사육 공간을 검토."
+    },
+    "habitats": [
+      "aquatic",
+      "terrestrial",
+      "semiaquatic"
+    ],
+    "diets": []
+  },
+  "Neurergus kaiseri": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Neurergus/N_kaiseri.shtml",
+    "sourceTitle": "Caudata Culture · Neurergus kaiseri",
+    "sourceSha256": "eeb3836ec199d0e6c96071b6a55bfc764094606e83ca970decd6390e80d1971e",
+    "reviewedAt": "2026-11-05",
+    "scope": "species",
+    "fields": {
+      "feeding": "육상 성체·유체는 체격에 맞는 작은 지렁이와 곤충류, 수생 단계는 지렁이·생먹이 또는 냉동 장구벌레류 유충 등을 예시로 제시함.",
+      "substrate": "육상기에는 비교적 건조한 토양 기반 바닥재에 수분 구배를 제공. 과도한 분무·축축함을 피하고 한쪽만 수분을 더하는 방식이 원문에 있음.",
+      "hides": "수중·육상 양쪽의 바위·수피 은신처와 쉽게 이동할 수 있는 구조를 마련. 수류는 강하게 만들지 않음.",
+      "behavior": "계절적으로 육상과 수중 사이를 이동하는 종의 관리 문맥을 적용.",
+      "breeding": "겨울 냉각이 번식에 중요하다는 저자 기록이 있으나 정확한 필수 온도·기간은 알려져 있지 않다고 명시됨. 임의의 냉각 목표를 만들지 않음.",
+      "lifeStages": "육상 유체·육상 성체와 수생 번식기의 먹이·은신·수분 관리가 다름."
+    },
+    "habitats": [
+      "terrestrial",
+      "semiaquatic",
+      "aquatic"
+    ],
+    "diets": []
+  },
+  "Pachytriton brevipes": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Pachytriton/Pachytriton.shtml",
+    "sourceTitle": "Caudata Culture · Pachytriton brevipes",
+    "sourceSha256": "1b6d37b5bfe374a4d212b5f00bcf5442fe8ce0c868a8312a6d3e284b47ac4cb1",
+    "reviewedAt": "2026-11-05",
+    "scope": "species-group",
+    "fields": {
+      "temperatureNotes": "패들테일뉴트 비교 문헌의 관리 참고: 18°C 미만 권고와 단기간 고온 내성을 구분함. 내성 수온을 적정 범위로 확대하지 않음.",
+      "substrate": "패들테일뉴트 비교 문헌: 사용한다면 고운 모래 또는 삼킬 수 없는 크기의 자갈을 검토. 먹이와 함께 바닥재를 흡입할 수 있어 오인 섭취 위험 확인.",
+      "hides": "영역을 나눌 수 있는 은신처를 확보하고 깨끗한 물·여과·산소 공급을 관리.",
+      "behavior": "원문은 번식기·급여 중 영역 다툼과 공격성을 설명함.",
+      "cohabitationRisks": "은신처와 넓은 공간만으로 공격성이 없어지는 것은 아님. 서로 다른 위치에서 먹이를 제공하거나 분리 사육을 검토해야 하며 안전한 합사로 판정하지 않음.",
+      "healthNotes": "먹이를 흡입할 때 바닥재를 삼키는 위험, 먹이 경쟁·물림과 수질 악화를 검토.",
+      "feeding": "패들테일뉴트 비교 문헌은 먹이 곤충·적합한 펠릿 등 다양한 먹이를 설명함. 흡입 섭식을 하므로 쉽게 삼킬 수 있는 크기로 제공하고 남은 먹이는 수질 악화 전에 제거. 비교 대상의 먹이 선호를 모든 개체에 일반화하지 않음."
+    },
+    "habitats": [
+      "aquatic"
+    ],
+    "diets": []
+  },
+  "Salamandra salamandra": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Salamandra/Salamandra_sp.shtml",
+    "sourceTitle": "Caudata Culture · Fire Salamander",
+    "sourceSha256": "1b7c2c65921125eb69dfc46c87cbcbb32aa8bd5dbbc74c063aec52095018ed48",
+    "reviewedAt": "2026-11-05",
+    "scope": "species-group",
+    "fields": {
+      "substrate": "Salamandra 비교 문헌에서 낙엽·이끼·수피 등 육상 바닥 요소와 식재 시 토양·퇴비 기반 배지를 제시함. 젖음 정도와 위생 조건은 원문 확인.",
+      "hides": "코르크 수피 등 은폐 공간을 제공. 유생을 낳는 계통의 번식을 계획한다면 성체 육상 공간과 별도로 수역을 검토.",
+      "feeding": "Salamandra 비교 문헌은 지렁이·귀뚜라미 등 다양한 움직이는 먹이를 제시함. 모든 지렁이·유충이 같은 먹이라는 의미는 아니므로 제외 대상·먹이 크기는 원문 확인.",
+      "behavior": "육상 활동·야간 이동과 은신 공간 이용이 중심. 번식기 수컷의 영역 다툼을 검토.",
+      "lifeStages": "유생을 낳는 계통에서는 수중 유생과 육상 성체의 공간을 구분. 생식·발달은 종·아종·계통에 따른 차이가 있어 일률적으로 적용하지 않음."
+    },
+    "habitats": [
+      "terrestrial"
+    ],
+    "diets": []
+  },
+  "Taricha torosa": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Taricha/T_torosa.shtml",
+    "sourceTitle": "Caudata Culture · Taricha torosa",
+    "sourceSha256": "57c553e99b111019b8db77fe821dd8a3201f9b5361cc52005eb84c4cc54846ab",
+    "reviewedAt": "2026-11-05",
+    "scope": "species",
+    "fields": {
+      "feeding": "원문은 지렁이 등 다양한 먹이를 받는 성체 기록을 제시함. 살아 있는 먹이의 공급원·크기와 영양 구성을 확인.",
+      "substrate": "육상 단계에 수분을 흡수하는 바닥 환경과 건조를 피할 수 있는 구조를 검토. 일정한 공기 습도 수치는 원문에서 확인되지 않아 만들지 않음.",
+      "hides": "성장·번식 단계에 따라 육상 또는 반수생 환경과 몸을 담글 수 있는 얕은 물 공간을 구분.",
+      "behavior": "변태 후 유체와 성체는 번식기 외에 주로 육상 생활을 하는 기록이 있음.",
+      "cohabitationRisks": "원문은 작은 동물을 먹이로 인식하는 기회적 섭식과 개체 크기 차이의 위험을 설명함. 같은 크기라는 이유만으로 합사가 안전한 것은 아님.",
+      "lifeStages": "수중 유생·변태 후 육상 단계·번식기 수생 단계를 구분. 생활 단계에 맞는 육상·반수생 공간을 제공."
+    },
+    "habitats": [
+      "terrestrial",
+      "semiaquatic",
+      "aquatic"
+    ],
+    "diets": []
+  },
+  "Triturus cristatus": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Triturus/Triturus_sp.shtml",
+    "sourceTitle": "Caudata Culture · Triturus cristatus",
+    "sourceSha256": "0545b55a0812ac7cf4118b74e76988031c29ae8c364335f4d9eeb65c2f5758af",
+    "reviewedAt": "2026-11-05",
+    "scope": "species-group",
+    "fields": {
+      "feeding": "크레스티드뉴트 종군 원문: 수생기에는 지렁이·민물새우·장구벌레류 유충·물벼룩 등 다양한 먹이를 제시. 비생먹이는 처음에 급여 도구가 필요할 수 있음.",
+      "hides": "크레스티드뉴트 종군 문헌은 육상·수중 생활 주기에 따른 환경 또는 두 환경을 제공하는 반수생 공간을 설명함.",
+      "behavior": "크레스티드뉴트 종군의 계절별 수생·육상 생활을 구분해야 함.",
+      "lifeStages": "크레스티드뉴트 종군 관리: 수중·육상 단계에 먹이 제시 방식과 공간 조건이 달라질 수 있으므로 단계별 원문을 확인.",
+      "healthNotes": "외부 사육 예시를 국내 기후·현행 규정에 그대로 적용하지 않으며 탈출 방지와 외부 개체의 유입을 검토."
+    },
+    "habitats": [
+      "aquatic",
+      "terrestrial",
+      "semiaquatic"
+    ],
+    "diets": []
+  },
+  "Triturus carnifex": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Triturus/Triturus_sp.shtml",
+    "sourceTitle": "Caudata Culture · Triturus carnifex",
+    "sourceSha256": "0545b55a0812ac7cf4118b74e76988031c29ae8c364335f4d9eeb65c2f5758af",
+    "reviewedAt": "2026-11-05",
+    "scope": "species-group",
+    "fields": {
+      "feeding": "크레스티드뉴트 종군 원문: 수생기에는 지렁이·민물새우·장구벌레류 유충·물벼룩 등 다양한 먹이를 제시. 비생먹이는 처음에 급여 도구가 필요할 수 있음.",
+      "hides": "크레스티드뉴트 종군 문헌은 육상·수중 생활 주기에 따른 환경 또는 두 환경을 제공하는 반수생 공간을 설명함.",
+      "behavior": "크레스티드뉴트 종군의 계절별 수생·육상 생활을 구분해야 함.",
+      "lifeStages": "크레스티드뉴트 종군 관리: 수중·육상 단계에 먹이 제시 방식과 공간 조건이 달라질 수 있으므로 단계별 원문을 확인.",
+      "healthNotes": "외부 사육 예시를 국내 기후·현행 규정에 그대로 적용하지 않으며 탈출 방지와 외부 개체의 유입을 검토."
+    },
+    "habitats": [
+      "aquatic",
+      "terrestrial",
+      "semiaquatic"
+    ],
+    "diets": []
+  },
+  "Triturus marmoratus": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Triturus/T_marmoratus.shtml",
+    "sourceTitle": "Caudata Culture · Triturus marmoratus",
+    "sourceSha256": "519364c14ac9dbf18c731638b4ee83b7b5d380af3ab0bbacd38355f08a204c94",
+    "reviewedAt": "2026-11-05",
+    "scope": "species-group",
+    "fields": {
+      "temperatureNotes": "원문은 계절·출신 계통과 야간 하강을 구분함. 가장 따뜻한 계절의 25°C 상한 참고를 연중 적정 범위나 번식 냉각 목표로 사용하지 않음.",
+      "feeding": "육상기에 체격에 맞는 곤충·지렁이, 수생기에 냉동 장구벌레류 유충·블랙웜·물벼룩 등을 제시. 먹이 종류와 공급원에 대한 원문 조건 확인.",
+      "hides": "수생 번식기와 육상 관리 선택지를 구분하고 물 밖 휴식 공간을 제공. 강한 물 흐름을 피하도록 원문이 안내함.",
+      "behavior": "원문은 야간 섭식과 계절별 육상·수중 관리 차이를 설명함.",
+      "lifeStages": "유체·성체를 육상으로 관리하는 방식과 번식기 수중 관리 방식을 구분.",
+      "cohabitationRisks": "원문은 번식기 수컷의 공격성을 경고함. 수조가 넓거나 암수가 있다는 이유만으로 안전한 동거로 판단하지 않음."
+    },
+    "habitats": [
+      "terrestrial",
+      "semiaquatic",
+      "aquatic"
+    ],
+    "diets": []
+  },
+  "Tylototriton kweichowensis": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Tylototriton/T_kweichowensis.shtml",
+    "sourceTitle": "Caudata Culture · Tylototriton kweichowensis",
+    "sourceSha256": "e4159aadcc3a05028abc47b103da506126a43513391b4f224da4105747eadb79",
+    "reviewedAt": "2026-11-05",
+    "scope": "species",
+    "fields": {
+      "feeding": "잘게 자른 지렁이·체격에 맞는 곤충 등 다양한 먹이 예시. 원문은 왁스웜을 주식으로 삼지 않도록 하고, 소극적인 개체가 먹이 경쟁에서 굶지 않는지 관찰하도록 안내함.",
+      "hides": "충분한 육상 이동·은신 공간과 수질을 관리할 수 있는 수역을 마련. 개체가 물에서 육상으로 쉽게 나올 수 있는 구조가 필요함.",
+      "behavior": "대부분의 시기에 주로 육상에 머무는 개체와 수중을 이용하는 개체의 차이를 관찰.",
+      "lifeStages": "유체·성체, 육상기·번식기의 공간을 구분하며 먹이 경쟁과 변태 후 크기에 맞는 먹이를 검토.",
+      "healthNotes": "원문은 익사 위험을 명시함. 육상으로 쉽게 나올 수 있게 하고 모든 개체의 실제 섭식·체중 상태를 확인."
+    },
+    "habitats": [
+      "terrestrial",
+      "semiaquatic"
+    ],
+    "diets": []
+  },
+  "Tylototriton shanjing": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Tylototriton/T_shanjing.shtml",
+    "sourceTitle": "Caudata Culture · Tylototriton shanjing",
+    "sourceSha256": "da981ebaeb35a8748ed99b2334166163fb22c1a85cc242256ad5091a6957e116",
+    "reviewedAt": "2026-11-05",
+    "scope": "species",
+    "fields": {
+      "feeding": "지렁이·체격에 맞는 곤충류 등 다양한 먹이 예시를 제시함. 한 종류만으로 균형 잡힌 영양이 충족된다고 보지 않음.",
+      "substrate": "토양층에 한쪽은 더 촉촉하고 다른 쪽은 건조한 수분 구배를 제공하는 저자 예시. 진흙처럼 되거나 수분이 과도하게 쌓이는 상태는 피함.",
+      "hides": "충분한 육상·은신 공간과 작은 물 공간을 구분. 번식기 외에는 수역 이용이 적다는 원문 기록이 있음.",
+      "behavior": "주로 육상 생활. 필요할 때 수분 상태를 선택할 수 있는 공간을 검토.",
+      "healthNotes": "원문의 수분 구배 지침을 일정한 높은 공기 습도 수치로 바꾸지 않음. 바닥재 과습·오염과 건조를 함께 점검."
+    },
+    "habitats": [
+      "terrestrial"
+    ],
+    "diets": []
+  },
+  "Tylototriton verrucosus": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Tylototriton/T_verrucosus.shtml",
+    "sourceTitle": "Caudata Culture · Tylototriton verrucosus",
+    "sourceSha256": "5ac48f6e3d82b645ce819e86afd8d0e61f1c1c6c80819fb5f6b50292134dabd7",
+    "reviewedAt": "2026-11-05",
+    "scope": "species-group",
+    "fields": {
+      "groupCareNotes": "이 문헌은 과거 T. verrucosus로 유통된 여러 변이군의 경험을 비교함. 현재의 종 동정·계통과 원문 적용 범위를 확인해야 하며 숫자를 개별 종 검증값으로 이식하지 않음.",
+      "feeding": "원문 비교 자료는 지렁이·수생 무척추동물 등 다양한 먹이를 다룸. 특정 변이군의 먹이량·급여 주기를 모든 개체에 그대로 적용하지 않음.",
+      "hides": "수중 관리 시 물 밖으로 나올 수 있는 섬을 제공하며, 물 밖에 계속 머무는 개체는 반수생 공간의 필요성을 검토.",
+      "lifeStages": "변이군과 성장 단계에 따라 물 밖에 머무는 비중이 다를 수 있어 성체·유체와 동정 상태를 함께 확인.",
+      "healthNotes": "먹이 잔재와 수질 악화·암모니아·아질산을 점검. 수중 관리 중 육상에 오래 머무는 행동은 수질·건강 상태와 함께 검토."
+    },
+    "habitats": [
+      "aquatic",
+      "terrestrial",
+      "semiaquatic"
+    ],
+    "diets": []
+  },
+  "Ambystoma opacum": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Ambystoma/A_opacum.shtml",
+    "sourceTitle": "Caudata Culture · Marbled Salamander",
+    "sourceSha256": "c978333ef5585d27edffdd9e9ee891b30f91f35800a45371f9a58f6684dcd568",
+    "reviewedAt": "2026-11-05",
+    "scope": "species",
+    "fields": {
+      "temperatureNotes": "원문의 저자 관찰은 유생 사육과 성체 유지에 18–24°C를 다루지만 두 단계의 측정 매체가 같다는 뜻은 아님. 장기간 30°C 초과를 피하도록 경고함.",
+      "substrate": "성체 육상 관리에서 무표백 종이타월 또는 충분히 굴을 팔 수 있는 토양 바닥재 예시를 제시함. 탈염소수와 잔여 먹이·오염 관리 조건 확인.",
+      "hides": "토양을 사용하는 경우 수피·안정적으로 배치한 바위 등 은신 공간을 확보하는 예시.",
+      "behavior": "변태 후 개체 사이의 영역성·회피와 물림 위험이 기록됨.",
+      "cohabitationRisks": "원문은 특히 성체 수컷의 물림·회피 행동을 설명함. 넓은 공간만으로 갈등이 사라진다고 보지 않고 분리 사육을 검토.",
+      "lifeStages": "수중 유생과 변태 후 육상 개체의 공간·수분·급여 조건을 구분.",
+      "feeding": "수중 유생은 발달 상태에 맞는 크기의 먹이, 변태 후에는 체격에 맞는 작은 곤충 등을 다루는 원문 지침을 구분. 생먹이와 함께 포식성 수생생물·오염원이 유입되지 않는지 점검."
+    },
+    "habitats": [
+      "terrestrial",
+      "fossorial"
+    ],
+    "diets": []
+  },
+  "Ambystoma tigrinum": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Ambystoma/A_tigrinum.shtml",
+    "sourceTitle": "Caudata Culture · Eastern Tiger Salamander",
+    "sourceSha256": "956a1cde69668b0293cb6d192015cfa5c099c68505bd001f2438cb59eca15e39",
+    "reviewedAt": "2026-11-05",
+    "scope": "species-group",
+    "fields": {
+      "temperatureNotes": "원문의 유생 수온 예시 65–72°F(약 18.3–22.2°C)는 유생 문맥으로 기록. 이를 모든 성체의 적정 공기 온도로 적용하지 않음.",
+      "feeding": "유생과 성체에 맞는 크기의 지렁이·먹이 곤충 등 다양한 먹이를 검토. 원문은 육류 조각·해동 생선을 주식으로 삼는 경우의 영양 결핍 위험을 설명함.",
+      "substrate": "육상 관리에서 보습성 바닥재와 수분 구배를 검토. 지나치게 낮은 바닥재 pH 등 원문 조건을 확인.",
+      "lifeStages": "수생 유생·변태 과정·육상 성체를 구분. 장기 절식 후 입식한 유생은 갑자기 많이 먹이는 방식도 위험할 수 있다고 원문이 경고함.",
+      "healthNotes": "입식 유생의 아가미·사지 손상과 기아 상태를 점검하고 먹이 잔재로 인한 수질 오염을 막음."
+    },
+    "habitats": [
+      "aquatic",
+      "terrestrial",
+      "fossorial"
+    ],
+    "diets": []
+  },
+  "Ambystoma andersoni": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Ambystoma/A_andersoni.shtml",
+    "sourceTitle": "Caudata Culture · Ambystoma andersoni",
+    "sourceSha256": "d28e5af6e34bed723fe0e64bed82b48295b7bc5071867ff1a84a9bc5bde497c2",
+    "reviewedAt": "2026-11-05",
+    "scope": "species",
+    "fields": {
+      "groupCareNotes": "원문은 A. mexicanum 사육 자료를 참조하도록 안내하지만 A. andersoni가 덜 강건하고 자발적 변태가 더 자주 관찰된다는 차이도 명시함. 아홀로틀 수치·수조 예시를 일괄 상속하지 않음.",
+      "lifeStages": "수생 유생형 성체와 자발적 변태 가능성을 함께 검토. A. mexicanum과 동일한 발달 단계라고 단정하지 않음.",
+      "healthNotes": "원문이 설명하는 낮은 강건성·변태 가능성을 고려해 개체 상태와 실제 종 동정을 확인."
+    },
+    "habitats": [
+      "aquatic"
+    ],
+    "diets": []
+  },
+  "Neurergus crocatus": {
+    "sourceUrl": "https://www.caudata.org/cc/species/Neurergus/N_crocatus.shtml",
+    "sourceTitle": "Caudata Culture · Neurergus crocatus",
+    "sourceSha256": "26936db8566722c40eb6d60b2a4f486890a06544f7ef54f084be1249d7dafba8",
+    "reviewedAt": "2026-11-05",
+    "scope": "species",
+    "fields": {
+      "feeding": "원문은 느린 성장·섭식량과 다양한 영양가 높은 먹이를 설명함. 사료곤충의 거트로딩을 검토하며, 육상 단계에서 지렁이를 거부하는 개체와 수중 단계의 먹이 반응 차이를 관찰.",
+      "lifeStages": "이 문헌은 계절별 육상·수중 관리와 번식 경험을 다룸. 번식용 저온 유지 예시를 일상 사육 적정 온도로 적용하지 않음.",
+      "healthNotes": "번식 냉각·절식·이동은 원문 시점과 경험 조건에 의존하므로 전문가 검토 없이 수치를 일반화하지 않음."
+    },
+    "habitats": [
+      "terrestrial",
+      "semiaquatic",
+      "aquatic"
+    ],
+    "diets": []
+  }
+}

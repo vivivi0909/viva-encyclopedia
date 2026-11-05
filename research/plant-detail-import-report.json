@@ -1,0 +1,715 @@
+{
+  "reviewedAt": "2026-11-05",
+  "total": 222,
+  "failures": [
+    {
+      "latin": "Taxiphyllum barbieri",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Alocasia baginda",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Alocasia cuprea",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Alocasia macrorrhizos",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Alocasia maharani",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Alocasia micholitziana",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Alocasia reginula",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Alocasia zebrina",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Anthurium clarinervium",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Anthurium crystallinum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Anthurium hookeri",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Anthurium magnificum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Anthurium veitchii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Anthurium vittarifolium",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Anthurium warocqueanum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Monstera lechleriana",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Monstera sp",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Monstera standleyana",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Philodendron brandtianum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Philodendron burle-marxii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Philodendron gloriosum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Philodendron mamei",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Philodendron melanochrysum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Philodendron plowmanii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Philodendron verrucosum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Thaumatophyllum bipinnatifidum",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Thaumatophyllum xanadu",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Xanthosoma sagittifolium",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Aporocactus flagelliformis",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Astrophytum asterias",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Carnegiea gigantea",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Kroenleinia grusonii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Mammillaria hahniana",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Parodia leninghausii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Blechnum gibbum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Microsorum diversifolium",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Pellaea rotundifolia",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Pteris cretica",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Ficus altissima",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Begonia coccinea",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Begonia ferox",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Begonia maculata",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Begonia rex-cultorum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Columnea gloriosa",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Cymbidium hybrids",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Jasminum polyanthum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Mandevilla sanderi",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Medinilla magnifica",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Paphiopedilum maudiae",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Spathiphyllum wallisii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Aglaonema commutatum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Dracaena reflexa",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Chamaedorea radicalis",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Dypsis lutescens",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Ctenanthe burle-marxii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Goeppertia concinna",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Goeppertia elliptica",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Amorphophallus titanum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Cupressus macrocarpa",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Geogenanthus ciliatus",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Heliconia rostrata",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Peperomia argyreia",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Welwitschia mirabilis",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Aeonium arboreum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Ceropegia linearis",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Cotyledon tomentosa",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Gasteria bicolor",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Haworthia cooperi",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Kalanchoe luciae",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Othonna capensis",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Pachyphytum oviferum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Pleiospilos nelii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Portulacaria afra",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Cissus discolor",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Cissus rhombifolia",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Dischidia nummularia",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Hoya callistophylla",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Hoya cumingiana",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Hoya lanceolata",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Hoya linearis",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Hoya mathilde",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Hoya obovata",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Hoya wayetii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Plectranthus verticillatus",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Aster alpinus",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Aubrieta deltoidea",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Campanula alpina",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Dianthus alpinus",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Leontopodium nivale",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Lewisia cotyledon",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Primula auricula",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Aegagropila brownii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Anubias barteri",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Aponogeton distachyos",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Aquarius grisebachii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Ceratophyllum demersum",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Equisetum hyemale",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Microsorum pteropus",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Drosera capensis",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Pinguicula moranensis",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Sheet moss",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Vanilla planifolia",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Various lichen",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Camassia quamash",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Crocus vernus",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Dahlia pinnata",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Scilla forbesii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Zantedeschia rehmannii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Delphinium ajacis",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Osteospermum ecklonis",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Andropogon gerardii",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Bouteloua curtipendula",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Cynodon dactylon",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Pennisetum alopecuroides",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Agapanthus africanus",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Alstroemeria aurea",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Aquilegia vulgaris",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    },
+    {
+      "latin": "Geranium pratense",
+      "errors": [
+        "source not present in local research cache"
+      ]
+    }
+  ],
+  "cachedOnly": true
+}

@@ -14,5 +14,13 @@
   "photographsFromINaturalist": 671,
   "careSpeciesWithSourceFacts": 58,
   "plantSpeciesWithNCFacts": 222,
-  "visuallyReplacedPhotos": 135
+  "visuallyReplacedPhotos": 135,
+  "speciesWithAddedDetailFields": 767,
+  "naturalHistorySpeciesWithADWFacts": 106,
+  "amphibianSpeciesWithAdditionalCare": 3,
+  "reptileSpeciesWithReproductionFacts": 275,
+  "publicCareGuideSpecies": 106,
+  "caudataAdditionalProfiles": 17,
+  "qualitativePlantHumidity": 251,
+  "additionalCareRoundAnimalProfiles": 108
 }

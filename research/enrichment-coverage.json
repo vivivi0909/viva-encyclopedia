@@ -1,0 +1,92 @@
+{
+  "reviewedAt": "2026-11-05",
+  "baselineCommit": "2bb37f748d2e817f379d686abdbf7a2ebc8942e2",
+  "totalEntries": 848,
+  "speciesWithAddedFields": 748,
+  "previouslyEmptyFieldsFilled": 4663,
+  "byKind": {
+    "plant": 340,
+    "reptile": 282,
+    "amphibian": 26,
+    "arthropod": 100
+  },
+  "changedNumericEnvironment": [
+    {
+      "latin": "Hypselotriton orientalis",
+      "before": {
+        "temp": null,
+        "humidity": null
+      },
+      "after": {
+        "temp": [
+          14,
+          20
+        ],
+        "humidity": null
+      },
+      "role": "water"
+    },
+    {
+      "latin": "Ambystoma mexicanum",
+      "before": {
+        "temp": null,
+        "humidity": null
+      },
+      "after": {
+        "temp": [
+          16,
+          18
+        ],
+        "humidity": null
+      },
+      "role": "water"
+    }
+  ],
+  "fieldCounts": {
+    "plant.soil": 202,
+    "plant.drainage": 340,
+    "plant.soilPh": 159,
+    "plant.plantingNotes": 340,
+    "plant.sourceLight": 222,
+    "plant.poisonEvidence": 112,
+    "plant.wateringMethod": 340,
+    "plant.lifeCycle": 220,
+    "plant.habit": 214,
+    "plant.plantType": 222,
+    "plant.sourceOrigin": 221,
+    "plant.leafTraits": 215,
+    "plant.poisonParts": 74,
+    "plant.poisonPrinciple": 77,
+    "plant.finalWidthCm": 200,
+    "animal.diets": 104,
+    "animal.feeding": 56,
+    "animal.substrate": 149,
+    "animal.hides": 72,
+    "animal.breeding": 306,
+    "animal.lifeStages": 79,
+    "animal.healthNotes": 89,
+    "animal.lifespanNotes": 90,
+    "animal.bodySizeNotes": 159,
+    "animal.behavior": 174,
+    "animal.climates": 75,
+    "animal.activities": 59,
+    "animal.habitats": 61,
+    "animal.uvb": 13,
+    "animal.humidityNotes": 3,
+    "animal.temperatureNotes": 1,
+    "animal.hobbyEnclosureNotes": 15
+  },
+  "sourceCoverage": {
+    "verified-natural-history": 106,
+    "verified-plant-details": 222,
+    "verified-care-details": 156,
+    "reproduction-facts": 275,
+    "verified-amphibian-care": 3
+  },
+  "notAdded": [
+    "Unverified temperature or humidity ranges",
+    "Air-humidity values for fully aquatic husbandry",
+    "Minimum enclosures inferred from wild lengths or hobby examples",
+    "Safe cohabitation or safe animal-plant matching inferred from similar climate"
+  ]
+}

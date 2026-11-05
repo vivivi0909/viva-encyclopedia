@@ -1,0 +1,2204 @@
+{
+  "Correlophus ciliatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Correlophus&species=ciliatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Correlophus sarasinorum": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Correlophus&species=sarasinorum&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Rhacodactylus auriculatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Rhacodactylus&species=auriculatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Rhacodactylus leachianus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Rhacodactylus&species=leachianus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Rhacodactylus trachyrhynchus": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Rhacodactylus&species=trachyrhynchus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Rhacodactylus trachycephalus": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Rhacodactylus&species=trachycephalus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Mniarogekko chahoua": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Mniarogekko&species=chahoua&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Eurydactylodes agricolae": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Eurydactylodes&species=agricolae&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Eurydactylodes vieillardi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Eurydactylodes&species=vieillardi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Eurydactylodes symmetricus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Eurydactylodes&species=symmetricus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Eurydactylodes occidentalis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Eurydactylodes&species=occidentalis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Eublepharis angramainyu": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Eublepharis&species=angramainyu&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Eublepharis hardwickii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Eublepharis&species=hardwickii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Hemitheconyx caudicinctus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Hemitheconyx&species=caudicinctus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Coleonyx variegatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Coleonyx&species=variegatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Coleonyx brevis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Coleonyx&species=brevis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Coleonyx elegans": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Coleonyx&species=elegans&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Coleonyx mitratus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Coleonyx&species=mitratus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Goniurosaurus hainanensis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Goniurosaurus&species=hainanensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Goniurosaurus luii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Goniurosaurus&species=luii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Goniurosaurus araneus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Goniurosaurus&species=araneus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Goniurosaurus lichtenfelderi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Goniurosaurus&species=lichtenfelderi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Goniurosaurus kuroiwae": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Goniurosaurus&species=kuroiwae&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Goniurosaurus orientalis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Goniurosaurus&species=orientalis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Goniurosaurus splendens": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Goniurosaurus&species=splendens&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Paroedura picta": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Paroedura&species=picta&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Paroedura androyensis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Paroedura&species=androyensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Paroedura bastardi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Paroedura&species=bastardi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Paroedura vazimba": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Paroedura&species=vazimba&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Phelsuma grandis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Phelsuma&species=grandis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Phelsuma madagascariensis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Phelsuma&species=madagascariensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Phelsuma laticauda": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Phelsuma&species=laticauda&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Phelsuma klemmeri": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Phelsuma&species=klemmeri&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Phelsuma standingi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Phelsuma&species=standingi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Phelsuma lineata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Phelsuma&species=lineata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Phelsuma quadriocellata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Phelsuma&species=quadriocellata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Phelsuma cepediana": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Phelsuma&species=cepediana&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Phelsuma ornata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Phelsuma&species=ornata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Phelsuma guimbeaui": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Phelsuma&species=guimbeaui&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Phelsuma robertmertensi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Phelsuma&species=robertmertensi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Phelsuma dubia": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Phelsuma&species=dubia&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lygodactylus williamsi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lygodactylus&species=williamsi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lygodactylus capensis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lygodactylus&species=capensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lygodactylus conraui": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lygodactylus&species=conraui&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Gekko gecko": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Gekko&species=gecko&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Gekko vittatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Gekko&species=vittatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Gekko badenii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Gekko&species=badenii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Gekko grossmanni": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Gekko&species=grossmanni&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Hemidactylus frenatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Hemidactylus&species=frenatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Hemidactylus platyurus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Hemidactylus&species=platyurus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Hemidactylus imbricatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Hemidactylus&species=imbricatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Teratoscincus scincus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Teratoscincus&species=scincus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Teratoscincus roborowskii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Teratoscincus&species=roborowskii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chondrodactylus bibronii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chondrodactylus&species=bibronii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pachydactylus rangei": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pachydactylus&species=rangei&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Tarentola mauritanica": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Tarentola&species=mauritanica&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Tarentola annularis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Tarentola&species=annularis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Uroplatus henkeli": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Uroplatus&species=henkeli&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Uroplatus sikorae": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Uroplatus&species=sikorae&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Uroplatus phantasticus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Uroplatus&species=phantasticus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Uroplatus lineatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Uroplatus&species=lineatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Uroplatus fimbriatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Uroplatus&species=fimbriatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Uroplatus guentheri": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Uroplatus&species=guentheri&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Nephrurus amyae": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Nephrurus&species=amyae&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Nephrurus levis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Nephrurus&species=levis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Nephrurus wheeleri": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Nephrurus&species=wheeleri&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Nephrurus laevissimus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Nephrurus&species=laevissimus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Underwoodisaurus milii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Underwoodisaurus&species=milii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Oedura castelnaui": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Oedura&species=castelnaui&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Oedura monilis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Oedura&species=monilis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Diplodactylus vittatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Diplodactylus&species=vittatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Strophurus ciliaris": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Strophurus&species=ciliaris&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Strophurus taenicauda": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Strophurus&species=taenicauda&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Tiliqua scincoides": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Tiliqua&species=scincoides&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Tiliqua gigas": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Tiliqua&species=gigas&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Tiliqua rugosa": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Tiliqua&species=rugosa&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Tiliqua multifasciata": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Tiliqua&species=multifasciata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Tiliqua nigrolutea": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Tiliqua&species=nigrolutea&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Tribolonotus gracilis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Tribolonotus&species=gracilis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Tribolonotus novaeguineae": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Tribolonotus&species=novaeguineae&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Egernia stokesii": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Egernia&species=stokesii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Egernia striolata": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Egernia&species=striolata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Corucia zebrata": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Corucia&species=zebrata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Mochlus fernandi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Mochlus&species=fernandi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chalcides ocellatus": {
+    "modes": [
+      "난태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chalcides&species=ocellatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chalcides sexlineatus": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chalcides&species=sexlineatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Plestiodon fasciatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Plestiodon&species=fasciatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Plestiodon inexpectatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Plestiodon&species=inexpectatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pogona henrylawsoni": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pogona&species=henrylawsoni&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chlamydosaurus kingii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chlamydosaurus&species=kingii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Intellagama lesueurii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Intellagama&species=lesueurii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Physignathus cocincinus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Physignathus&species=cocincinus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Uromastyx geyri": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Uromastyx&species=geyri&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Uromastyx ornata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Uromastyx&species=ornata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Uromastyx acanthinura": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Uromastyx&species=acanthinura&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Uromastyx dispar": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Uromastyx&species=dispar&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Uromastyx aegyptia": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Uromastyx&species=aegyptia&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Uromastyx ocellata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Uromastyx&species=ocellata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Stellagama stellio": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Stellagama&species=stellio&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Agama agama": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Agama&species=agama&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Hydrosaurus pustulatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Hydrosaurus&species=pustulatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Furcifer pardalis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Furcifer&species=pardalis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Furcifer oustaleti": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Furcifer&species=oustaleti&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Furcifer lateralis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Furcifer&species=lateralis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chamaeleo calyptratus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chamaeleo&species=calyptratus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Trioceros jacksonii": {
+    "modes": [
+      "난태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Trioceros&species=jacksonii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Trioceros melleri": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Trioceros&species=melleri&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Trioceros quadricornis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Trioceros&species=quadricornis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Trioceros deremensis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Trioceros&species=deremensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Rieppeleon brevicaudatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Rieppeleon&species=brevicaudatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Rhampholeon temporalis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Rhampholeon&species=temporalis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Anolis carolinensis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Anolis&species=carolinensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Anolis sagrei": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Anolis&species=sagrei&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Anolis equestris": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Anolis&species=equestris&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Anolis allisoni": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Anolis&species=allisoni&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Anolis distichus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Anolis&species=distichus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Basiliscus plumifrons": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Basiliscus&species=plumifrons&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Basiliscus basiliscus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Basiliscus&species=basiliscus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Crotaphytus collaris": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Crotaphytus&species=collaris&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Dipsosaurus dorsalis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Dipsosaurus&species=dorsalis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Sauromalus ater": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Sauromalus&species=ater&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Iguana iguana": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Iguana&species=iguana&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Cyclura cornuta": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Cyclura&species=cornuta&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Ctenosaura similis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Ctenosaura&species=similis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Ctenosaura pectinata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Ctenosaura&species=pectinata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Cachryx defensor": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Cachryx&species=defensor&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Salvator merianae": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Salvator&species=merianae&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Salvator rufescens": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Salvator&species=rufescens&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Tupinambis teguixin": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Tupinambis&species=teguixin&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Takydromus sexlineatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Takydromus&species=sexlineatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Gastropholis prasina": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Gastropholis&species=prasina&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Varanus acanthurus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=acanthurus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Varanus glauerti": {
+    "modes": [
+      "단위생식"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=glauerti&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Varanus gilleni": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=gilleni&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Varanus tristis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=tristis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Varanus pilbarensis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=pilbarensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Varanus prasinus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=prasinus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Varanus macraei": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=macraei&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Varanus reisingeri": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=reisingeri&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Varanus exanthematicus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=exanthematicus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Varanus albigularis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=albigularis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Varanus salvator": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=salvator&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Cordylus tropidosternum": {
+    "modes": [
+      "난태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Cordylus&species=tropidosternum&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Ouroborus cataphractus": {
+    "modes": [
+      "난태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Ouroborus&species=cataphractus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Broadleysaurus major": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Broadleysaurus&species=major&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Python regius": {
+    "modes": [
+      "난생",
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Python&species=regius&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Python brongersmai": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Python&species=brongersmai&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Python breitensteini": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Python&species=breitensteini&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Python curtus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Python&species=curtus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Python anchietae": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Python&species=anchietae&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Antaresia childreni": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Antaresia&species=childreni&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Antaresia maculosa": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Antaresia&species=maculosa&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Antaresia perthensis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Antaresia&species=perthensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Aspidites ramsayi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Aspidites&species=ramsayi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Aspidites melanocephalus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Aspidites&species=melanocephalus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Morelia spilota": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Morelia&species=spilota&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Morelia bredli": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Morelia&species=bredli&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Morelia viridis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Morelia&species=viridis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Morelia carinata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Morelia&species=carinata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Simalia amethistina": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Simalia&species=amethistina&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Simalia boeleni": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Simalia&species=boeleni&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Liasis olivaceus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Liasis&species=olivaceus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Liasis mackloti": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Liasis&species=mackloti&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Liasis fuscus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Liasis&species=fuscus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Bothrochilus boa": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Bothrochilus&species=boa&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Boa constrictor": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Boa&species=constrictor&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Acrantophis dumerili": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Acrantophis&species=dumerili&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Acrantophis madagascariensis": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Acrantophis&species=madagascariensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Epicrates cenchria": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Epicrates&species=cenchria&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Epicrates maurus": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Epicrates&species=maurus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chilabothrus angulifer": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chilabothrus&species=angulifer&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chilabothrus striatus": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chilabothrus&species=striatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Corallus hortulana": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Corallus&species=hortulana&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Corallus caninus": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Corallus&species=caninus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Eryx colubrinus": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Eryx&species=colubrinus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Eryx conicus": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Eryx&species=conicus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Eryx johnii": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Eryx&species=johnii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Charina bottae": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Charina&species=bottae&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lichanura trivirgata": {
+    "modes": [
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lichanura&species=trivirgata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pantherophis guttatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pantherophis&species=guttatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pantherophis obsoletus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pantherophis&species=obsoletus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pantherophis alleghaniensis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pantherophis&species=alleghaniensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pantherophis bairdi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pantherophis&species=bairdi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pantherophis emoryi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pantherophis&species=emoryi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pantherophis vulpinus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pantherophis&species=vulpinus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lampropeltis californiae": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lampropeltis&species=californiae&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lampropeltis getula": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lampropeltis&species=getula&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lampropeltis holbrooki": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lampropeltis&species=holbrooki&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lampropeltis nigra": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lampropeltis&species=nigra&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lampropeltis splendida": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lampropeltis&species=splendida&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lampropeltis alterna": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lampropeltis&species=alterna&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lampropeltis ruthveni": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lampropeltis&species=ruthveni&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lampropeltis triangulum": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lampropeltis&species=triangulum&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lampropeltis polyzona": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lampropeltis&species=polyzona&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lampropeltis gentilis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lampropeltis&species=gentilis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Lampropeltis leonis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Lampropeltis&species=leonis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pituophis catenifer": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pituophis&species=catenifer&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pituophis melanoleucus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pituophis&species=melanoleucus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pituophis ruthveni": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pituophis&species=ruthveni&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Elaphe schrenckii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Elaphe&species=schrenckii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Elaphe dione": {
+    "modes": [
+      "난태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Elaphe&species=dione&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Elaphe climacophora": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Elaphe&species=climacophora&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Gonyosoma boulengeri": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Gonyosoma&species=boulengeri&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Gonyosoma oxycephalum": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Gonyosoma&species=oxycephalum&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Elaphe taeniura": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Elaphe&species=taeniura&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Oreocryptophis porphyraceus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Oreocryptophis&species=porphyraceus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Zamenis situla": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Zamenis&species=situla&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Zamenis longissimus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Zamenis&species=longissimus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Zamenis persicus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Zamenis&species=persicus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Boaedon fuliginosus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Boaedon&species=fuliginosus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Boaedon lineatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Boaedon&species=lineatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Dasypeltis scabra": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Dasypeltis&species=scabra&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Dasypeltis gansi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Dasypeltis&species=gansi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Thamnophis sirtalis": {
+    "modes": [
+      "난태생",
+      "태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Thamnophis&species=sirtalis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Thamnophis radix": {
+    "modes": [
+      "난태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Thamnophis&species=radix&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Thamnophis marcianus": {
+    "modes": [
+      "난태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Thamnophis&species=marcianus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Thamnophis eques": {
+    "modes": [
+      "난태생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Thamnophis&species=eques&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Heterodon nasicus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Heterodon&species=nasicus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Heterodon kennerlyi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Heterodon&species=kennerlyi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Heterodon platirhinos": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Heterodon&species=platirhinos&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Drymarchon couperi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Drymarchon&species=couperi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Drymarchon melanurus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Drymarchon&species=melanurus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Testudo hermanni": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Testudo&species=hermanni&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Centrochelys sulcata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Centrochelys&species=sulcata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Stigmochelys pardalis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Stigmochelys&species=pardalis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chelonoidis carbonarius": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chelonoidis&species=carbonarius&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chelonoidis denticulatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chelonoidis&species=denticulatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chelonoidis chilensis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chelonoidis&species=chilensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Kinixys belliana": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Kinixys&species=belliana&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Kinixys homeana": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Kinixys&species=homeana&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Kinixys erosa": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Kinixys&species=erosa&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Indotestudo elongata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Indotestudo&species=elongata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Indotestudo forstenii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Indotestudo&species=forstenii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Malacochersus tornieri": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Malacochersus&species=tornieri&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Geochelone elegans": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Geochelone&species=elegans&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Geochelone platynota": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Geochelone&species=platynota&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Manouria emys": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Manouria&species=emys&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Manouria impressa": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Manouria&species=impressa&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Sternotherus odoratus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Sternotherus&species=odoratus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Sternotherus carinatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Sternotherus&species=carinatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Sternotherus minor": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Sternotherus&species=minor&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Kinosternon baurii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Kinosternon&species=baurii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Kinosternon subrubrum": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Kinosternon&species=subrubrum&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Kinosternon flavescens": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Kinosternon&species=flavescens&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Kinosternon leucostomum": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Kinosternon&species=leucostomum&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Kinosternon scorpioides": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Kinosternon&species=scorpioides&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pelomedusa subrufa": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pelomedusa&species=subrufa&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pelomedusa olivacea": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pelomedusa&species=olivacea&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pelusios castaneus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pelusios&species=castaneus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pelusios carinatus": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pelusios&species=carinatus&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Emydura subglobosa": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Emydura&species=subglobosa&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Emydura macquarii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Emydura&species=macquarii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chelodina longicollis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chelodina&species=longicollis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chelodina mccordi": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chelodina&species=mccordi&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Chelodina rugosa": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Chelodina&species=rugosa&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Mesoclemmys gibba": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Mesoclemmys&species=gibba&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Rhinoclemmys pulcherrima": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Rhinoclemmys&species=pulcherrima&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Rhinoclemmys punctularia": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Rhinoclemmys&species=punctularia&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Geoemyda spengleri": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Geoemyda&species=spengleri&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Cuora flavomarginata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Cuora&species=flavomarginata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Cuora galbinifrons": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Cuora&species=galbinifrons&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Cyclemys dentata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Cyclemys&species=dentata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Graptemys pseudogeographica": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Graptemys&species=pseudogeographica&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Graptemys geographica": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Graptemys&species=geographica&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Graptemys ouachitensis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Graptemys&species=ouachitensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Graptemys nigrinoda": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Graptemys&species=nigrinoda&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Clemmys guttata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Clemmys&species=guttata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Glyptemys insculpta": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Glyptemys&species=insculpta&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Terrapene carolina": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Terrapene&species=carolina&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Terrapene ornata": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Terrapene&species=ornata&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pseudemys concinna": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pseudemys&species=concinna&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Pseudemys nelsoni": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Pseudemys&species=nelsoni&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Mauremys reevesii": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Mauremys&species=reevesii&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Mauremys japonica": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Mauremys&species=japonica&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  },
+  "Mauremys sinensis": {
+    "modes": [
+      "난생"
+    ],
+    "sourceUrl": "https://reptile-database.reptarium.cz/species?genus=Mauremys&species=sinensis&search_param=%28%28search%3D%27a%27%29%29",
+    "sourceIndex": "https://github.com/indicwiki-iiit/Reptile-Database/tree/724fd058b71fea81a417ee007288ce50061eba2b",
+    "reviewedAt": "2026-11-05"
+  }
+}

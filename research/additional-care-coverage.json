@@ -1,0 +1,596 @@
+{
+  "reviewedAt": "2026-11-05",
+  "additionalAnimalProfiles": 108,
+  "additionalFields": 719,
+  "byKind": {
+    "reptile": 80,
+    "amphibian": 27,
+    "arthropod": 1
+  },
+  "qualitativePlantHumidity": 251,
+  "sourceCoverage": {
+    "publicCareGuides": 106,
+    "individualSpeciesGuides": 90,
+    "caudataProfiles": 17
+  },
+  "environmentChanges": [
+    {
+      "latin": "Pelodryas caerulea",
+      "temperature": [
+        23.3,
+        24.4
+      ],
+      "tempRole": "ambient",
+      "humidity": null,
+      "humidityLabel": "평균 50% · 일시 최고 70%",
+      "sourceUrl": "https://reptilesupply.com/blogs/frog-care-sheets/how-to-care-for-your-whites-tree-frog"
+    },
+    {
+      "latin": "Correlophus sarasinorum",
+      "temperature": [
+        21.1,
+        26.7
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        60,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-sarasinorum-gecko"
+    },
+    {
+      "latin": "Coleonyx variegatus",
+      "temperature": [
+        22.2,
+        25
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        30,
+        40
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-western-banded-gecko"
+    },
+    {
+      "latin": "Coleonyx brevis",
+      "temperature": [
+        22.2,
+        32.2
+      ],
+      "tempRole": "ambient",
+      "humidity": [
+        30,
+        40
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-texas-banded-gecko"
+    },
+    {
+      "latin": "Lygodactylus williamsi",
+      "temperature": null,
+      "humidity": [
+        60,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-electric-blue-gecko"
+    },
+    {
+      "latin": "Gekko vittatus",
+      "temperature": [
+        23.9,
+        26.7
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        65,
+        75
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-lined-gecko"
+    },
+    {
+      "latin": "Gekko badenii",
+      "temperature": [
+        23.9,
+        29.4
+      ],
+      "tempRole": "ambient",
+      "humidity": [
+        60,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-golden-gecko"
+    },
+    {
+      "latin": "Cyclodomorphus gerrardii",
+      "temperature": [
+        23.9,
+        26.7
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        70,
+        90
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-pink-tongued-skink"
+    },
+    {
+      "latin": "Egernia stokesii",
+      "temperature": null,
+      "humidity": [
+        40,
+        60
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-gidgee-skink"
+    },
+    {
+      "latin": "Corucia zebrata",
+      "temperature": [
+        23.9,
+        25
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        60,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-solomon-islands-skink"
+    },
+    {
+      "latin": "Scincopus fasciatus",
+      "temperature": [
+        23.9,
+        26.7
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": null,
+      "humidityLabel": "평균 50%",
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-peters-banded-skink"
+    },
+    {
+      "latin": "Scincus scincus",
+      "temperature": [
+        26.7,
+        32.2
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": null,
+      "humidityLabel": "평균 50%",
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-sandfish-skink"
+    },
+    {
+      "latin": "Pogona henrylawsoni",
+      "temperature": [
+        23.9,
+        29.4
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        30,
+        50
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-rankins-dragon"
+    },
+    {
+      "latin": "Chlamydosaurus kingii",
+      "temperature": [
+        29.4,
+        32.2
+      ],
+      "tempRole": "ambient",
+      "humidity": null,
+      "humidityLabel": "평균 70%",
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-frilled-lizard"
+    },
+    {
+      "latin": "Stellagama stellio",
+      "temperature": [
+        21.1,
+        29.4
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": null,
+      "humidityLabel": "습도 조건별 기록 · 상세 참조",
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-painted-agama"
+    },
+    {
+      "latin": "Furcifer lateralis",
+      "temperature": [
+        21.1,
+        23.9
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": null,
+      "humidityLabel": "평균 70%",
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-carpet-chameleon"
+    },
+    {
+      "latin": "Trioceros melleri",
+      "temperature": [
+        21.1,
+        23.9
+      ],
+      "tempRole": "ambient",
+      "humidity": null,
+      "humidityLabel": "습도 조건별 기록 · 상세 참조",
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-meller-s-chameleon"
+    },
+    {
+      "latin": "Anolis equestris",
+      "temperature": [
+        23.9,
+        26.7
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        70,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-cuban-knight-anole"
+    },
+    {
+      "latin": "Basiliscus plumifrons",
+      "temperature": [
+        26.7,
+        29.4
+      ],
+      "tempRole": "ambient",
+      "humidity": [
+        60,
+        70
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-green-basilisk"
+    },
+    {
+      "latin": "Dipsosaurus dorsalis",
+      "temperature": [
+        21.1,
+        29.4
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        15,
+        30
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-desert-iguana"
+    },
+    {
+      "latin": "Cyclura cornuta",
+      "temperature": [
+        23.9,
+        31.1
+      ],
+      "tempRole": "ambient",
+      "humidity": null,
+      "humidityLabel": "습도 조건별 기록 · 상세 참조",
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-rhino-iguana"
+    },
+    {
+      "latin": "Takydromus sexlineatus",
+      "temperature": [
+        23.9,
+        29.4
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        70,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-long-tailed-grass-lizard"
+    },
+    {
+      "latin": "Gastropholis prasina",
+      "temperature": null,
+      "humidity": [
+        60,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-green-keel-bellied-lizard"
+    },
+    {
+      "latin": "Varanus prasinus",
+      "temperature": [
+        23.9,
+        27.8
+      ],
+      "tempRole": "ambient",
+      "humidity": null,
+      "humidityLabel": "일시 최고 75%",
+      "sourceUrl": "https://dubiaroaches.com/blogs/lizard-care/green-tree-monitor-care-sheet"
+    },
+    {
+      "latin": "Broadleysaurus major",
+      "temperature": [
+        23.9,
+        26.7
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        20,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/care-sheets/how-to-care-for-your-sudan-plated-lizard"
+    },
+    {
+      "latin": "Antaresia childreni",
+      "temperature": null,
+      "humidity": [
+        20,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/snake-care-sheets/how-to-care-for-your-children-s-python"
+    },
+    {
+      "latin": "Corallus caninus",
+      "temperature": null,
+      "humidity": [
+        70,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/snake-care-sheets/how-to-care-for-your-emerald-tree-boa"
+    },
+    {
+      "latin": "Eryx conicus",
+      "temperature": null,
+      "humidity": [
+        50,
+        65
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/snake-care-sheets/how-to-care-for-your-rough-scaled-sand-boa"
+    },
+    {
+      "latin": "Pituophis melanoleucus",
+      "temperature": null,
+      "humidity": [
+        60,
+        70
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/snake-care-sheets/how-to-care-for-your-pine-snake"
+    },
+    {
+      "latin": "Gonyosoma boulengeri",
+      "temperature": [
+        23.9,
+        26.7
+      ],
+      "tempRole": "ambient",
+      "humidity": [
+        50,
+        100
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/snake-care-sheets/how-to-care-for-your-rhino-rat-snake"
+    },
+    {
+      "latin": "Oreocryptophis porphyraceus",
+      "temperature": [
+        20,
+        23.3
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        70,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/snake-care-sheets/how-to-care-for-your-bamboo-ratsnake"
+    },
+    {
+      "latin": "Boaedon fuliginosus",
+      "temperature": null,
+      "humidity": [
+        40,
+        60
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/snake-care-sheets/how-to-care-for-your-african-house-snake"
+    },
+    {
+      "latin": "Testudo hermanni",
+      "temperature": [
+        23.9,
+        29.4
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        40,
+        60
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/tortoise-care-sheets/how-to-care-for-your-hermann-s-tortoise"
+    },
+    {
+      "latin": "Testudo graeca",
+      "temperature": [
+        23.9,
+        29.4
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        65,
+        70
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/tortoise-care-sheets/how-to-care-for-your-greek-tortoise"
+    },
+    {
+      "latin": "Stigmochelys pardalis",
+      "temperature": [
+        23.9,
+        29.4
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        40,
+        50
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/tortoise-care-sheets/how-to-care-for-your-leopard-tortoise"
+    },
+    {
+      "latin": "Geochelone elegans",
+      "temperature": [
+        23.9,
+        29.4
+      ],
+      "tempRole": "cool_zone_reference",
+      "humidity": [
+        70,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/tortoise-care-sheets/how-to-care-for-your-indian-star-tortoise"
+    },
+    {
+      "latin": "Geoemyda spengleri",
+      "temperature": [
+        20,
+        26.7
+      ],
+      "tempRole": "ambient",
+      "humidity": [
+        60,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/turtle-care-sheets/how-to-care-for-your-black-breasted-leaf-turtle"
+    },
+    {
+      "latin": "Cyclemys dentata",
+      "temperature": [
+        24.4,
+        26.7
+      ],
+      "tempRole": "ambient",
+      "humidity": null,
+      "humidityLabel": "평균 80%",
+      "sourceUrl": "https://reptilesupply.com/blogs/turtle-care-sheets/how-to-care-for-your-asian-leaf-turtle"
+    },
+    {
+      "latin": "Agalychnis callidryas",
+      "temperature": [
+        22.2,
+        25.6
+      ],
+      "tempRole": "ambient",
+      "humidity": [
+        60,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/frog-care-sheets/how-to-care-for-your-red-eyed-or-green-eyed-tree-frog"
+    },
+    {
+      "latin": "Bombina orientalis",
+      "temperature": null,
+      "humidity": [
+        50,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/frog-care-sheets/how-to-care-for-your-fire-bellied-toad-1"
+    },
+    {
+      "latin": "Trachycephalus resinifictrix",
+      "temperature": null,
+      "humidity": [
+        50,
+        90
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/frog-care-sheets/how-to-care-for-your-amazon-milk-frog"
+    },
+    {
+      "latin": "Ceratophrys ornata",
+      "temperature": [
+        23.9,
+        26.7
+      ],
+      "tempRole": "ambient",
+      "humidity": [
+        60,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/frog-care-sheets/how-to-care-for-your-pacman-frog"
+    },
+    {
+      "latin": "Dyscophus guineti",
+      "temperature": null,
+      "humidity": [
+        70,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/frog-care-sheets/how-to-care-for-your-tomato-frog"
+    },
+    {
+      "latin": "Ambystoma maculatum",
+      "temperature": null,
+      "humidity": [
+        50,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/salamander-care/how-to-care-for-your-spotted-salamander"
+    },
+    {
+      "latin": "Ambystoma opacum",
+      "temperature": null,
+      "humidity": [
+        50,
+        80
+      ],
+      "humidityLabel": null,
+      "sourceUrl": "https://reptilesupply.com/blogs/salamander-care/how-to-care-for-your-marbled-salamander"
+    },
+    {
+      "latin": "Cynops ensicauda",
+      "temperature": [
+        20,
+        24
+      ],
+      "tempRole": "water",
+      "humidity": null,
+      "humidityLabel": null,
+      "sourceUrl": "https://www.caudata.org/cc/species/Cynops/C_ensicauda.shtml"
+    }
+  ],
+  "filledFieldCounts": {
+    "lifeStages": 34,
+    "feeding": 70,
+    "substrate": 63,
+    "hides": 73,
+    "uvb": 57,
+    "healthNotes": 64,
+    "temperatureNotes": 63,
+    "humidityNotes": 51,
+    "careEnclosureNotes": 51,
+    "activities": 35,
+    "habitats": 48,
+    "diets": 38,
+    "behavior": 54,
+    "groupCareNotes": 18
+  },
+  "unverifiedInformation": "Unconfirmed fields remain labeled and accessible; means, peaks, seasons and measurement roles are not merged; retail enclosure examples are not verified minima.",
+  "qualitativeHumidityMeaning": "Existing source preferences newly exposed on cards; not new numerical ranges",
+  "cumulativeSpeciesWithAddedFields": 767
+}

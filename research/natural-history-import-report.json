@@ -1,0 +1,2424 @@
+{
+  "reviewedAt": "2026-11-05",
+  "total": 106,
+  "cachedOnly": true,
+  "failures": [
+    {
+      "latin": "Correlophus ciliatus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Porcellio laevis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Correlophus sarasinorum",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Rhacodactylus auriculatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Rhacodactylus leachianus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Rhacodactylus trachyrhynchus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Rhacodactylus trachycephalus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Mniarogekko chahoua",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Eurydactylodes agricolae",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Eurydactylodes vieillardi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Eurydactylodes symmetricus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Eurydactylodes occidentalis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Eublepharis angramainyu",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Eublepharis hardwickii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Coleonyx variegatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Coleonyx elegans",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Coleonyx mitratus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Goniurosaurus hainanensis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Goniurosaurus luii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Goniurosaurus araneus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Goniurosaurus lichtenfelderi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Goniurosaurus kuroiwae",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Goniurosaurus orientalis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Goniurosaurus splendens",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Paroedura picta",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Paroedura androyensis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Paroedura bastardi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Paroedura vazimba",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phelsuma grandis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Phelsuma laticauda",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phelsuma klemmeri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phelsuma standingi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phelsuma lineata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phelsuma quadriocellata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phelsuma cepediana",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phelsuma guimbeaui",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phelsuma robertmertensi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phelsuma dubia",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Lygodactylus williamsi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Lygodactylus capensis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Lygodactylus conraui",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Lepidodactylus lugubris",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Gekko vittatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Gekko badenii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Gekko grossmanni",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Hemidactylus platyurus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Hemidactylus imbricatus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Teratoscincus scincus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Teratoscincus keyserlingii",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Teratoscincus roborowskii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Chondrodactylus bibronii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Tarentola mauritanica",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Tarentola annularis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Uroplatus henkeli",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Uroplatus sikorae",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Uroplatus phantasticus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Uroplatus lineatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Uroplatus fimbriatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Uroplatus guentheri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Nephrurus amyae",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Nephrurus levis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Nephrurus wheeleri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Nephrurus laevissimus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Underwoodisaurus milii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Oedura castelnaui",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Oedura monilis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Diplodactylus vittatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Strophurus ciliaris",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Strophurus taenicauda",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Tiliqua gigas",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Tiliqua multifasciata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Cyclodomorphus gerrardii",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Tribolonotus gracilis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Tribolonotus novaeguineae",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Egernia stokesii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Egernia striolata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Corucia zebrata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Mochlus fernandi",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Scincopus fasciatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Chalcides ocellatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Chalcides sexlineatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Plestiodon inexpectatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Pogona henrylawsoni",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Intellagama lesueurii",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Physignathus cocincinus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Uromastyx geyri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Uromastyx ornata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Uromastyx dispar",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Uromastyx aegyptia",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Uromastyx ocellata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Uromastyx nigriventris",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Stellagama stellio",
+      "errors": [
+        "scientific name absent from source title",
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Hydrosaurus pustulatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Furcifer oustaleti",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Chamaeleo dilepis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Trioceros jacksonii",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Trioceros melleri",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Trioceros quadricornis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Trioceros deremensis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Rieppeleon brevicaudatus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Rhampholeon temporalis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Anolis sagrei",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Anolis allisoni",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Anolis distichus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Basiliscus plumifrons",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ctenosaura pectinata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Cachryx defensor",
+      "errors": [
+        "scientific name absent from source title",
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Salvator merianae",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Salvator rufescens",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Tupinambis teguixin",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Takydromus sexlineatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Gastropholis prasina",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Varanus acanthurus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Varanus glauerti",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Varanus gilleni",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Varanus tristis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Varanus pilbarensis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Varanus macraei",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Varanus reisingeri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Varanus albigularis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Cordylus tropidosternum",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ouroborus cataphractus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Broadleysaurus major",
+      "errors": [
+        "scientific name absent from source title",
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Shinisaurus crocodilurus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Python brongersmai",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Python breitensteini",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Python curtus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Python anchietae",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Antaresia childreni",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Antaresia maculosa",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Aspidites ramsayi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Morelia spilota",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Morelia bredli",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Morelia carinata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Simalia amethistina",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Simalia boeleni",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Liasis olivaceus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Liasis mackloti",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Liasis fuscus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Bothrochilus boa",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Boa imperator",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Acrantophis dumerili",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Acrantophis madagascariensis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Epicrates maurus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Chilabothrus angulifer",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Chilabothrus striatus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Corallus hortulana",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Eryx colubrinus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Eryx conicus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Eryx johnii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Lichanura trivirgata",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Pantherophis alleghaniensis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Pantherophis bairdi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Lampropeltis californiae",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Lampropeltis holbrooki",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Lampropeltis nigra",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Lampropeltis splendida",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Lampropeltis alterna",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Lampropeltis ruthveni",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Lampropeltis polyzona",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Lampropeltis gentilis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Lampropeltis leonis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Elaphe schrenckii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Elaphe dione",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Elaphe climacophora",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Gonyosoma boulengeri",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Gonyosoma oxycephalum",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Elaphe taeniura",
+      "errors": [
+        "scientific name absent from source title",
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Oreocryptophis porphyraceus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Zamenis situla",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Zamenis longissimus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Zamenis persicus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Boaedon fuliginosus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Boaedon capensis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Boaedon lineatus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Dasypeltis scabra",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Dasypeltis gansi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Thamnophis eques",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Heterodon kennerlyi",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Drymarchon melanurus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Testudo graeca",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Testudo marginata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Testudo horsfieldii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Centrochelys sulcata",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Stigmochelys pardalis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Chelonoidis carbonarius",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Chelonoidis denticulatus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Chelonoidis chilensis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Kinixys belliana",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Kinixys homeana",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Kinixys erosa",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Indotestudo elongata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Indotestudo forstenii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Malacochersus tornieri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Geochelone platynota",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Manouria impressa",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Kinosternon baurii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Kinosternon leucostomum",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Kinosternon scorpioides",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Pelomedusa subrufa",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Pelomedusa olivacea",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Pelusios castaneus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Pelusios carinatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Pelusios subniger",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Emydura macquarii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Chelodina rugosa",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Mesoclemmys gibba",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Rhinoclemmys punctularia",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Geoemyda spengleri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Cuora galbinifrons",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Cyclemys dentata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Mauremys reevesii",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Mauremys japonica",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Mauremys sinensis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Hymenochirus curtipes",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Hymenochirus boettgeri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Occidozyga lima",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Hymenochirus boulengeri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ceratophrys cranwelli",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Dendropsophus ebraccatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ranitomeya fantastica",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Trachycephalus resinifictrix",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ranitomeya ventrimaculata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ceratophrys ornata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ranitomeya imitator",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Pelobatrachus nasuta",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Ranitomeya reticulata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ameerega bassleri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Kaloula pulchra",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Theloderma corticale",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Rhacophorus reinwardtii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ranitomeya variabilis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Polypedates leucomystax",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Epipedobates tricolor",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phyllomedusa bicolor",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Dyscophus guineti",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ranitomeya sirensis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Adelphobates galactonotus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Cruziohyla craspedopus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Rana pipiens",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Ameerega trivittata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ranitomeya vanzolinii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Cochranella granulosa",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ameerega hahneli",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Polypedates otilophus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Hoplobatrachus rugulosus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Epipedobates anthonyi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ranitomeya amazonica",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phyllobates vittatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Triprion petasatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Bombina variegata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Oophaga sylvatica",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Agalychnis lemur",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Mantella viridis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phyllomedusa sauvagii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ranitomeya flavovittata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Cornufer guentheri",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Leptopelis broadleyi",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Bombina bombina",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Cruziohyla calcarifer",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Dendrobates truncatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ranitomeya benedicta",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ameerega silverstonei",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phyllobates aurotaenia",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phyllomedusa vaillantii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Mantella betsileo",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Mantella expectata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ranitomeya uakarii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Zhangixalus dennysi",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Bufo gargarizans",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Bufotes viridis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Dendropsophus leucophyllatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Mantella crocea",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Phyllobates lugubris",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Smilisca phaeota",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Hyla arborea",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Agalychnis spurrelli",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Hypselotriton orientalis",
+      "errors": [
+        "scientific name absent from source title",
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Pachytriton brevipes",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Paramesotriton hongkongensis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Cynops pyrrhogaster",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Hypselotriton cyanurus",
+      "errors": [
+        "scientific name absent from source title",
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Tylototriton verrucosus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Paramesotriton labiatus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Pleurodeles waltl",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Tylototriton kweichowensis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Bolitoglossa dofleini",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Neurergus crocatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Paramesotriton chinensis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Tylototriton shanjing",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Ambystoma andersoni",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Paramesotriton caudopunctatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Triturus cristatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Tylototriton taliangensis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Onychodactylus japonicus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Triturus carnifex",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Triturus marmoratus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Cynops ensicauda",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Laotriton laoensis",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Necturus beyeri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Dermophis mexicanus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Geotrypetes seraphini",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillidium maculatum",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Armadillidium klugii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillidium gestroi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillidium granulatum",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillidium werneri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillidium peraccae",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillidium depressum",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Armadillidium badium",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillidium nasatum",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillidium espanyoli",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillidium arcangelii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillidium pictum",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Armadillidium versicolor",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillidium decorum",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillidium album",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Cristarmadillidium muricatum",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Schizidium tiberianum",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Schizidium hybridum",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Eluma caelata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Cubaris murina",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillo officinalis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Armadillo tuberculatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Troglodillo rotundatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Venezillo parvus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Venezillo arizonicus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Nesodillo arcangelii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Merulanella bicolorata",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Reductoniscus costulatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Spherillo danae",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Pseudarmadillo spinosus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Porcellio dilatatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio hoffmannseggii",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Porcellio werneri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio magnificus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio haasi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio ornatus",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Porcellio expansus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio nicklesi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio spatulatus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Porcellio spinicornis",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Porcellio incanus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio echinatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio lamellatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio wagneri",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio bolivari",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio albinus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio gallicus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio obsoletus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio monticola",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio silvestrii",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Porcellio succinctus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio flavomarginatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellio duboscqui",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellionides pruinosus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellionides floria",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellionides myrmecophilus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Porcellionides sexfasciatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Agabiformius lentus",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Cylisticus convexus",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Oniscus asellus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Philoscia muscorum",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Philoscia affinis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Atlantoscia floridana",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Trachelipus rathkii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Nagurus cristatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Nagurus nanus",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Trichorhina tomentosa",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Platyarthrus hoffmannseggii",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Platyarthrus aiasensis",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Niambia capensis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Androniscus dentiger",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Trichoniscus pusillus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Buddelundiella cataractae",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Hemilepistus reaumuri",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Hemilepistus elongatus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ligia exotica",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ligia oceanica",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Ligidium hypnorum",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Tylos punctatus",
+      "errors": [
+        "no structured natural-history facts",
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Helleria brevicornis",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Deto echinata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Acanthoscurria geniculata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Brachypelma hamorii",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Chromatopelma cyaneopubescens",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Ceratogyrus darlingi",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Grammostola pulchripes",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Heteroscodra maculata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Harpactira pulchripes",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Lasiodora parahybana",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Neoholothele incei",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    },
+    {
+      "latin": "Psalmopoeus cambridgei",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Psalmopoeus irminia",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Poecilotheria metallica",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Pterinochilus murinus",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Poecilotheria rufilata",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Stromatopelma calceatum",
+      "errors": [
+        "no structured natural-history facts"
+      ]
+    },
+    {
+      "latin": "Tapinauchenius violaceus",
+      "errors": [
+        "scientific name absent from source title"
+      ]
+    }
+  ]
+}

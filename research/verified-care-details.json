@@ -1,0 +1,2267 @@
+{
+  "Varanus acanthurus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/057158e55418ea1a4ba28e2b15f64bdc2007a503.pdf",
+    "sourceTitle": "Ackie Monitor Ackie Monitor · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "a0872a948de29ca0874fd76ef14c21b06fa048fd3b645b4c7b7237f5bc012c41",
+    "fields": {
+      "feeding": "곤충 중심 식단. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 갓 부화한 개체 및 유체 (0-6 개월) — 매일 / 아성체 및 성체 (>6 개월) — 격일 / 번식 중인 암컷 — 매일",
+      "substrate": "고운 모래 또는 모래질 토양. 굴파기용 층 깊이는 성별·성장 단계에 따른 원문 조건 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Hemitheconyx caudicinctus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/4e5d983ba1fd6f88e1cc5afcda68136b3bb6142e.pdf",
+    "sourceTitle": "African Fat-Tailed Gecko African Fat-Tailed Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "53a04962780733bfeb495e72ac269e23ee68e36144bcf3224de467dab77f84ef",
+    "fields": {
+      "feeding": "곤충 중심 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 모래 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 속이 빈 통나무, 가지 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 개체 간 충돌 시 심각한 부상 가능성을 경고함. 넓은 공간만으로 합사 안전성을 보장하지 않음.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Pogona vitticeps": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/95ad1cad983f4fc5e1652176a1b7d773823f8fcd.pdf",
+    "sourceTitle": "Bearded Dragon Bearded Dragon · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "88eb6c29639a29d49ddc71eaa45489b74657a481fdf16c6e362f136c17cf13e9",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 갓 부화한 개체 (0-6 개월령): 곤충 2회/일, 채소 매일 / 유체 (6-12 개월령): 곤충 1회/일, 채소 매일 / 성체 (>12 개월령): 곤충 2-3회/주, 채소 매일",
+      "substrate": "원문 배합 예시에 표토, 모래, 점토 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 식물·잎 은폐물, 바위·판석 구조물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Phelsuma cepediana": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/08e8aa1067d0a128fbeffb5f808e709b0c5f767a.pdf",
+    "sourceTitle": "Blue-Tailed Day Gecko Blue Tailed Day Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "4e91dff9f81ef9afde2e45ed5ee0a691f56062eae88181095712c6efb41c5dfb",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 (0-6 개월) — 곤충 매일, 크레스티드 게코용 완전배합식(CGD) 격일 / 아성체 및 성체 (>6 개월) — 곤충 2회/주, 크레스티드 게코용 완전배합식(CGD) 2회/주",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Mniarogekko chahoua": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/ec8ff675e6eb893947eb06fd8c39b6de79753c80.pdf",
+    "sourceTitle": "Chahoua Gecko Chahoua Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "95e41be5cba0598742f7e843c3cb7fb46ed21f074715c03aee307106cdcd7059",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 (0-12 개월) — 크레스티드 게코용 완전배합식(CGD) 매일, 곤충 격일 / 성체 (>12 개월) — 크레스티드 게코용 완전배합식(CGD) 격일, 곤충 격일",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 단독 사육을 권하거나 복수 개체의 스트레스·자원 경쟁·갈등을 지적함. 다른 종과의 합사 안전성도 확인된 것으로 보지 않음.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "not-recommended"
+  },
+  "Physignathus cocincinus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/3c1b1377968c15ee970cdde5aa5d3d4209d6cb6f.pdf",
+    "sourceTitle": "Chinese Water Dragon Chinese Water Dragon · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "572784e99ab61919822d499f999b1218a00b03826ef313bb11e94191770c48dc",
+    "fields": {
+      "feeding": "곤충 중심 식단. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 갓 부화한 개체 (<3 개월령) — 곤충 매일 / 유체 (<16” long) — 곤충 및 채소식 격일 / 아성체 및 성체 (>16” long) — 곤충 매 3-5 일, 채소식 매일",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Sauromalus ater": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/b9f7dbf14552ff4bc879ec15f7cf1a7032b5cd2a.pdf",
+    "sourceTitle": "Common Chuckwalla Common Chuckwalla · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "d3354a427c2584efd4f710f1f729877356e4f1b04c7163a7d76623885d2f7fd0",
+    "fields": {
+      "feeding": "식물성 먹이 중심 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "고운 모래 또는 모래질 토양. 굴파기용 층 깊이는 성별·성장 단계에 따른 원문 조건 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 수컷끼리의 합사 금지·회피를 명시함. 암수 또는 암컷 조합이 안전하다는 의미는 아니며 개별 분리 사육과 위험 검토가 필요함.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "herbivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Correlophus ciliatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/3fbcb32129c833cded28d5e248c9dbbb8731a568.pdf",
+    "sourceTitle": "Crested Gecko Crested Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "b5d8c252f78fcf1cbf2085c9f2cd218c1e792f8b3c478386025742d3d8ca61ab",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 갓 부화한 개체 및 유체 (0-12 개월) — 크레스티드 게코용 완전배합식(CGD) 매일, 곤충 1-2회/주 / 성체 (>12 개월) — 크레스티드 게코용 완전배합식(CGD) 매 2-3 일, 곤충 1회/주",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 가지 구조물, 덩굴 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 수컷끼리의 합사 금지·회피를 명시함. 암수 또는 암컷 조합이 안전하다는 의미는 아니며 개별 분리 사육과 위험 검토가 필요함.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Mochlus fernandi": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/e62c59011c0028f7b28335b243791357bc5ce86b.pdf",
+    "sourceTitle": "Fire Skink Fire Skink · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "7f8a01a8e348816b057ca707d31dbbaddbfe7337e66844152dc86ad191b2afd6",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유, 모래 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 속이 빈 통나무, 가지 구조물, 식물·잎 은폐물, 바위·판석 구조물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 수컷끼리의 합사 금지·회피를 명시함. 암수 또는 암컷 조합이 안전하다는 의미는 아니며 개별 분리 사육과 위험 검토가 필요함.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Rhacodactylus auriculatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/0332a8a3a8d380e28261d5c4e9327ee03f2c38b1.pdf",
+    "sourceTitle": "Gargoyle Gecko Gargoyle Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "60e0dfa580e2a1cf19bb5921167e3c6582e153f24eb8301052bdcb3cf596a61a",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 동물성 먹이 중심 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 갓 부화한 개체 및 유체 (0-12 개월) — 크레스티드 게코용 완전배합식(CGD) 매일, 곤충 1-2회/주 / 성체 (>12 개월) — 크레스티드 게코용 완전배합식(CGD) 매 2-3 일, 곤충 1회/주",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 가지 구조물, 덩굴 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 수컷끼리의 합사 금지·회피를 명시함. 암수 또는 암컷 조합이 안전하다는 의미는 아니며 개별 분리 사육과 위험 검토가 필요함.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore",
+      "carnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Phelsuma grandis": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/7520795f2f26027f845bfc9cf00245bffaec292e.pdf",
+    "sourceTitle": "Giant Day Gecko Giant Day Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "dfdd5c9a2bf0713d2d209472c312f8237c9fad94615ab2076e22d44c353ace7d",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 (0-6 개월) — 곤충 매일, 크레스티드 게코용 완전배합식(CGD) 격일 / 아성체 및 성체 (>6 개월) — 곤충 2-3회/주, 크레스티드 게코용 완전배합식(CGD) 1회/주",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Uroplatus fimbriatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/801bab5d7046ae48b216149ed65392fe271a841a.pdf",
+    "sourceTitle": "Giant Leaf-Tailed Gecko Giant Leaf-Tailed Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "b64346d012d59a87bce26102ed0d632b47f2e3d9903a689ad4138f64fda5d2cd",
+    "fields": {
+      "feeding": "곤충 중심 식단. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 급여 매일; 성체 can be 급여 격일. Offer 먹을 수 있는 양 in one",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 가지 구조물, 덩굴 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Phelsuma laticauda": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/fc738cef6c7fbf8b6e2c2edb7cc3570cbeb3bd4c.pdf",
+    "sourceTitle": "Gold Dust Day Gecko Gold Dust Day Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "c304721f155ca9b6dae5be2b8649fdc1375de9bda961a4d147e574abc1d004a7",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 (0-6 개월) — 곤충 매일, 크레스티드 게코용 완전배합식(CGD) 격일 / 아성체 및 성체 (>6 개월) — 곤충 2회/주, 크레스티드 게코용 완전배합식(CGD) 1회/주",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Anolis carolinensis": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/3b36d1409bdedb4f9e29f553acf33e52c64b5d01.pdf",
+    "sourceTitle": "Green Anole Green Anole · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "9709d6fff6e865e07b65f1d403c064d2fb107b3024ac38bc00ff55868e39082e",
+    "fields": {
+      "feeding": "곤충 중심 식단. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 급여 매일, while 성체 can be 급여 격일. 유체 should be allowed to eat",
+      "substrate": "원문 배합 예시에 표토 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 단독 사육을 권하거나 복수 개체의 스트레스·자원 경쟁·갈등을 지적함. 다른 종과의 합사 안전성도 확인된 것으로 보지 않음.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "not-recommended"
+  },
+  "Iguana iguana": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/87632a149ccd8a1c4d5bf1bd6f4ed57a43aa9d49.pdf",
+    "sourceTitle": "Green Iguana Green Iguana · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "b7247cf2f495a8545963b9a716c24fa8ba25d1b14ff77cdab04732db4a5d669c",
+    "fields": {
+      "feeding": "식물성 먹이 중심 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "수분을 머금은 코코넛 껍질 또는 사이프러스 멀치를 제시함.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 수컷끼리의 합사 금지·회피를 명시함. 암수 또는 암컷 조합이 안전하다는 의미는 아니며 개별 분리 사육과 위험 검토가 필요함."
+    },
+    "diets": [
+      "herbivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Tiliqua gigas": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/35c53ff39d260033201fb71350f172b03882516c.pdf",
+    "sourceTitle": "Indonesian Blue Tongue Skink Indonesian Blue Tongue Skink · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "5455664c2f2e6295f0fca7f775312ab6eca54a1960e134945c6cf59a5f1a4f8b",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "토양과 낙엽층을 제시함. 굴파기 공간과 바닥재 깊이는 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Trioceros jacksonii": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/5f1b3708560024f2080f3fc8d21513328cac3a81.pdf",
+    "sourceTitle": "Jackson's Chameleon Jackson's Chameleon · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "aa69084dd7e6dd86f1dda8257135e75598392f6dff095e9f4f81351dd22ab60d",
+    "fields": {
+      "feeding": "곤충 중심 식단. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 성체 (초과 1 년) — 3-5 체격에 맞는 크기의 곤충 격일",
+      "hides": "원문 환경 구조 예시: 가지 구조물, 덩굴 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Rhacodactylus leachianus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/78695dbedd363bef6521810b5e28006e79544e69.pdf",
+    "sourceTitle": "Leachie Gecko Leachie Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "5345aff4d2abda205004006f8b45411b0bc16db37e1a78016ad503406ad3a71c",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 (0-12 개월) — 크레스티드 게코용 완전배합식(CGD) 매일, 곤충 격일 / 성체 (>12 개월) — 크레스티드 게코용 완전배합식(CGD) 격일, 곤충 1-2회/주",
+      "substrate": "보습성 바닥재를 제시함. 종류·층 깊이와 검역 후 사용 조건은 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 단독 사육을 권하거나 복수 개체의 스트레스·자원 경쟁·갈등을 지적함. 다른 종과의 합사 안전성도 확인된 것으로 보지 않음.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "not-recommended"
+  },
+  "Eublepharis macularius": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/886009b215bcdc8e9ce3737d0d62a0a8bdaf9d36.pdf",
+    "sourceTitle": "Leopard Gecko Leopard Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "a556c59fdaa940d34eac56374cf7fa0c3a1f7698f16c1b1a513e80b1abf491cb",
+    "fields": {
+      "feeding": "곤충 중심 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 모래, 점토 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 속이 빈 통나무, 가지 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 수컷끼리의 합사 금지·회피를 명시함. 암수 또는 암컷 조합이 안전하다는 의미는 아니며 개별 분리 사육과 위험 검토가 필요함.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Phelsuma lineata": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/d1272fe39cc063b2a1cdbc38cbb4de676dadbc1b.pdf",
+    "sourceTitle": "Lined Day Gecko Lined Day Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "4a81c1988127aa50fa94191ad7590050417323ed8511c26eed80d6d98848b7b6",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 (0-6 개월) — 곤충 매일, 크레스티드 게코용 완전배합식(CGD) 격일 / 아성체 및 성체 (>6 개월) — 곤충 2회/주, 크레스티드 게코용 완전배합식(CGD) 1회/주",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Uroplatus lineatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/f77daf7c09f4da7dd686c33069425d7d9c726df5.pdf",
+    "sourceTitle": "Lined Leaf-Tailed Gecko Lined Leaf-Tailed Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "5a7e051dcb589a080f643c59e7366a1835a45ae16acc5e641c9beb0d336ac373",
+    "fields": {
+      "feeding": "곤충 중심 식단. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 급여 매일; 성체 can be 급여 격일. Offer 먹을 수 있는 양 in one",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 가지 구조물, 덩굴 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Uroplatus sikorae": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/2f8abaefe7745d61db41170228c06a69d5a9ce52.pdf",
+    "sourceTitle": "Mossy Leaf-Tailed Gecko Mossy Leaf-Tailed Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "1901ec2f98b615f2da65953f7dba114b2756db35b61a35db7ce754ec9ee9f7f7",
+    "fields": {
+      "feeding": "곤충 중심 식단. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 급여 매일; 성체 can be 급여 격일. Offer 먹을 수 있는 양 in one",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 가지 구조물, 덩굴 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Lepidodactylus lugubris": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/eb0549b515c4cbb06ead266d4e87e4413620f4a4.pdf",
+    "sourceTitle": "Mourning Gecko Mourning Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "ee00aff8aa3f6ec48c8eb23f61550a583a25933f61df79a7eb1d99083cf12f8b",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료에 동종 그룹 사육 지침이 있으나, 개체수별 공간·탈출 방지·질병 관리와 다른 종에 대한 위해성을 별도로 검토해야 함.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Phelsuma klemmeri": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/4a190795a6642af2c5c868874e76bd29ec045d76.pdf",
+    "sourceTitle": "Neon Day Gecko Neon Day Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "d29a096079cd6a5e186be126ae082aa0687511e824d93ccc4c5145a57d87b571",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 (0-6 개월) — 곤충 매일, 크레스티드 게코용 완전배합식(CGD) 격일 / 아성체 및 성체 (>6 개월) — 곤충 2회/주, 크레스티드 게코용 완전배합식(CGD) 1회/주",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Tiliqua scincoides": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/d86901ef1ce40bdab9577f9ce89fa4b75945ca3e.pdf",
+    "sourceTitle": "Northern Blue Tongue Skink Northern Blue Tongue Skink · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "d58b55a7fe7aa8dcd3a6768459b2b1ee36d7793af99ed41569acd4c377d1786a",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 모래 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Chalcides ocellatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/64ae355fee3f58a83605740f79e3b5cedc2b233f.pdf",
+    "sourceTitle": "Ocellated Skink Ocellated Skink · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "dbdd1dcf3320662f20bcab57795f1ae847d180d483c6331d62a5fbbe29e7ef77",
+    "fields": {
+      "feeding": "곤충 중심 식단. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 어린 개체 — 매일 / 유체 및 성체 — 2-3회/주 / 임신·출산 후 암컷 — 매일",
+      "substrate": "고운 모래 또는 모래질 토양. 굴파기용 층 깊이는 성별·성장 단계에 따른 원문 조건 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Furcifer pardalis": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/0a2447c21c2c323a3a572fe1cecb496b9622cc75.pdf",
+    "sourceTitle": "Panther Chameleon Panther Chameleon · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "c148bd982b0423c01c65a80bd16b08d8df84a9a558e6534b9aaa3508c7ce6616",
+    "fields": {
+      "feeding": "곤충 중심 식단. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 — As much as they can eat, 매일 / 성체 — 5 bugs, 격일",
+      "hides": "원문 환경 구조 예시: 가지 구조물, 덩굴 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Phelsuma quadriocellata": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/66f83adb31aef3fc15f1e2b6a3f553c9d0570fde.pdf",
+    "sourceTitle": "Peacock Day Gecko Peacock Day Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "62aebf68b7ae289cef2ce2fc36dde945348fb8d210ca046ff10d459800e77dfe",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 (0-6 개월) — 곤충 매일, 크레스티드 게코용 완전배합식(CGD) 격일 / 아성체 및 성체 (>6 개월) — 곤충 2회/주, 크레스티드 게코용 완전배합식(CGD) 1회/주",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Tribolonotus gracilis": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/fee8eb348b136cc829e8ce37aadf77ad9fb2d072.pdf",
+    "sourceTitle": "Red-Eyed Crocodile Skink Red-Eyed Crocodile Skink · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "d2280c1f9eaefdd7d9f0ac78251b03daa48a70c81f3478d6a5b5367ff2d204ed",
+    "fields": {
+      "feeding": "곤충 중심 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Uroplatus phantasticus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/ec74d65ba4f9a8a62ba5873048266442c4f44a01.pdf",
+    "sourceTitle": "Satanic Leaf-Tailed Gecko Satanic Leaf-Tailed Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "f0dbb5c7ed72d4de877b650ac347a33797643f5fa5fa1f4bf76de2a6b9dffe73",
+    "fields": {
+      "feeding": "곤충 중심 식단. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 급여 매일; 성체 can be 급여 격일. Offer 먹을 수 있는 양 in one",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 가지 구조물, 덩굴 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Phelsuma standingi": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/dba9198082310ac647d372dcafd68fbba0ea57c1.pdf",
+    "sourceTitle": "Standing's Day Gecko Standing's Day Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "36a56d5846ca231818ab62d26cfeb6dfce0323664e179acb63eb8158d260ce91",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 (0-6 개월) — 곤충 매일, 크레스티드 게코용 완전배합식(CGD) 격일 / 아성체 및 성체 (>6 개월) — 곤충 2-3회/주, 크레스티드 게코용 완전배합식(CGD) 1회/주",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Gekko gecko": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/3c94644181085c7f3df3c3d21bd3038cf28d07fa.pdf",
+    "sourceTitle": "Tokay Gecko Tokay Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "ee36083d9afa49a4c867eb21e3ef15c25510c5f51e5763b00968ae048193e15c",
+    "fields": {
+      "feeding": "곤충 중심 식단. 원문에 크레스티드 게코용 완전배합식(CGD) 급여가 명시됨. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Chamaeleo calyptratus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/96fc1ea5c2a5e879af73ebe6572fd989199a28b1.pdf",
+    "sourceTitle": "Veiled Chameleon Veiled Chameleon · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "8cfd8d99955ad0c1a6d1d5035af5be17e7eaf65ea37247cd4b287f9213b68911",
+    "fields": {
+      "feeding": "곤충 중심 식단. 단계별 빈도는 아래 성장 단계별 관리 항목 참조.",
+      "lifeStages": "원자료의 단계별 급여 예시: 유체 — As much as they can eat, 매일 / 성체 — 4-5 bugs, 격일",
+      "hides": "원문 환경 구조 예시: 가지 구조물, 덩굴 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Hemidactylus imbricatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/7516ce8db9658c2bf20bd2651d9bd7c420b01b00.pdf",
+    "sourceTitle": "Carrot-Tail Viper Gecko Viper Gecko · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "18d25485aeb1c7008dac064119226e3090d64a0a7d2c9c6b1825fe5b03075a16",
+    "fields": {
+      "feeding": "곤충 중심 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 선반·턱, 식물·잎 은폐물, 바위·판석 구조물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "insectivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Python regius": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/d65b64aeee0c4ae85af237331a8eb555daadfcc4.pdf",
+    "sourceTitle": "Ball Python Ball Python · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "bea941711c34cc1fe1ab58ec1a4f751898cd6629c0b25b4d6e708d1ae9136545",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 원문은 냉동 후 해동한 먹이를 안내함. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 식물·잎 은폐물, 바위·판석 구조물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Pantherophis obsoletus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/b1d320b41f7e816c8bcd4c20dd28d9af01be8b65.pdf",
+    "sourceTitle": "Black Ratsnake Black Ratsnake · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "ef4091c81681e34a394317b4ee534f27d10d4853957f3bb60d9172262de8f092",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 원문은 냉동 후 해동한 먹이를 안내함. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Epicrates cenchria": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/445ac77085bf5355ae66c75e6e81e8c9238667a4.pdf",
+    "sourceTitle": "Brazilian Rainbow Boa Brazilian Rainbow Boa · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "686720e24168478077ed2ba06dd8a29cab016a297254be5ad5a5fb30c76f158a",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 원문은 냉동 후 해동한 먹이를 안내함. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 단독 사육을 권하거나 복수 개체의 스트레스·자원 경쟁·갈등을 지적함. 다른 종과의 합사 안전성도 확인된 것으로 보지 않음.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "not-recommended"
+  },
+  "Morelia bredli": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/7205ee46ddf654eca7c0751b284f20873be33027.pdf",
+    "sourceTitle": "Bredl's Python Bredl's Python · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "1b0bb79c572a0092523c5e8051df522c5d06a2c562e7508a67d6e8c675ffca61",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 원문은 냉동 후 해동한 먹이를 안내함. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 모래 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 단독 사육을 권하거나 복수 개체의 스트레스·자원 경쟁·갈등을 지적함. 다른 종과의 합사 안전성도 확인된 것으로 보지 않음.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "not-recommended"
+  },
+  "Morelia spilota": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/61348cab69f02ba29d8c896803d6c8248168ef2f.pdf",
+    "sourceTitle": "Carpet Python Carpet Python · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "20f17b082c677e43698adc9f9116ffee67186f2b9b43d40dd647d1a1c228cd9d",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 원문은 냉동 후 해동한 먹이를 안내함. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 단독 사육을 권하거나 복수 개체의 스트레스·자원 경쟁·갈등을 지적함. 다른 종과의 합사 안전성도 확인된 것으로 보지 않음.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "not-recommended"
+  },
+  "Epicrates maurus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/200d87a7011201b1f72f196ca8df6ae7068ebdd4.pdf",
+    "sourceTitle": "Colombian Rainbow Boa Colombian Rainbow Boa · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "e92a8e81b4b2a9f03f0b2b17ea17ceca16dbc121328ce58288d09d095f9b42e2",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 원문은 냉동 후 해동한 먹이를 안내함. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 단독 사육을 권하거나 복수 개체의 스트레스·자원 경쟁·갈등을 지적함. 다른 종과의 합사 안전성도 확인된 것으로 보지 않음.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "not-recommended"
+  },
+  "Pantherophis guttatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/cfc7ff04b48a7e3e03fb8a1f269af910eb8e829f.pdf",
+    "sourceTitle": "Corn Snake Corn Snake · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "1268d23036474bdd2a4a6e51ab07009ab02fee4c08895fa84bf8e3379dedd84c",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 원문은 냉동 후 해동한 먹이를 안내함. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Acrantophis dumerili": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/7ba52a0c9c5c31383b059b92a870b2877c18c4fc.pdf",
+    "sourceTitle": "Dumeril's Boa Dumeril's Boa · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "db202da06b9b5a424c4a83541b1b9d9b76fa2b2bb08c8c0b0d0551ec9120318c",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 원문은 냉동 후 해동한 먹이를 안내함. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 모래 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Heterodon platirhinos": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/84bab0adf70ffea38919f558c9389763eb48e7b3.pdf",
+    "sourceTitle": "Eastern Hognose Snake Eastern Hognose Snake · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "385a986792791538cd806ff94855296f6a5c6f1f720acda032a07a366e799d11",
+    "fields": {
+      "substrate": "원문 배합 예시에 표토 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침."
+    },
+    "diets": [],
+    "cohabitationStatus": "review-required"
+  },
+  "Morelia viridis": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/c81744e39e62a691db732e0ade197e9e23412b6f.pdf",
+    "sourceTitle": "Green Tree Python Green Tree Python · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "83a533e505b4eb4b85b563e3518b45706a85962921d5eb43aa056521efd8fb7c",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 원문은 냉동 후 해동한 먹이를 안내함. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유, 모래 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 덩굴 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 단독 사육을 권하거나 복수 개체의 스트레스·자원 경쟁·갈등을 지적함. 다른 종과의 합사 안전성도 확인된 것으로 보지 않음.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "not-recommended"
+  },
+  "Eryx colubrinus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/819d9c07057f5aa5a13b3dfdb06f9a27e7a8e465.pdf",
+    "sourceTitle": "Kenyan Sand Boa Kenyan Sand Boa · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "052c96fc4248cc955b095767ae385a6dddd21980d623ef5fe6e9f76057a325d6",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 원문은 냉동 후 해동한 먹이를 안내함. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 모래 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 선반·턱, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 단독 사육을 권하거나 복수 개체의 스트레스·자원 경쟁·갈등을 지적함. 다른 종과의 합사 안전성도 확인된 것으로 보지 않음.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "not-recommended"
+  },
+  "Lampropeltis triangulum": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/1bca28a02dc7516231e6590deb2ed13c8d7b2f35.pdf",
+    "sourceTitle": "Milksnake Milksnake · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "c105c0c48bb4d16bd0649c8e45c8cf041d9222e445fb0b391d0b695eec1521c8",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 원문은 냉동 후 해동한 먹이를 안내함. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 식물·잎 은폐물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Antaresia maculosa": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/324716124f7939a31fafe0e3fc67e9dbf712ab67.pdf",
+    "sourceTitle": "Spotted Python Spotted Python · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "31fea301c9ebf6c6dfc47cca03e7af815f51fcd8b80bd9d25cd816cb6948734a",
+    "fields": {
+      "feeding": "동물성 먹이 중심 식단. 원문은 냉동 후 해동한 먹이를 안내함. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 모래, 점토 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 선반·턱, 식물·잎 은폐물, 바위·판석 구조물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 단독 사육을 권하거나 복수 개체의 스트레스·자원 경쟁·갈등을 지적함. 다른 종과의 합사 안전성도 확인된 것으로 보지 않음.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "carnivore"
+    ],
+    "cohabitationStatus": "not-recommended"
+  },
+  "Heterodon nasicus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/b841e27176992c0737ec5bf7a037c3c95810bdff.pdf",
+    "sourceTitle": "Western Hognose Snake Western Hognose Snake · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "daf727b4f6d8c63bc98229710e3273513e32b3c0408d437272dc32783d1ecb47",
+    "fields": {
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인."
+    },
+    "diets": [],
+    "cohabitationStatus": "review-required"
+  },
+  "Terrapene carolina": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/b26453f7d02cf55c7215359055440857293a271d.pdf",
+    "sourceTitle": "Eastern Box Turtle Eastern Box Turtle · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "0387cca24fda9e867fd18d8029511fb43481843eb860ad903d73dec8e7c8ebdb",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 모래 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 속이 빈 통나무, 가지 구조물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Terrapene ornata": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/a9b439a084ea07aefd9b7ae040e9b1c1dca96d01.pdf",
+    "sourceTitle": "Ornate Box Turtle Ornate Box Turtle · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "4ae17660d67b2ecf4b671ed8ad55588989170382a3361d0911b3bcf76559d15c",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 모래 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 속이 빈 통나무. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Chrysemys picta": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/340223830b1f5150d1683f6816dc133c71cc8c0b.pdf",
+    "sourceTitle": "Painted Turtle Painted Turtle · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "c09d52ae44013d28837f255fcefc0dae01dc324e6d81b06d017bf6b192f85482",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "hides": "원문 환경 구조 예시: 식물·잎 은폐물, 바위·판석 구조물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 단독 사육을 권하거나 복수 개체의 스트레스·자원 경쟁·갈등을 지적함. 다른 종과의 합사 안전성도 확인된 것으로 보지 않음.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "not-recommended"
+  },
+  "Malacochersus tornieri": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/3f466b5058825d40bd4e38eba486023d5e2b704e.pdf",
+    "sourceTitle": "Pancake Tortoise Pancake Tortoise · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "7ce5adc2c3568c1d16ac5148e38e31f2dfb462a66fdd8b65a846bcd81b060907",
+    "fields": {
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [],
+    "cohabitationStatus": "review-required"
+  },
+  "Chelonoidis carbonarius": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/de60f6f0661b0154cbbe5851dcae23173c59e6d4.pdf",
+    "sourceTitle": "Red-Footed Tortoise Red-Footed Tortoise · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "fdbfd06b46beb6cd5d2a5cfc29c6a3bc323567f565500c6998af614a6c124b77",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 코코넛 섬유, 모래 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 속이 빈 통나무, 가지 구조물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Testudo horsfieldii": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/506790fe95ce65e866ec7470673fb2d269d70178.pdf",
+    "sourceTitle": "Russian Tortoise Russian Tortoise · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "d391648ec1e43696801f56aeec02237ab944fe87d0743ef601a1e668b486e27c",
+    "fields": {
+      "feeding": "식물성 먹이 중심 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 모래, 점토 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 속이 빈 통나무. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 수컷끼리의 합사 금지·회피를 명시함. 암수 또는 암컷 조합이 안전하다는 의미는 아니며 개별 분리 사육과 위험 검토가 필요함.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "herbivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Clemmys guttata": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/7136986ca3cfb486328db1437aefd78841e8bb97.pdf",
+    "sourceTitle": "Spotted Turtle Spotted Turtle · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "54ab587e0755d37d204d790ef0e93f4fe41451b0d2b4fb65adb1b5b428f1e0cf",
+    "fields": {
+      "feeding": "식물성·동물성 먹이를 함께 이용하는 잡식 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 가지 구조물, 식물·잎 은폐물, 바위·판석 구조물. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "cohabitationRisks": "원자료는 단독 사육을 권하거나 복수 개체의 스트레스·자원 경쟁·갈등을 지적함. 다른 종과의 합사 안전성도 확인된 것으로 보지 않음.",
+      "healthNotes": "칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "omnivore"
+    ],
+    "cohabitationStatus": "not-recommended"
+  },
+  "Centrochelys sulcata": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/799019ffd2abae7841ad350a48d91c8c163cd230.pdf",
+    "sourceTitle": "Sulcata Tortoise Sulcata Tortoise · ReptiFiles care sheet",
+    "reviewedAt": "2026-11-05",
+    "scope": "species husbandry; retain age and source-date qualifications",
+    "sourcePdfSha256": "f5700003f66a39c39d6eee874e0b68c613b6c6ae57740f4f3ed984fce2217a87",
+    "fields": {
+      "feeding": "식물성 먹이 중심 식단. 체형·연령별 급여량과 빈도는 원자료의 조건 확인.",
+      "substrate": "원문 배합 예시에 표토, 모래 사용. 배합비·층 깊이·검역 조건은 종별 원문 확인.",
+      "hides": "원문 환경 구조 예시: 코르크 구조물, 속이 빈 통나무. 배치·고정 방법은 원문 확인.",
+      "uvb": "원자료에 UVB 설치 지침이 있음. 필요 강도·거리·노출 위치는 종별 원문과 측정 조건 확인.",
+      "healthNotes": "분변·요산은 매일 제거하고 오염된 바닥재를 부분 교체하는 위생 지침. 칼슘 보충 관련 지침이 있으며 제품과 용량·빈도는 해당 종의 원문 조건 확인."
+    },
+    "diets": [
+      "herbivore"
+    ],
+    "cohabitationStatus": "review-required"
+  },
+  "Armadillidium vulgare": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 9-15 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate; mostly-dry surface with one damp corner"
+  },
+  "Armadillidium maculatum": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 12-18 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate; well cross-ventilated with a damp corner"
+  },
+  "Armadillidium klugii": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 13-18 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate with a humid retreat"
+  },
+  "Armadillidium gestroi": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 12-17 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate-high; humid corner"
+  },
+  "Armadillidium granulatum": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 9-14 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate; coastal, ventilated"
+  },
+  "Armadillidium werneri": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Drier surface with a humid retreat; ventilated"
+  },
+  "Armadillidium peraccae": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Drier surface with a humid retreat; ventilated"
+  },
+  "Armadillidium depressum": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 9-14 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate; damp corner with good airflow"
+  },
+  "Armadillidium badium": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 7-11 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Drier surface with a humid retreat; ventilated"
+  },
+  "Armadillidium nasatum": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 11-21 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate; damp corner"
+  },
+  "Armadillidium espanyoli": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 9-12 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate; well ventilated"
+  },
+  "Armadillidium arcangelii": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 9-13 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Drier surface with a humid retreat; ventilated"
+  },
+  "Armadillidium pictum": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 6-9 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Higher humidity; cool, damp woodland"
+  },
+  "Armadillidium versicolor": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Drier surface with a humid retreat; ventilated"
+  },
+  "Armadillidium decorum": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-14 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Drier surface with a humid retreat; ventilated"
+  },
+  "Armadillidium album": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate; coastal/sandy, ventilated"
+  },
+  "Cristarmadillidium muricatum": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate; ventilated with a humid retreat"
+  },
+  "Schizidium tiberianum": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 6-10 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner; strong ventilation"
+  },
+  "Schizidium hybridum": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 6-10 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner; strong ventilation"
+  },
+  "Eluma caelata": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate; damp corner with good airflow"
+  },
+  "Cubaris murina": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "깊은 코코넛 섬유·표토, 낙엽, 썩은 목재, 부순 석회석·굴껍데기; 습윤 관리",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "High (75-85%)"
+  },
+  "Armadillo officinalis": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 18-22 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Moderate; deep substrate with a humid zone, strong ventilation"
+  },
+  "Armadillo tuberculatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 12-18 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Drier with a humid retreat; ventilated"
+  },
+  "Troglodillo rotundatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "깊은 코코넛 섬유·표토, 낙엽, 썩은 목재, 부순 석회석·굴껍데기; 습윤 관리",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-14 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "High (75-85%)"
+  },
+  "Venezillo parvus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유와 낙엽층; 원문은 지속적인 습윤 관리를 제시함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 4-6 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "High"
+  },
+  "Venezillo arizonicus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 4-6 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate-high; tolerates drier conditions than tropical Venezillo"
+  },
+  "Nesodillo arcangelii": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "깊은 코코넛 섬유·표토, 낙엽, 썩은 목재, 부순 석회석·굴껍데기; 습윤 관리",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "High (75-85%)"
+  },
+  "Merulanella bicolorata": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "깊은 코코넛 섬유·표토, 낙엽, 썩은 목재, 부순 석회석·굴껍데기; 습윤 관리",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "High (80%+)"
+  },
+  "Reductoniscus costulatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "깊은 코코넛 섬유·표토, 낙엽, 썩은 목재, 부순 석회석·굴껍데기; 습윤 관리",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 3-5 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "High; keep moist"
+  },
+  "Spherillo danae": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "깊은 코코넛 섬유·표토, 낙엽, 썩은 목재, 부순 석회석·굴껍데기; 습윤 관리",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "High"
+  },
+  "Pseudarmadillo spinosus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "깊은 코코넛 섬유·표토, 낙엽, 썩은 목재, 부순 석회석·굴껍데기; 습윤 관리",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "High"
+  },
+  "Porcellio scaber": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 12-20 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; damp corner with good airflow"
+  },
+  "Porcellio laevis": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 15-20 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate-high; fast growing"
+  },
+  "Porcellio dilatatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 15-20 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; damp corner"
+  },
+  "Porcellio hoffmannseggii": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: up to 30 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Drier with a humid retreat; strong ventilation"
+  },
+  "Porcellio werneri": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 12-16 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Drier surface with a humid retreat; ventilated"
+  },
+  "Porcellio magnificus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: up to 30 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner; ventilated"
+  },
+  "Porcellio haasi": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 12-18 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner; strong ventilation"
+  },
+  "Porcellio ornatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 15-25 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Drier with a humid retreat"
+  },
+  "Porcellio expansus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 18-28 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner"
+  },
+  "Porcellio nicklesi": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-14 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner; strong ventilation"
+  },
+  "Porcellio spatulatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-14 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner; strong ventilation"
+  },
+  "Porcellio spinicornis": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-15 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; needs calcium (limestone/mortar)"
+  },
+  "Porcellio incanus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-14 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner; strong ventilation"
+  },
+  "Porcellio echinatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-14 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner; strong ventilation"
+  },
+  "Porcellio lamellatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-15 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Coastal; sandy, ventilated"
+  },
+  "Porcellio wagneri": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 12-17 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; damp corner"
+  },
+  "Porcellio bolivari": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 12-18 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Higher humidity than most Porcellio"
+  },
+  "Porcellio albinus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry, sandy; strong ventilation with a humid corner"
+  },
+  "Porcellio gallicus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Drier surface with a humid retreat; ventilated"
+  },
+  "Porcellio obsoletus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-16 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner; strong ventilation"
+  },
+  "Porcellio monticola": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; damp corner"
+  },
+  "Porcellio silvestrii": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-14 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Drier surface with a humid retreat; ventilated"
+  },
+  "Porcellio succinctus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-14 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner; strong ventilation"
+  },
+  "Porcellio flavomarginatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 12-18 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner; strong ventilation"
+  },
+  "Porcellio duboscqui": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "표토와 모래·석회석, 낙엽, 코르크·목재 은신처; 강한 교차 환기",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-14 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨",
+      "hides": "취미 가이드에 코르크·목재 은신처가 명시됨"
+    },
+    "humidityDescription": "Dry with a humid corner; strong ventilation"
+  },
+  "Porcellionides pruinosus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; very tolerant"
+  },
+  "Porcellionides floria": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 8-12 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; very tolerant"
+  },
+  "Porcellionides myrmecophilus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 6-9 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; often ant-associated"
+  },
+  "Porcellionides sexfasciatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 9-12 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; ventilated"
+  },
+  "Agabiformius lentus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 5-7 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; tolerant"
+  },
+  "Cylisticus convexus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-15 mm",
+      "behavior": "몸을 부분적으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate; damp corner"
+  },
+  "Oniscus asellus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 14-16 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Higher humidity; keep damp"
+  },
+  "Philoscia muscorum": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 6-11 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; damp"
+  },
+  "Philoscia affinis": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 6-10 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; damp corner with good airflow"
+  },
+  "Atlantoscia floridana": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유와 낙엽층; 원문은 지속적인 습윤 관리를 제시함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 3-5 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate-high"
+  },
+  "Trachelipus rathkii": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토 바탕, 두꺼운 활엽수 낙엽층, 썩은 목재, 칼슘 공급용 갑오징어뼈",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-15 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; damp"
+  },
+  "Nagurus cristatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유와 낙엽층; 원문은 지속적인 습윤 관리를 제시함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 4-6 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "High; keep moist"
+  },
+  "Nagurus nanus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유와 낙엽층; 원문은 지속적인 습윤 관리를 제시함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 3-5 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "High; keep moist"
+  },
+  "Trichorhina tomentosa": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유와 낙엽층; 원문은 지속적인 습윤 관리를 제시함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 3-5 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "High; keep consistently moist"
+  },
+  "Platyarthrus hoffmannseggii": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유와 낙엽층; 원문은 지속적인 습윤 관리를 제시함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 3-4 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; lives inside ant nests"
+  },
+  "Platyarthrus aiasensis": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유와 낙엽층; 원문은 지속적인 습윤 관리를 제시함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 3-4 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate; lives inside ant nests"
+  },
+  "Niambia capensis": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유 또는 표토, 낙엽, 썩은 목재, 석회석·갑오징어뼈; 환기 추가",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 5-8 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Moderate"
+  },
+  "Androniscus dentiger": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유와 낙엽층; 원문은 지속적인 습윤 관리를 제시함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 5-6 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Damp"
+  },
+  "Trichoniscus pusillus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유와 낙엽층; 원문은 지속적인 습윤 관리를 제시함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 4-5 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Damp; moisture-loving"
+  },
+  "Buddelundiella cataractae": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유와 낙엽층; 원문은 지속적인 습윤 관리를 제시함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 2-4 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Damp; tiny cryptic species"
+  },
+  "Hemilepistus reaumuri": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "깊은 모래·점토층과 소량의 낙엽",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: up to 22 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Very dry; deep burrows, minimal moisture"
+  },
+  "Hemilepistus elongatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "깊은 모래·점토층과 소량의 낙엽",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: up to 18 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Very dry; deep burrows, minimal moisture"
+  },
+  "Ligia exotica": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "바위·기수성 해안 환경을 원자료 바닥 조건으로 기록함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: up to 30 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Coastal splash zone; brackish, high humidity, ventilated"
+  },
+  "Ligia oceanica": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "바위·기수성 해안 환경을 원자료 바닥 조건으로 기록함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: up to 30 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Coastal splash zone; needs seawater/high humidity and ventilation"
+  },
+  "Ligidium hypnorum": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "코코넛 섬유와 낙엽층; 원문은 지속적인 습윤 관리를 제시함",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 6-9 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Very damp / riparian"
+  },
+  "Tylos punctatus": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "깊은 고운 해안 모래와 소량의 유기물",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: up to 20 mm",
+      "behavior": "몸을 완전히 공 모양으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Coastal; deep moist sand for burrowing, brackish-tolerant"
+  },
+  "Helleria brevicornis": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "모래질 해안 토양과 낙엽층",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: up to 20 mm",
+      "behavior": "몸을 부분적으로 마는 행동이 기록됨"
+    },
+    "humidityDescription": "Moderate; deep sandy coastal soil, humid"
+  },
+  "Deto echinata": {
+    "sourceUrl": "https://github.com/Bbeierle12/isopod-research/blob/867b2cea2026d7a8cb8bd8b29a10406761579db9/data/isopods.json",
+    "sourceTitle": "등각류 취미 사육 자료 · MIT",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby consensus defaults, not independently verified species husbandry",
+    "fields": {
+      "substrate": "모래질 해안 바닥재, 해안 표착 유기물과 낙엽층",
+      "bodySizeNotes": "취미 가이드의 성체 크기 기본값: 10-15 mm",
+      "behavior": "공 모양으로 몸을 말지 않는 유형으로 기록됨"
+    },
+    "humidityDescription": "Coastal supralittoral; humid, salt-tolerant, ventilated"
+  },
+  "Acanthoscurria geniculata": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/a-geniculata.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 35 × 30 × 30 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": [
+      "terrestrial"
+    ]
+  },
+  "Brachypelma hamorii": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/b-hamorii.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 30 × 20 × 20 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": [
+      "terrestrial"
+    ]
+  },
+  "Chromatopelma cyaneopubescens": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/c-cyaneopubescens.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 30 × 30 × 25 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": []
+  },
+  "Ceratogyrus darlingi": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/c-darlingi.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 30 × 30 × 25 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": []
+  },
+  "Grammostola pulchripes": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/g-pulchripes.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 30 × 30 × 30 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": [
+      "terrestrial"
+    ]
+  },
+  "Heteroscodra maculata": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/h-maculata.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 20 × 20 × 40 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": [
+      "arboreal"
+    ]
+  },
+  "Harpactira pulchripes": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/h-pulchripes.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": []
+  },
+  "Lasiodora parahybana": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/l-parahybana.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 40 × 30 × 30 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": [
+      "terrestrial"
+    ]
+  },
+  "Neoholothele incei": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/n-incei.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 20 × 20 × 15 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": []
+  },
+  "Psalmopoeus cambridgei": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/p-cambridgei.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 25 × 25 × 40 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": [
+      "arboreal"
+    ]
+  },
+  "Psalmopoeus irminia": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/p-irminia.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 20 × 20 × 40 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": [
+      "arboreal"
+    ]
+  },
+  "Poecilotheria metallica": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/p-metallica.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 25 × 25 × 40 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": [
+      "arboreal"
+    ]
+  },
+  "Pterinochilus murinus": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/p-murinus.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 30 × 20 × 20 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": []
+  },
+  "Poecilotheria rufilata": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/p-rufilata.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 30 × 30 × 45 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": [
+      "arboreal"
+    ]
+  },
+  "Stromatopelma calceatum": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/s-calceatum.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 20 × 20 × 30 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": []
+  },
+  "Tapinauchenius violaceus": {
+    "sourceUrl": "https://github.com/Bobereg/bobereg-tarantulas/blob/3f66e6fc4c3c3a6e4414601ade591bb89fa76553/STP-2/species/t-violaceus.html",
+    "sourceTitle": "공개 타란툴라 취미 가이드 · 종별 원자료",
+    "reviewedAt": "2026-11-05",
+    "scope": "hobby guide, not independently verified species husbandry",
+    "fields": {
+      "substrate": "공개 취미 가이드 바닥재: 코코넛 섬유 · 토탄. 깊이·수분 조건은 원문 확인.",
+      "hobbyEnclosureNotes": "취미 가이드의 성체 규격 예시: 20 × 20 × 30 cm. 전문가 검증된 최소 규격으로 사용하지 않음.",
+      "healthNotes": "원문에 자극성 털 방출이 기록됨. 피부·눈·호흡기 노출 위험을 검토하고 직접 취급을 피할 필요가 있음."
+    },
+    "habitats": [
+      "arboreal"
+    ]
+  }
+}

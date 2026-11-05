@@ -1,0 +1,129 @@
+{
+  "Ambystoma mexicanum": {
+    "sources": [
+      {
+        "sourceUrl": "https://www.axolotl.org/",
+        "sourceTitle": "Axolotl.org · 학명·종 개요",
+        "reviewedAt": "2026-11-05",
+        "sourceSha256": "075076b1f363d6fe5b60c92bc65261b26a07355cdc0b556696f717d57dd8a0ef",
+        "scope": "종별 전문 사육 참고문헌; 원문 시점·연령과 수중/육상 단계를 구분"
+      },
+      {
+        "sourceUrl": "https://www.axolotl.org/requirements.htm",
+        "sourceTitle": "Axolotl.org · 수온·수질 관리",
+        "reviewedAt": "2026-11-05",
+        "sourceSha256": "f8a229065334c3921cc9fa9b44b381ad5910ffd5cf231765abced6750907e004",
+        "scope": "종별 전문 사육 참고문헌; 원문 시점·연령과 수중/육상 단계를 구분"
+      },
+      {
+        "sourceUrl": "https://www.axolotl.org/housing.htm",
+        "sourceTitle": "Axolotl.org · 사육 환경",
+        "reviewedAt": "2026-11-05",
+        "sourceSha256": "82306f564bf3d69ef160c0a1c67c80c0ea48d7551f71b24ac6e3e26af010cb4c",
+        "scope": "종별 전문 사육 참고문헌; 원문 시점·연령과 수중/육상 단계를 구분"
+      },
+      {
+        "sourceUrl": "https://www.axolotl.org/feeding.htm",
+        "sourceTitle": "Axolotl.org · 급여",
+        "reviewedAt": "2026-11-05",
+        "sourceSha256": "bd863a45226f4bc92e3956c99fad9e96315d080ed46ec18c690c33a16dffcd3b",
+        "scope": "종별 전문 사육 참고문헌; 원문 시점·연령과 수중/육상 단계를 구분"
+      }
+    ],
+    "temperature": {
+      "range": [
+        16,
+        18
+      ],
+      "role": "water",
+      "label": "수온 · 원문 적정 구간",
+      "sourceUrl": "https://www.axolotl.org/requirements.htm"
+    },
+    "adultSizeCm": [
+      18,
+      35
+    ],
+    "habitats": [
+      "aquatic"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "fields": {
+      "feeding": "오염·약품 노출이 없는 공급원의 지렁이를 성체 먹이 예시로 제시함. 적합한 연질 펠릿도 다루며, 먹이는 삼킬 수 있는 크기로 제공. 살아 있는 수생 먹이의 기생충·질병 유입을 검토해야 함.",
+      "substrate": "원문은 바닥재 없는 수조와 고운 모래 예시를 다룸. 일반 수족관 자갈은 삼킴·장폐색 위험 때문에 피할 것을 경고함. 모래도 개체 크기·연령별 조건 확인.",
+      "hides": "바위·도기·유목·식물 등으로 은폐 공간을 제공하는 예시가 있음. 여과기 출수는 분산해 강한 물살을 줄임.",
+      "behavior": "완전 수생 관리. 작고 움직이는 다른 동물을 먹이로 인식할 수 있으므로 다른 생물과의 합사를 안전하다고 판단하지 않음.",
+      "lifeStages": "유체는 서로의 사지·아가미를 무는 위험을 검토해야 함. 원문은 갓 부화한 개체가 먹이의 움직임에 반응함을 설명하므로 성체 급여 방식을 그대로 적용하지 않음.",
+      "cohabitationRisks": "어류가 아가미를 물거나 아홀로틀이 작은 동물을 삼킬 수 있음. 어린 개체 사이에도 물림 위험이 있어 개체 크기·밀도·분리 사육을 검토해야 함.",
+      "healthNotes": "원문은 24°C 초과의 지속적인 고수온을 스트레스·질병 위험으로 경고함. 암모니아·아질산, 염소·클로라민, 수류를 점검하고 여과·환수 관리가 필요함.",
+      "humidityNotes": "수중 사육종이므로 공기 상대습도 범위를 수질 관리값으로 대체하지 않음. 여과·수온·수질을 별도로 관리."
+    },
+    "cohabitationStatus": "not-recommended"
+  },
+  "Hypselotriton orientalis": {
+    "sources": [
+      {
+        "sourceUrl": "https://www.caudata.org/cc/species/Cynops/C_orientalis.shtml",
+        "sourceTitle": "Caudata Culture · Cynops orientalis (= Hypselotriton orientalis)",
+        "reviewedAt": "2026-11-05",
+        "sourceSha256": "e1e59fbd4e6e785ed4ea65c7ee16d0011810b8953cf14338bca4eb5e5350d43a",
+        "scope": "종별 전문 사육 참고문헌; 원문 시점·연령과 수중/육상 단계를 구분"
+      }
+    ],
+    "temperature": {
+      "range": [
+        14,
+        20
+      ],
+      "role": "water",
+      "label": "수온 · 수생 성체 관리 참고",
+      "sourceUrl": "https://www.caudata.org/cc/species/Cynops/C_orientalis.shtml"
+    },
+    "habitats": [
+      "aquatic",
+      "terrestrial"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "fields": {
+      "bodySizeNotes": "원문 종 설명의 몸길이: 6–10.3 cm. 성별·단계에 따른 변이와 원문 측정 기준 확인.",
+      "feeding": "사육 먹이 예시로 지렁이·잘게 자른 큰 지렁이·장구벌레류의 유충(냉동 포함) 등을 제시함. 가공 펠릿을 받지 않는 개체도 있으며 입식 후 거식은 스트레스·질병 여부를 함께 점검.",
+      "hides": "수생식물과 부유식물, 수면 위로 나오는 바위 또는 식재 육상부를 제공하는 수조 예시.",
+      "behavior": "안정된 성체는 주로 수생 생활을 하지만 일부 개체는 육상에 머무를 수 있음. 변태 후 어린 개체는 보통 육상성이므로 단계별 차이를 구분.",
+      "breeding": "수컷의 꼬리 흔들기 등 구애와 수생식물 잎에 개별 산란하는 행동이 기록됨. 성체 사육 수온을 부화·유생 목표값으로 그대로 적용하지 않음.",
+      "lifeStages": "알·수생 유생·변태 후 육상 유체·주로 수생인 성체를 구분. 변태 후 유체를 성체 수심의 수조에 바로 넣는 방식은 피하고 단계별 전문 관리 지침 확인.",
+      "healthNotes": "원문은 23°C 초과를 피하도록 안내함. 더러운 물·고수온·공격적인 다른 양서류와의 동거는 스트레스 요인으로 검토.",
+      "humidityNotes": "주로 수생인 성체와 육상 유체를 구분해야 하며, 원문에 없는 공기 상대습도 범위를 임의로 설정하지 않음."
+    }
+  },
+  "Pleurodeles waltl": {
+    "sources": [
+      {
+        "sourceUrl": "https://www.caudata.org/cc/species/Pleurodeles/P_waltl.shtml",
+        "sourceTitle": "Caudata Culture · Pleurodeles waltl",
+        "reviewedAt": "2026-11-05",
+        "sourceSha256": "a349eb104305d4614f4adfb055114ab4aa5367583684859a6c14fc08c48acab9",
+        "scope": "종별 전문 사육 참고문헌; 원문 시점·연령과 수중/육상 단계를 구분"
+      }
+    ],
+    "habitats": [
+      "aquatic"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "fields": {
+      "temperatureNotes": "원문은 수온 21°C 미만을 안내함. 화씨 병기와 차이가 있어 섭씨 원문을 따로 기록하며, 상한값만으로 적정 범위를 만들지 않음.",
+      "bodySizeNotes": "사육 개체의 전형적 몸길이 15–20 cm, 야생에서 최대 30 cm 기록을 원문이 구분함. 하나의 성체 범위로 합치지 않음.",
+      "feeding": "사육 먹이로 잘게 자른 지렁이와 적합한 펠릿 등을 제시함. 먹이용 활어는 질병 유입 위험 때문에 정기적인 주식으로 권하지 않음.",
+      "substrate": "자갈을 사용하는 경우 먹이와 함께 삼킬 수 없는 크기인지 확인하도록 원문이 안내함. 바닥재 종류만으로 안전성을 단정하지 않음.",
+      "hides": "수생식물을 충분히 심고 작은 부유 육상부를 둔 수조를 제시함. 번식 행동을 위한 충분한 수조 공간이 필요함.",
+      "breeding": "수중 구애·정포 전달 후 수생식물 사이에 산란하는 행동을 설명함. 번식 유도·부화 조건은 원문의 별도 지침을 확인.",
+      "lifeStages": "성체가 유생을 먹을 수 있으므로 알·유생·성체의 관리 공간을 분리 검토. 사육 수온과 알·유생의 발달 조건을 혼동하지 않음.",
+      "healthNotes": "고수온 스트레스와 먹이 유래 질병 유입을 점검. 원문의 야생 내한 기록을 사육 적정 최저수온으로 바꾸지 않음.",
+      "humidityNotes": "주로 수중 생활하는 단계는 공기 상대습도보다 수온·수질·수류 조건을 별도로 확인."
+    }
+  }
+}
