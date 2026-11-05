@@ -1,0 +1,582 @@
+[
+  {
+    "latin": "Varanus acanthurus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/057158e55418ea1a4ba28e2b15f64bdc2007a503.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "a0872a948de29ca0874fd76ef14c21b06fa048fd3b645b4c7b7237f5bc012c41",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Hemitheconyx caudicinctus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/4e5d983ba1fd6f88e1cc5afcda68136b3bb6142e.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "53a04962780733bfeb495e72ac269e23ee68e36144bcf3224de467dab77f84ef",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Pogona vitticeps",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/95ad1cad983f4fc5e1652176a1b7d773823f8fcd.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "88eb6c29639a29d49ddc71eaa45489b74657a481fdf16c6e362f136c17cf13e9",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Phelsuma cepediana",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/08e8aa1067d0a128fbeffb5f808e709b0c5f767a.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "4e91dff9f81ef9afde2e45ed5ee0a691f56062eae88181095712c6efb41c5dfb",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Mniarogekko chahoua",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/ec8ff675e6eb893947eb06fd8c39b6de79753c80.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "95e41be5cba0598742f7e843c3cb7fb46ed21f074715c03aee307106cdcd7059",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Eurydactylodes agricolae",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/6c8d00a98196433991534ca05c806a2e3721fe98.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "0450cd8287c6b9ba45a332b7f98cae67743edc748a5296d40bfeb6922d90e195",
+    "scope": "group",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Physignathus cocincinus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/3c1b1377968c15ee970cdde5aa5d3d4209d6cb6f.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "572784e99ab61919822d499f999b1218a00b03826ef313bb11e94191770c48dc",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Tupinambis teguixin",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/4e2136ecdf66c5cc3d00b468bfef0f624f1a2ff2.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "ab94be58f804ce3108b172ccbee524aa8b9d57a249cdd3c15e7e451ce28c5628",
+    "scope": "group",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Sauromalus ater",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/b9f7dbf14552ff4bc879ec15f7cf1a7032b5cd2a.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "d3354a427c2584efd4f710f1f729877356e4f1b04c7163a7d76623885d2f7fd0",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Correlophus ciliatus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/3fbcb32129c833cded28d5e248c9dbbb8731a568.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "b5d8c252f78fcf1cbf2085c9f2cd218c1e792f8b3c478386025742d3d8ca61ab",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Mochlus fernandi",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/e62c59011c0028f7b28335b243791357bc5ce86b.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "7f8a01a8e348816b057ca707d31dbbaddbfe7337e66844152dc86ad191b2afd6",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Rhacodactylus auriculatus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/0332a8a3a8d380e28261d5c4e9327ee03f2c38b1.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "60e0dfa580e2a1cf19bb5921167e3c6582e153f24eb8301052bdcb3cf596a61a",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Phelsuma grandis",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/7520795f2f26027f845bfc9cf00245bffaec292e.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "dfdd5c9a2bf0713d2d209472c312f8237c9fad94615ab2076e22d44c353ace7d",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Uroplatus fimbriatus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/801bab5d7046ae48b216149ed65392fe271a841a.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "b64346d012d59a87bce26102ed0d632b47f2e3d9903a689ad4138f64fda5d2cd",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Phelsuma laticauda",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/fc738cef6c7fbf8b6e2c2edb7cc3570cbeb3bd4c.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "c304721f155ca9b6dae5be2b8649fdc1375de9bda961a4d147e574abc1d004a7",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Anolis carolinensis",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/3b36d1409bdedb4f9e29f553acf33e52c64b5d01.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "9709d6fff6e865e07b65f1d403c064d2fb107b3024ac38bc00ff55868e39082e",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Iguana iguana",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/87632a149ccd8a1c4d5bf1bd6f4ed57a43aa9d49.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "b7247cf2f495a8545963b9a716c24fa8ba25d1b14ff77cdab04732db4a5d669c",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Tiliqua gigas",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/35c53ff39d260033201fb71350f172b03882516c.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "5455664c2f2e6295f0fca7f775312ab6eca54a1960e134945c6cf59a5f1a4f8b",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Trioceros jacksonii",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/5f1b3708560024f2080f3fc8d21513328cac3a81.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "aa69084dd7e6dd86f1dda8257135e75598392f6dff095e9f4f81351dd22ab60d",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Rhacodactylus leachianus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/78695dbedd363bef6521810b5e28006e79544e69.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "5345aff4d2abda205004006f8b45411b0bc16db37e1a78016ad503406ad3a71c",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Eublepharis macularius",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/886009b215bcdc8e9ce3737d0d62a0a8bdaf9d36.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "a556c59fdaa940d34eac56374cf7fa0c3a1f7698f16c1b1a513e80b1abf491cb",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Phelsuma lineata",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/d1272fe39cc063b2a1cdbc38cbb4de676dadbc1b.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "4a81c1988127aa50fa94191ad7590050417323ed8511c26eed80d6d98848b7b6",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Uroplatus lineatus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/f77daf7c09f4da7dd686c33069425d7d9c726df5.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "5a7e051dcb589a080f643c59e7366a1835a45ae16acc5e641c9beb0d336ac373",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Uroplatus sikorae",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/2f8abaefe7745d61db41170228c06a69d5a9ce52.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "1901ec2f98b615f2da65953f7dba114b2756db35b61a35db7ce754ec9ee9f7f7",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Lepidodactylus lugubris",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/eb0549b515c4cbb06ead266d4e87e4413620f4a4.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "ee00aff8aa3f6ec48c8eb23f61550a583a25933f61df79a7eb1d99083cf12f8b",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Phelsuma klemmeri",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/4a190795a6642af2c5c868874e76bd29ec045d76.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "d29a096079cd6a5e186be126ae082aa0687511e824d93ccc4c5145a57d87b571",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Tiliqua scincoides",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/d86901ef1ce40bdab9577f9ce89fa4b75945ca3e.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "d58b55a7fe7aa8dcd3a6768459b2b1ee36d7793af99ed41569acd4c377d1786a",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Chalcides ocellatus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/64ae355fee3f58a83605740f79e3b5cedc2b233f.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "dbdd1dcf3320662f20bcab57795f1ae847d180d483c6331d62a5fbbe29e7ef77",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Furcifer pardalis",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/0a2447c21c2c323a3a572fe1cecb496b9622cc75.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "c148bd982b0423c01c65a80bd16b08d8df84a9a558e6534b9aaa3508c7ce6616",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Phelsuma quadriocellata",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/66f83adb31aef3fc15f1e2b6a3f553c9d0570fde.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "62aebf68b7ae289cef2ce2fc36dde945348fb8d210ca046ff10d459800e77dfe",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Tribolonotus gracilis",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/fee8eb348b136cc829e8ce37aadf77ad9fb2d072.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "d2280c1f9eaefdd7d9f0ac78251b03daa48a70c81f3478d6a5b5367ff2d204ed",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Uroplatus phantasticus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/ec74d65ba4f9a8a62ba5873048266442c4f44a01.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "f0dbb5c7ed72d4de877b650ac347a33797643f5fa5fa1f4bf76de2a6b9dffe73",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Phelsuma standingi",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/dba9198082310ac647d372dcafd68fbba0ea57c1.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "36a56d5846ca231818ab62d26cfeb6dfce0323664e179acb63eb8158d260ce91",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Gekko gecko",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/3c94644181085c7f3df3c3d21bd3038cf28d07fa.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "ee36083d9afa49a4c867eb21e3ef15c25510c5f51e5763b00968ae048193e15c",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Chamaeleo calyptratus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/96fc1ea5c2a5e879af73ebe6572fd989199a28b1.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "8cfd8d99955ad0c1a6d1d5035af5be17e7eaf65ea37247cd4b287f9213b68911",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Hemidactylus imbricatus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/7516ce8db9658c2bf20bd2651d9bd7c420b01b00.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "18d25485aeb1c7008dac064119226e3090d64a0a7d2c9c6b1825fe5b03075a16",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Python regius",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/d65b64aeee0c4ae85af237331a8eb555daadfcc4.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "bea941711c34cc1fe1ab58ec1a4f751898cd6629c0b25b4d6e708d1ae9136545",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Pantherophis obsoletus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/b1d320b41f7e816c8bcd4c20dd28d9af01be8b65.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "ef4091c81681e34a394317b4ee534f27d10d4853957f3bb60d9172262de8f092",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Epicrates cenchria",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/445ac77085bf5355ae66c75e6e81e8c9238667a4.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "686720e24168478077ed2ba06dd8a29cab016a297254be5ad5a5fb30c76f158a",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Morelia bredli",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/7205ee46ddf654eca7c0751b284f20873be33027.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "1b0bb79c572a0092523c5e8051df522c5d06a2c562e7508a67d6e8c675ffca61",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Morelia spilota",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/61348cab69f02ba29d8c896803d6c8248168ef2f.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "20f17b082c677e43698adc9f9116ffee67186f2b9b43d40dd647d1a1c228cd9d",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Epicrates maurus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/200d87a7011201b1f72f196ca8df6ae7068ebdd4.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "e92a8e81b4b2a9f03f0b2b17ea17ceca16dbc121328ce58288d09d095f9b42e2",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Pantherophis guttatus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/cfc7ff04b48a7e3e03fb8a1f269af910eb8e829f.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "1268d23036474bdd2a4a6e51ab07009ab02fee4c08895fa84bf8e3379dedd84c",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Acrantophis dumerili",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/7ba52a0c9c5c31383b059b92a870b2877c18c4fc.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "db202da06b9b5a424c4a83541b1b9d9b76fa2b2bb08c8c0b0d0551ec9120318c",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Heterodon platirhinos",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/84bab0adf70ffea38919f558c9389763eb48e7b3.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "385a986792791538cd806ff94855296f6a5c6f1f720acda032a07a366e799d11",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Morelia viridis",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/c81744e39e62a691db732e0ade197e9e23412b6f.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "83a533e505b4eb4b85b563e3518b45706a85962921d5eb43aa056521efd8fb7c",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Eryx colubrinus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/819d9c07057f5aa5a13b3dfdb06f9a27e7a8e465.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "052c96fc4248cc955b095767ae385a6dddd21980d623ef5fe6e9f76057a325d6",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Lampropeltis triangulum",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/1bca28a02dc7516231e6590deb2ed13c8d7b2f35.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "c105c0c48bb4d16bd0649c8e45c8cf041d9222e445fb0b391d0b695eec1521c8",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Antaresia maculosa",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/324716124f7939a31fafe0e3fc67e9dbf712ab67.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "31fea301c9ebf6c6dfc47cca03e7af815f51fcd8b80bd9d25cd816cb6948734a",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Heterodon nasicus",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/b841e27176992c0737ec5bf7a037c3c95810bdff.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "daf727b4f6d8c63bc98229710e3273513e32b3c0408d437272dc32783d1ecb47",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Terrapene carolina",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/b26453f7d02cf55c7215359055440857293a271d.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "0387cca24fda9e867fd18d8029511fb43481843eb860ad903d73dec8e7c8ebdb",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Terrapene ornata",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/a9b439a084ea07aefd9b7ae040e9b1c1dca96d01.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "4ae17660d67b2ecf4b671ed8ad55588989170382a3361d0911b3bcf76559d15c",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Chrysemys picta",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/340223830b1f5150d1683f6816dc133c71cc8c0b.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "c09d52ae44013d28837f255fcefc0dae01dc324e6d81b06d017bf6b192f85482",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Malacochersus tornieri",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/3f466b5058825d40bd4e38eba486023d5e2b704e.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "7ce5adc2c3568c1d16ac5148e38e31f2dfb462a66fdd8b65a846bcd81b060907",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Chelonoidis carbonarius",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/de60f6f0661b0154cbbe5851dcae23173c59e6d4.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "fdbfd06b46beb6cd5d2a5cfc29c6a3bc323567f565500c6998af614a6c124b77",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Testudo horsfieldii",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/506790fe95ce65e866ec7470673fb2d269d70178.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "d391648ec1e43696801f56aeec02237ab944fe87d0743ef601a1e668b486e27c",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Clemmys guttata",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/7136986ca3cfb486328db1437aefd78841e8bb97.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "54ab587e0755d37d204d790ef0e93f4fe41451b0d2b4fb65adb1b5b428f1e0cf",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  },
+  {
+    "latin": "Centrochelys sulcata",
+    "url": "https://cdn.sanity.io/files/o8d5jv4e/production/799019ffd2abae7841ad350a48d91c8c163cd230.pdf",
+    "indexUrl": "https://reptifiles.com/care-sheets",
+    "publisher": "ReptiFiles",
+    "reviewedAt": "2026-11-05",
+    "sha256": "f5700003f66a39c39d6eee874e0b68c613b6c6ae57740f4f3ed984fce2217a87",
+    "scope": "species",
+    "use": "numeric and taxonomic facts only; articles, PDFs and publisher images are not redistributed"
+  }
+]

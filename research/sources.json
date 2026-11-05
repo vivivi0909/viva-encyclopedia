@@ -1,0 +1,44 @@
+[
+  {
+    "id": "reptile-taxonomy",
+    "url": "https://github.com/indicwiki-iiit/Reptile-Database",
+    "commit": "724fd058b71fea81a417ee007288ce50061eba2b",
+    "retrievedAt": "2026-11-05",
+    "license": "학명·분류·링크 사실만 추출, 서술·사진 미사용"
+  },
+  {
+    "id": "amphibian-trade",
+    "url": "https://github.com/eveskew/amphibian_trade",
+    "commit": "e38a465560f473c2022243cb73963a4347c5d73f",
+    "retrievedAt": "2026-11-05",
+    "license": "집계 사실만 사용, 개인/거래처 정보 미포함"
+  },
+  {
+    "id": "amphibian-taxonomy",
+    "url": "https://github.com/AmphibiaWeb/taxonomy-archive",
+    "commit": "bb8062fa586828c8ddd88556c301eef146a79ad8",
+    "retrievedAt": "2026-11-05",
+    "license": "학명·분류·분포국·보전등급 사실"
+  },
+  {
+    "id": "isopod-hobby",
+    "url": "https://github.com/Bbeierle12/isopod-research",
+    "commit": "867b2cea2026d7a8cb8bd8b29a10406761579db9",
+    "retrievedAt": "2026-11-05",
+    "license": "MIT"
+  },
+  {
+    "id": "tarantula-care",
+    "url": "https://github.com/Bobereg/bobereg-tarantulas",
+    "commit": "3f66e6fc4c3c3a6e4414601ade591bb89fa76553",
+    "retrievedAt": "2026-11-05",
+    "license": "개별 학명·온습도 사실만 사용, 서술·사진·코드 미사용"
+  },
+  {
+    "id": "plantfolio",
+    "url": "https://github.com/Luminoid/plantfolio-common-plants",
+    "commit": "bbb364534cfbca28168085897ac9f2ff00a151a5",
+    "retrievedAt": "2026-11-05",
+    "license": "CC BY-NC-SA 4.0; 파생 식물 자료에도 적용"
+  }
+]

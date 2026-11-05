@@ -1,0 +1,477 @@
+{
+  "total": 222,
+  "failures": [
+    {
+      "latin": "Alocasia baginda",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Alocasia cuprea",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Alocasia macrorrhizos",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Alocasia maharani",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Alocasia micholitziana",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Alocasia reginula",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Alocasia zebrina",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Anthurium clarinervium",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Anthurium crystallinum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Anthurium hookeri",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Anthurium magnificum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Anthurium veitchii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Anthurium vittarifolium",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Anthurium warocqueanum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Monstera lechleriana",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Monstera sp",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Monstera standleyana",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Philodendron brandtianum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Philodendron burle-marxii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Philodendron gloriosum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Philodendron mamei",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Philodendron melanochrysum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Philodendron plowmanii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Philodendron verrucosum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Thaumatophyllum bipinnatifidum",
+      "reason": "source title did not match exact scientific name"
+    },
+    {
+      "latin": "Thaumatophyllum xanadu",
+      "reason": "source title did not match exact scientific name"
+    },
+    {
+      "latin": "Xanthosoma sagittifolium",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Aporocactus flagelliformis",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Astrophytum asterias",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Carnegiea gigantea",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Kroenleinia grusonii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Mammillaria hahniana",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Parodia leninghausii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Blechnum gibbum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Microsorum diversifolium",
+      "reason": "source title did not match exact scientific name"
+    },
+    {
+      "latin": "Pellaea rotundifolia",
+      "reason": "source title did not match exact scientific name"
+    },
+    {
+      "latin": "Pteris cretica",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Ficus altissima",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Begonia coccinea",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Begonia ferox",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Begonia maculata",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Begonia rex-cultorum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Columnea gloriosa",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Cymbidium hybrids",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Jasminum polyanthum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Mandevilla sanderi",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Medinilla magnifica",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Paphiopedilum maudiae",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Spathiphyllum wallisii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Aglaonema commutatum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Dracaena reflexa",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Chamaedorea radicalis",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Dypsis lutescens",
+      "reason": "source title did not match exact scientific name"
+    },
+    {
+      "latin": "Ctenanthe burle-marxii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Goeppertia concinna",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Goeppertia elliptica",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Amorphophallus titanum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Cupressus macrocarpa",
+      "reason": "source title did not match exact scientific name"
+    },
+    {
+      "latin": "Geogenanthus ciliatus",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Heliconia rostrata",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Peperomia argyreia",
+      "reason": "source title did not match exact scientific name"
+    },
+    {
+      "latin": "Welwitschia mirabilis",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Aeonium arboreum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Ceropegia linearis",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Cotyledon tomentosa",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Gasteria bicolor",
+      "reason": "source title did not match exact scientific name"
+    },
+    {
+      "latin": "Haworthia cooperi",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Kalanchoe luciae",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Othonna capensis",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Pachyphytum oviferum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Pleiospilos nelii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Portulacaria afra",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Cissus discolor",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Cissus rhombifolia",
+      "reason": "source title did not match exact scientific name"
+    },
+    {
+      "latin": "Dischidia nummularia",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Hoya callistophylla",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Hoya cumingiana",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Hoya lanceolata",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Hoya linearis",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Hoya mathilde",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Hoya obovata",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Hoya wayetii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Plectranthus verticillatus",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Aster alpinus",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Aubrieta deltoidea",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Campanula alpina",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Dianthus alpinus",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Leontopodium nivale",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Lewisia cotyledon",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Primula auricula",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Aegagropila brownii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Anubias barteri",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Aponogeton distachyos",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Aquarius grisebachii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Ceratophyllum demersum",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Equisetum hyemale",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Microsorum pteropus",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Taxiphyllum barbieri",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Drosera capensis",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Pinguicula moranensis",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Sheet moss",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Vanilla planifolia",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Various lichen",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Camassia quamash",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Crocus vernus",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Dahlia pinnata",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Scilla forbesii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Zantedeschia rehmannii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Delphinium ajacis",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Osteospermum ecklonis",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Andropogon gerardii",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Bouteloua curtipendula",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Cynodon dactylon",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Pennisetum alopecuroides",
+      "reason": "source title did not match exact scientific name"
+    },
+    {
+      "latin": "Agapanthus africanus",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Alstroemeria aurea",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Aquilegia vulgaris",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "latin": "Geranium pratense",
+      "reason": "HTTP Error 404: Not Found"
+    }
+  ]
+}

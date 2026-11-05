@@ -1,0 +1,17 @@
+{
+  "reviewedAt": "2026-11-05",
+  "species": 845,
+  "withRealPhotographs": 704,
+  "withoutReusablePhoto": 141,
+  "byKind": {
+    "reptile": 254,
+    "amphibian": 89,
+    "arthropod": 82,
+    "plant": 279
+  },
+  "aiImagesUsed": 0,
+  "photographsFromCommons": 34,
+  "photographsFromINaturalist": 683,
+  "careSpeciesWithSourceFacts": 58,
+  "plantSpeciesWithNCFacts": 222
+}

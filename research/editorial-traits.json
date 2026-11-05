@@ -1,0 +1,10 @@
+{
+ "Monstera deliciosa":{"placements":["midground","background-large"],"plantingMethods":["soil"],"sizeClass":"large","note":"대형 덩굴성 관엽의 공간 계획용 편집 태그. 소형 비바리움 적합성을 뜻하지 않음"},
+ "Fittonia albivenis":{"placements":["foreground","midground"],"plantingMethods":["soil"],"sizeClass":"small","note":"낮게 자라는 지피성 식재 예시"},
+ "Nephrolepis exaltata":{"placements":["midground","background-large"],"plantingMethods":["soil"],"sizeClass":"medium","note":"성숙 크기와 잎 확장 공간을 고려한 식재 예시"},
+ "Taxiphyllum barbieri":{"placements":["foreground","wood-epiphyte","waterside"],"plantingMethods":["attachment","aquatic"],"sizeClass":"small","note":"수생 이끼의 유목·돌 고정 및 수변 활용 예시"},
+ "Epipremnum aureum":{"placements":["wall","background-large","wood-epiphyte"],"plantingMethods":["soil","climbing"],"sizeClass":"large","note":"덩굴 유도 예시이며 먹이 식물로 사용하지 않음"},
+ "Ficus pumila":{"placements":["wall","wood-epiphyte"],"plantingMethods":["soil","climbing"],"note":"부착성 덩굴의 배경 유도 예시"},
+ "Tillandsia ionantha":{"placements":["wood-epiphyte","midground"],"plantingMethods":["attachment"],"note":"착생용 고정 및 통풍을 전제로 한 활용 예시"},
+ "Platycerium bifurcatum":{"placements":["wall","wood-epiphyte"],"plantingMethods":["attachment"],"note":"박쥐란의 착생 식재 예시"}
+}

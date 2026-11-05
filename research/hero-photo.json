@@ -1,0 +1,12 @@
+{
+  "image": "./photos/grass-cc0.png",
+  "title": "Grass 01 (cropped grayscale sample)",
+  "photographer": "linolafett",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "sourcePage": "https://www.deviantart.com/linolafett/art/Grass-01-434853879",
+  "retrievedFrom": "https://github.com/scikit-image/scikit-image/blob/v0.24.0/skimage/data/grass.png",
+  "licenseEvidence": "https://github.com/scikit-image/scikit-image/blob/v0.24.0/skimage/data/_fetchers.py#L470-L486",
+  "modifications": "scikit-image upstream cropped to 512x512 and converted to grayscale; VIVA uses that sample unchanged",
+  "retrievedAt": "2026-11-05"
+}

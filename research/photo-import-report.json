@@ -1,0 +1,920 @@
+{
+  "attempted": 216,
+  "added": 4,
+  "total": 34,
+  "failures": [
+    {
+      "latin": "Eurydactylodes agricolae",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Eurydactylodes occidentalis",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Rhacodactylus trachyrhynchus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Eurydactylodes symmetricus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Goniurosaurus orientalis",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Goniurosaurus araneus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Phelsuma klemmeri",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Phelsuma robertmertensi",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Paroedura vazimba",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Teratoscincus roborowskii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Nephrurus wheeleri",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Tribolonotus novaeguineae",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Lygodactylus williamsi",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Hemidactylus imbricatus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Chalcides sexlineatus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Uromastyx acanthinura",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Uromastyx ocellata",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Agama agama",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Trioceros jacksonii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Furcifer oustaleti",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Trioceros quadricornis",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Tupinambis teguixin",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Gastropholis prasina",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Varanus acanthurus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Varanus macraei",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Varanus reisingeri",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Varanus exanthematicus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Cordylus tropidosternum",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Shinisaurus crocodilurus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Python regius",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Scincopus fasciatus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Scincus scincus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Aspidites melanocephalus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Iguana iguana",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Simalia boeleni",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Liasis fuscus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Bothrochilus boa",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Python curtus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Morelia bredli",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Morelia carinata",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Pantherophis obsoletus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Lampropeltis splendida",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Lampropeltis leonis",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Chilabothrus striatus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Gonyosoma boulengeri",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Zamenis longissimus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Lichanura trivirgata",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Dasypeltis gansi",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Pituophis catenifer",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Pituophis melanoleucus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Testudo marginata",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Kinixys belliana",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Boaedon lineatus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Thamnophis marcianus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Geochelone platynota",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Pelomedusa subrufa",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Pelomedusa olivacea",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Pelusios carinatus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Chelodina mccordi",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Thamnophis eques",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Rhinoclemmys pulcherrima",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Kinixys erosa",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Indotestudo forstenii",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Graptemys pseudogeographica",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Graptemys geographica",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Terrapene carolina",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Hymenochirus curtipes",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Oophaga pumilio",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Hymenochirus boulengeri",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Dendrobates tinctorius",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Ranitomeya fantastica",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Mesoclemmys gibba",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Trachycephalus resinifictrix",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Pelobatrachus nasuta",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Phyllobates terribilis",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Theloderma corticale",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Epipedobates tricolor",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Dyscophus guineti",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Rana pipiens",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Ranitomeya vanzolinii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Hoplobatrachus rugulosus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Agalychnis lemur",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Cornufer guentheri",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Geoemyda spengleri",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Cuora galbinifrons",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Cruziohyla calcarifer",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Dendrobates truncatus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Polypedates otilophus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Ameerega silverstonei",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Leptopelis broadleyi",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Mantella expectata",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Mantella crocea",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Zhangixalus dennysi",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Pipa pipa",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Salamandra salamandra",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Phyllobates bicolor",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Hypselotriton cyanurus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Hyla arborea",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Paramesotriton labiatus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Tylototriton kweichowensis",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Ranitomeya benedicta",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Neurergus crocatus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Tylototriton shanjing",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Paramesotriton chinensis",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Ambystoma andersoni",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Tylototriton taliangensis",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Laotriton laoensis",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Armadillidium klugii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Armadillidium espanyoli",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Armadillidium arcangelii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Schizidium tiberianum",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Ambystoma tigrinum",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Neurergus kaiseri",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Cynops ensicauda",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Schizidium hybridum",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Troglodillo rotundatus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Merulanella bicolorata",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Nesodillo arcangelii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Spherillo danae",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Porcellio werneri",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Cubaris murina",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Porcellio magnificus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Porcellio ornatus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Porcellio nicklesi",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Pseudarmadillo spinosus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Porcellio bolivari",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Porcellionides floria",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Porcellionides sexfasciatus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Androniscus dentiger",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Hemilepistus reaumuri",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Chromatopelma cyaneopubescens",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Harpactira pulchripes",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Tapinauchenius violaceus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Alocasia baginda",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Alocasia maharani",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Alocasia reginula",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Anthurium clarinervium",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Heteroscodra maculata",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Poecilotheria metallica",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Anthurium magnificum",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Anthurium veitchii",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Anthurium vittarifolium",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Dieffenbachia seguine",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Philodendron burle-marxii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Parodia leninghausii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Adiantum raddianum",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Blechnum gibbum",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Microsorum diversifolium",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Rhaphidophora tetrasperma",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Monstera sp",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Syngonium podophyllum",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Microsorum musifolium",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Begonia rex-cultorum",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Pellaea rotundifolia",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Begonia ferox",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Cymbidium hybrids",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Euphorbia milii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Hibiscus rosa-sinensis",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Dracaena angolensis",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Dracaena goldieana",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Paphiopedilum maudiae",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Dracaena trifasciata",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Heptapleurum arboricola",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Peperomia clusiifolia",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Chamaedorea seifrizii",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Dypsis lutescens",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Goeppertia makoyana",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Goeppertia orbifolia",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Goeppertia kegeljanii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Pilea peperomioides",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Peperomia argyreia",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Cupressus macrocarpa",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Adenium obesum",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Ceropegia linearis",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Goeppertia ornata",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Curio rowleyanus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Othonna capensis",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Pachyphytum oviferum",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Epipremnum aureum",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Sedum morganianum",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Gynura aurantiaca",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Hoya callistophylla",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Hoya cumingiana",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Cissus rhombifolia",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Hoya mathilde",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Pleiospilos nelii",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Hoya curtisii",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Hoya linearis",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Leontopodium nivale",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Hoya wayetii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Hoya obovata",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Aegagropila brownii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Aquarius grisebachii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Taxiphyllum barbieri",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Anubias barteri",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Microsorum pteropus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Sheet moss",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Pleopeltis polypodioides",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Fritillaria meleagris",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Various lichen",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Cosmos bipinnatus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Ageratum houstonianum",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Eustoma grandiflorum",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Osteospermum ecklonis",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Hakonechloa macra",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Andropogon gerardii",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Agave amica",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Tropaeolum majus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Pennisetum alopecuroides",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Agapanthus africanus",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Dianthus caryophyllus",
+      "reason": "no reusable, identified real photograph found"
+    },
+    {
+      "latin": "Blechnum spicant",
+      "reason": "request failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ]
+}

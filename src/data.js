@@ -1,0 +1,22 @@
+import {entries as original} from './base-data.js';
+import expanded from './catalog/expanded.json' with {type:'json'};
+import sources from '../research/sources.json' with {type:'json'};
+import {withTraits} from './traits.js';
+import {withCare} from './care.js';
+import {withPlantTraits} from './plant-traits.js';
+import commonsMedia from './catalog/media.json' with {type:'json'};
+import inatMedia from './catalog/inat-media.json' with {type:'json'};
+const media=Object.fromEntries(Object.entries({...inatMedia,...commonsMedia}).map(([latin,p])=>[latin,{...p,licenseUrl:p.licenseUrl?.replace(/^http:\/\//,'https://'),sourcePage:p.sourcePage?.replace(/^http:\/\//,'https://')} ]));
+import heroPhoto from '../research/hero-photo.json' with {type:'json'};
+export {sources,heroPhoto};
+export const photos={forest:heroPhoto.image};
+export const kindLabels={plant:'식물',reptile:'파충류',amphibian:'양서류',arthropod:'등각류·절지류',vivarium:'비바리움'};
+const revisions={'Tiliqua scincoides intermedia':'Tiliqua scincoides','Ranoidea caerulea':'Pelodryas caerulea'};
+const detailed=original.map(entry=>{
+ const latin=revisions[entry.latin]||entry.latin;
+ const reference=expanded.find(e=>e.latin===latin);
+ return {...reference,...entry,latin,kind:reference?.kind||entry.kind,group:reference?.group||entry.group,subgroup:reference?.subgroup||entry.group,aliases:[...new Set([entry.latin,...reference?.aliases||[]])],careBasis:'개별 관리 요약 · 출처 확인',comparisonEligible:true,referenceOnly:false,climateEvidence:undefined};
+});
+const detailedNames=new Set(detailed.map(e=>e.latin));
+export const entries=[...detailed,...expanded.filter(e=>!detailedNames.has(e.latin))].map(e=>({...e,image:media[e.latin]?.image||null,tile:undefined,photo:media[e.latin]||null,evidenceId:e.evidenceId||'original-care'})).map(withTraits).map(withCare).map(withPlantTraits);
+export const catalogCounts=Object.fromEntries(Object.keys(kindLabels).map(k=>[k,entries.filter(e=>e.kind===k).length]));

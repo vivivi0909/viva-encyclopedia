@@ -1,0 +1,569 @@
+{
+  "total": 683,
+  "failures": [
+    {
+      "latin": "Rhacodactylus trachyrhynchus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Eurydactylodes agricolae",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Eurydactylodes symmetricus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Eurydactylodes occidentalis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Goniurosaurus araneus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Goniurosaurus orientalis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Paroedura vazimba",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Phelsuma robertmertensi",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Hemidactylus imbricatus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Nephrurus wheeleri",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Tribolonotus novaeguineae",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Scincopus fasciatus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Scincus scincus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Uromastyx acanthinura",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Uromastyx ocellata",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Agama agama",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Trioceros jacksonii",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Trioceros quadricornis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Iguana iguana",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Tupinambis teguixin",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Gastropholis prasina",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Varanus reisingeri",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Varanus exanthematicus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Cordylus tropidosternum",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Python curtus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Morelia bredli",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Lampropeltis leonis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Pituophis catenifer",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Pituophis melanoleucus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Boaedon lineatus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Dasypeltis gansi",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Thamnophis eques",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Kinixys belliana",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Pelomedusa subrufa",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Pelusios carinatus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Rhinoclemmys pulcherrima",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Geoemyda spengleri",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Graptemys pseudogeographica",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Terrapene carolina",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Hymenochirus curtipes",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Hymenochirus boulengeri",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Dendrobates tinctorius",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Pelobatrachus nasuta",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Rana pipiens",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Ranitomeya vanzolinii",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Hoplobatrachus rugulosus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Leptopelis broadleyi",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Cruziohyla calcarifer",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Ranitomeya benedicta",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Ameerega silverstonei",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Mantella expectata",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Mantella crocea",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Pipa pipa",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Salamandra salamandra",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Hypselotriton cyanurus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Paramesotriton labiatus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Tylototriton kweichowensis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Neurergus crocatus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Paramesotriton chinensis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Tylototriton taliangensis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Cynops ensicauda",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Laotriton laoensis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Armadillidium espanyoli",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Schizidium tiberianum",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Schizidium hybridum",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Troglodillo rotundatus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Nesodillo arcangelii",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Merulanella bicolorata",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Spherillo danae",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Pseudarmadillo spinosus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Porcellio werneri",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Porcellio magnificus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Porcellio nicklesi",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Porcellio bolivari",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Porcellionides floria",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Porcellionides sexfasciatus",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Hemilepistus reaumuri",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Heteroscodra maculata",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Poecilotheria metallica",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Tapinauchenius violaceus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Alocasia baginda",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Alocasia maharani",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Anthurium magnificum",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Anthurium veitchii",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Anthurium vittarifolium",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Dieffenbachia seguine",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Monstera sp",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Philodendron burle-marxii",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Rhaphidophora tetrasperma",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Syngonium podophyllum",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Parodia leninghausii",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Blechnum gibbum",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Microsorum diversifolium",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Microsorum musifolium",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Begonia rex-cultorum",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Cymbidium hybrids",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Euphorbia milii",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Hibiscus rosa-sinensis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Paphiopedilum maudiae",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Dracaena angolensis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Dracaena goldieana",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Dracaena trifasciata",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Heptapleurum arboricola",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Peperomia clusiifolia",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Dypsis lutescens",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Goeppertia ornata",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Cupressus macrocarpa",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Peperomia argyreia",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Pilea peperomioides",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Adenium obesum",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Ceropegia linearis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Othonna capensis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Pleiospilos nelii",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Sedum morganianum",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Cissus rhombifolia",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Hoya callistophylla",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Hoya cumingiana",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Hoya linearis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Hoya mathilde",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Hoya obovata",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Hoya wayetii",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Leontopodium nivale",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Aegagropila brownii",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Anubias barteri",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Aquarius grisebachii",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Microsorum pteropus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Taxiphyllum barbieri",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Pleopeltis polypodioides",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Sheet moss",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Various lichen",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Agave amica",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Fritillaria meleagris",
+      "reason": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "latin": "Cosmos bipinnatus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Eustoma grandiflorum",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Osteospermum ecklonis",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Andropogon gerardii",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Hakonechloa macra",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Pennisetum alopecuroides",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Agapanthus africanus",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Blechnum spicant",
+      "reason": "no licensed research-grade observation photo matched"
+    },
+    {
+      "latin": "Dianthus caryophyllus",
+      "reason": "no licensed research-grade observation photo matched"
+    }
+  ]
+}

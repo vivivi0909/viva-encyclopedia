@@ -1,0 +1,4776 @@
+{
+  "Varanus acanthurus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/057158e55418ea1a4ba28e2b15f64bdc2007a503.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Ackie Monitor Ackie Monitor",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        70.0,
+        77.8
+      ],
+      "warmAir": [
+        28.9,
+        37.8
+      ],
+      "coolAir": [
+        23.9,
+        27.8
+      ]
+    },
+    "humidity": [
+      20,
+      50
+    ],
+    "minimumEnclosureCm": [
+      152.4,
+      76.2,
+      121.9
+    ],
+    "adultSizeCm": [
+      61.0,
+      61.0
+    ],
+    "lifespanYears": [
+      15,
+      15
+    ],
+    "habitats": [],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          70.0,
+          77.8
+        ],
+        "unit": "°C",
+        "statement": "•   Basking surface temperature: 158-172°F / 70-78°C"
+      },
+      {
+        "label": "warmAir",
+        "range": [
+          28.9,
+          37.8
+        ],
+        "unit": "°C",
+        "statement": "•   Warm side air temperature: 84-100°F / 29-38°C"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          27.8
+        ],
+        "unit": "°C",
+        "statement": "•   Cool side temperature: 75-82°F / 24-28°C"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          20,
+          50
+        ],
+        "unit": "%",
+        "statement": "ailable in their enclosure, from an average air humidity of 20-50%, to upwards of 80% underground. Humidity levels should be measured by"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          152.4,
+          76.2,
+          121.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "•   5’L x 2.5’W x 4’H enclosure (with 12-24” substrate dam)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      4.0,
+      6.0
+    ]
+  },
+  "Hemitheconyx caudicinctus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/4e5d983ba1fd6f88e1cc5afcda68136b3bb6142e.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "African Fat-Tailed Gecko African Fat-Tailed Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "warmHide": [
+        32.2,
+        34.4
+      ],
+      "coolAir": [
+        22.2,
+        25.0
+      ]
+    },
+    "humidity": [
+      70,
+      80
+    ],
+    "minimumEnclosureCm": [
+      91.4,
+      45.7,
+      45.7
+    ],
+    "adultSizeCm": [
+      20.3,
+      25.4
+    ],
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [],
+    "activities": [
+      "night"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "warmHide",
+        "range": [
+          32.2,
+          34.4
+        ],
+        "unit": "°C",
+        "statement": " Warm hide: 90-94°F (32-34°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          22.2,
+          25.0
+        ],
+        "unit": "°C",
+        "statement": " Cool side: 72-77°F (22-25°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          70,
+          80
+        ],
+        "unit": "%",
+        "statement": "dry/cool seasons. During the wet season (summer), shoot for 70-80% daytime and 100% nighttime. During the dry season (winter), shoot for"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          91.4,
+          45.7,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": " Front-opening 36” x 18” x 18” glass terrarium"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ]
+  },
+  "Pogona vitticeps": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/95ad1cad983f4fc5e1652176a1b7d773823f8fcd.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Bearded Dragon Bearded Dragon",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        40.6,
+        46.1
+      ],
+      "coolAir": [
+        21.1,
+        29.4
+      ]
+    },
+    "humidity": [
+      30,
+      60
+    ],
+    "minimumEnclosureCm": [
+      182.9,
+      61.0,
+      61.0
+    ],
+    "adultSizeCm": [
+      45.7,
+      61.0
+    ],
+    "lifespanYears": [
+      10,
+      15
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          40.6,
+          46.1
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface temperature: 105-115°F (40-46°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 70-85°F (21-29°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          30,
+          60
+        ],
+        "unit": "%",
+        "statement": "Bearded dragons should have an average ambient humidity of 30-60%, as measured by a digital probe hygrometer with the probe placed on t"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          182.9,
+          61.0,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "enclosure should be no smaller than 6’L x 2’W x 2’H, preferably larger. The enclosure should be front-"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      4.0,
+      4.5
+    ]
+  },
+  "Phelsuma cepediana": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/08e8aa1067d0a128fbeffb5f808e709b0c5f767a.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Blue-Tailed Day Gecko Blue Tailed Day Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        29.4,
+        32.2
+      ],
+      "coolAir": [
+        22.2,
+        26.7
+      ]
+    },
+    "humidity": null,
+    "minimumEnclosureCm": [
+      30.5,
+      30.5,
+      45.7
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": null,
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          29.4,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 85-90°F (29-32°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          22.2,
+          26.7
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 72-80°F (22-27°C)"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          30.5,
+          30.5,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 12”L x 12”W x 18”H terrarium, or larger"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Mniarogekko chahoua": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/ec8ff675e6eb893947eb06fd8c39b6de79753c80.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Chahoua Gecko Chahoua Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        27.8,
+        29.4
+      ],
+      "coolAir": [
+        22.2,
+        23.9
+      ]
+    },
+    "humidity": [
+      60,
+      80
+    ],
+    "minimumEnclosureCm": [
+      91.4,
+      45.7,
+      91.4
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "night"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          27.8,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 82-85°F (28-29°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          22.2,
+          23.9
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 72-75°F (22-24°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          80
+        ],
+        "unit": "%",
+        "statement": "in a high-humidity environment, with an average humidity of 60-80% as measured by a digital probe hygrometer with the probe placed in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          91.4,
+          45.7,
+          91.4
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 36”L x 18”W x 36”H terrarium"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ]
+  },
+  "Eurydactylodes agricolae": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/6c8d00a98196433991534ca05c806a2e3721fe98.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Chameleon Gecko Chameleon Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        27.8,
+        29.4
+      ],
+      "coolAir": [
+        21.1,
+        23.9
+      ]
+    },
+    "humidity": null,
+    "minimumEnclosureCm": [
+      45.0,
+      45.0,
+      60.0
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      10,
+      10
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "night"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          27.8,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": " Basking area: 82-85°F (27-29°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          23.9
+        ],
+        "unit": "°C",
+        "statement": " Cool zone: 70-75°F (21-24°C)"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          45.0,
+          45.0,
+          60.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "minimum recommended enclosure size for a single chameleon gecko is 18″L x 18″W x 24″H / 45 x 45 x 60cm or"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "group",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ]
+  },
+  "Physignathus cocincinus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/3c1b1377968c15ee970cdde5aa5d3d4209d6cb6f.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Chinese Water Dragon Chinese Water Dragon",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        35.0
+      ],
+      "ambient": [
+        25.0,
+        30.0
+      ]
+    },
+    "humidity": [
+      60,
+      80
+    ],
+    "minimumEnclosureCm": [
+      182.9,
+      91.4,
+      182.9
+    ],
+    "adultSizeCm": [
+      91.4,
+      91.4
+    ],
+    "lifespanYears": [
+      10,
+      15
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          35.0
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 90-95°F (32-35°C)"
+      },
+      {
+        "label": "ambient",
+        "range": [
+          25.0,
+          30.0
+        ],
+        "unit": "°C",
+        "statement": "   Daytime air temperature: 77-86°F (25-30°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          80
+        ],
+        "unit": "%",
+        "statement": "gh-humidity environment, with a daytime average humidity of 60-80%, plus a large pool of water for swimming. Humidity should be measured"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          182.9,
+          91.4,
+          182.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   6’ x 3’ x 6’ front-opening enclosure                         65 gallon Christmas tree storage bin"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  },
+  "Tupinambis teguixin": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/4e2136ecdf66c5cc3d00b468bfef0f624f1a2ff2.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Colombian Tegu Colombian Tegu",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        51.7,
+        57.2
+      ],
+      "coolAir": [
+        23.9,
+        29.4
+      ]
+    },
+    "humidity": [
+      70,
+      80
+    ],
+    "minimumEnclosureCm": [
+      182.9,
+      91.4,
+      91.4
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      10,
+      15
+    ],
+    "habitats": [
+      "semiaquatic",
+      "terrestrial"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          51.7,
+          57.2
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface temperature: 125-135°F (52-57°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 75-85°F (24-29°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          70,
+          80
+        ],
+        "unit": "%",
+        "statement": "in a high-humidity environment, with an average humidity of 70-80% as measured by a digital probe hygrometer with the probe placed on th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          182.9,
+          91.4,
+          91.4
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   6’ x 3’ x 3’ front-opening reptile enclosure"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다. 원문의 반수생 성향 가능성 표현은 완전 수생 사육을 뜻하지 않습니다.",
+    "scope": "group",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Sauromalus ater": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/b9f7dbf14552ff4bc879ec15f7cf1a7032b5cd2a.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Common Chuckwalla Common Chuckwalla",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        43.3,
+        51.7
+      ],
+      "coolAir": [
+        25.6,
+        31.1
+      ]
+    },
+    "humidity": [
+      15,
+      65
+    ],
+    "minimumEnclosureCm": [
+      121.9,
+      61.0,
+      61.0
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      30,
+      30
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          43.3,
+          51.7
+        ],
+        "unit": "°C",
+        "statement": " Basking surface temperature: 110-125°F"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          25.6,
+          31.1
+        ],
+        "unit": "°C",
+        "statement": " Cool zone (ambient) temperature: 78-88°F"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          15,
+          65
+        ],
+        "unit": "%",
+        "statement": "to a humid hide and ambient humidity levels largely between 15-65%, and you should have nothing to worry about. To measure humidity lev"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          121.9,
+          61.0,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "A long-term enclosure for a common chuckwalla should be no smaller than 4’L x 2’W x 2’H. The enclosure should"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      4.5,
+      6.0
+    ]
+  },
+  "Correlophus ciliatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/3fbcb32129c833cded28d5e248c9dbbb8731a568.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Crested Gecko Crested Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        27.8,
+        29.4
+      ],
+      "coolAir": [
+        21.1,
+        23.9
+      ]
+    },
+    "humidity": [
+      60,
+      80
+    ],
+    "minimumEnclosureCm": [
+      45.7,
+      45.7,
+      91.4
+    ],
+    "adultSizeCm": [
+      15.2,
+      20.3
+    ],
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [
+      "humid"
+    ],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          27.8,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 82-85°F (28-29°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          23.9
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 70-75°F (21-24°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          80
+        ],
+        "unit": "%",
+        "statement": "in a high-humidity environment, with an average humidity of 60-80% as measured by a digital probe hygrometer with the probe placed in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          45.7,
+          45.7,
+          91.4
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "Juveniles and adults >12g: minimum 18×18×36 in",
+        "sourceUrl": "https://reptifiles.com/crested-gecko/care-guide/crested-gecko-terrarium-size-cohabitation"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ],
+    "minimumEnclosureScope": "최신 웹 장의 >12g 유체·성체 기준 18×18×36 in. PDF의 과거 18×18×24 in 규격을 대체",
+    "minimumEnclosureSource": "https://reptifiles.com/crested-gecko/care-guide/crested-gecko-terrarium-size-cohabitation"
+  },
+  "Mochlus fernandi": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/e62c59011c0028f7b28335b243791357bc5ce86b.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Fire Skink Fire Skink",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        33.3,
+        35.6
+      ],
+      "coolAir": [
+        23.9,
+        29.4
+      ]
+    },
+    "humidity": [
+      60,
+      70
+    ],
+    "minimumEnclosureCm": [
+      91.4,
+      45.7,
+      45.7
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [
+      "insectivore"
+    ],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          33.3,
+          35.6
+        ],
+        "unit": "°C",
+        "statement": " Basking temperature: 92-96°F (33-35.5°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": " Cool zone temperature: 75-85°F (24-29°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          70
+        ],
+        "unit": "%",
+        "statement": "Fire skinks should have average humidity levels between 60-70%. Ambient humidity should be tracked via digital probe hygrometer with"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          91.4,
+          45.7,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "minimum recommended enclosure size for housing a single fire skink is 36”L x 18”W x 18”H / 90 x 45 x"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Rhacodactylus auriculatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/0332a8a3a8d380e28261d5c4e9327ee03f2c38b1.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Gargoyle Gecko Gargoyle Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        27.8,
+        29.4
+      ],
+      "coolAir": [
+        21.1,
+        23.9
+      ]
+    },
+    "humidity": [
+      60,
+      80
+    ],
+    "minimumEnclosureCm": [
+      45.7,
+      45.7,
+      61.0
+    ],
+    "adultSizeCm": [
+      15.2,
+      20.3
+    ],
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [
+      "humid"
+    ],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          27.8,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 82-85°F (28-29°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          23.9
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 70-75°F (21-24°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          80
+        ],
+        "unit": "%",
+        "statement": "in a high-humidity environment, with an average humidity of 60-80% as measured by a digital probe hygrometer with the probe placed in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          45.7,
+          45.7,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 18” x 18” x 24” glass terrarium"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ]
+  },
+  "Phelsuma grandis": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/7520795f2f26027f845bfc9cf00245bffaec292e.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Giant Day Gecko Giant Day Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        29.4,
+        32.2
+      ],
+      "coolAir": [
+        25.0,
+        27.8
+      ]
+    },
+    "humidity": [
+      40,
+      75
+    ],
+    "minimumEnclosureCm": [
+      61.0,
+      61.0,
+      121.9
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          29.4,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 85-90°F (29-32°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          25.0,
+          27.8
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 77-82°F (25-28°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          40,
+          75
+        ],
+        "unit": "%",
+        "statement": "high-humidity environment, with an average humidity between 40- 75% as measured by a digital probe hygrometer with the probe placed in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          61.0,
+          61.0,
+          121.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 24”L x 24”W x 48”H terrarium, or larger"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Uroplatus fimbriatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/801bab5d7046ae48b216149ed65392fe271a841a.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Giant Leaf-Tailed Gecko Giant Leaf-Tailed Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        26.7,
+        27.8
+      ],
+      "ambient": [
+        24.4,
+        25.6
+      ],
+      "coolAir": [
+        21.1,
+        23.3
+      ]
+    },
+    "humidity": [
+      60,
+      70
+    ],
+    "minimumEnclosureCm": [
+      91.4,
+      45.7,
+      91.4
+    ],
+    "adultSizeCm": [
+      27.9,
+      33.0
+    ],
+    "lifespanYears": [
+      15,
+      15
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          26.7,
+          27.8
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 80-82°F (28-29°C)"
+      },
+      {
+        "label": "ambient",
+        "range": [
+          24.4,
+          25.6
+        ],
+        "unit": "°C",
+        "statement": "   Average air temperature: 76-78°F (24-25°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          23.3
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 70-74°F (21-23°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          70
+        ],
+        "unit": "%",
+        "statement": "in a high-humidity environment, with an average humidity of 60-70% during the day and 75-85% at night, as measured by a digital probe hy"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          91.4,
+          45.7,
+          91.4
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 36” x 18” x 36” glass terrarium"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ]
+  },
+  "Phelsuma laticauda": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/fc738cef6c7fbf8b6e2c2edb7cc3570cbeb3bd4c.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Gold Dust Day Gecko Gold Dust Day Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        32.2
+      ]
+    },
+    "humidity": [
+      40,
+      70
+    ],
+    "minimumEnclosureCm": [
+      30.5,
+      30.5,
+      45.7
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      15,
+      15
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 90°F (32°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          40,
+          70
+        ],
+        "unit": "%",
+        "statement": "- to high-humidity environment, with an average humidity of 40- 70% as measured by a digital probe hygrometer with the probe placed in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          30.5,
+          30.5,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 12”L x 12”W x 18”H terrarium, or larger"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Anolis carolinensis": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/3b36d1409bdedb4f9e29f553acf33e52c64b5d01.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Green Anole Green Anole",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        32.2
+      ],
+      "coolAir": [
+        21.1,
+        25.0
+      ]
+    },
+    "humidity": [
+      60,
+      70
+    ],
+    "minimumEnclosureCm": [
+      60.0,
+      60.0,
+      60.0
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      10,
+      10
+    ],
+    "habitats": [
+      "arboreal",
+      "terrestrial"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": " Basking area temperature: 90°F (32°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          25.0
+        ],
+        "unit": "°C",
+        "statement": " Cool side temperature: 70-77°F (21-25°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          70
+        ],
+        "unit": "%",
+        "statement": "midity environment, with a daytime average humidity between 60- 70%, ranging lower during the day and higher at night. Humidity should b"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          60.0,
+          60.0,
+          60.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "enclosure size for housing a single green anole is 24\"L x 24\"W x 24\"H, or 60 x 60 x 60cm. If possible,"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  },
+  "Iguana iguana": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/87632a149ccd8a1c4d5bf1bd6f4ed57a43aa9d49.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Green Iguana Green Iguana",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        48.9,
+        48.9
+      ]
+    },
+    "humidity": [
+      60,
+      80
+    ],
+    "minimumEnclosureCm": [
+      304.8,
+      152.4,
+      182.9
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": null,
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "ventilation": null,
+    "difficulty": "어려움",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          48.9,
+          48.9
+        ],
+        "unit": "°C",
+        "statement": " Basking surface temperature: ~120°F (50°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          80
+        ],
+        "unit": "%",
+        "statement": "midity environment, with a daytime average humidity between 60-80%, and nighttime humidity levels spiking up to 100%. Humidity should b"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          304.8,
+          152.4,
+          182.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": " 10’L x 5’W x 6’H walk-in enclosure, or larger"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Tiliqua gigas": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/35c53ff39d260033201fb71350f172b03882516c.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Indonesian Blue Tongue Skink Indonesian Blue Tongue Skink",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        37.8,
+        40.6
+      ],
+      "coolAir": [
+        21.1,
+        26.7
+      ]
+    },
+    "humidity": [
+      60,
+      80
+    ],
+    "minimumEnclosureCm": [
+      121.9,
+      61.0,
+      61.0
+    ],
+    "adultSizeCm": [
+      45.7,
+      61.0
+    ],
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          37.8,
+          40.6
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface temperature: 100-105°F (38-41°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          26.7
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 70-80°F (21-27°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          80
+        ],
+        "unit": "%",
+        "statement": "ue tongue skinks should have an average ambient humidity of 60-80%, as measured by a digital probe hygrometer with the probe placed on t"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          121.9,
+          61.0,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   48”x24”x24” reptile enclosure (preferably front-opening)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Trioceros jacksonii": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/5f1b3708560024f2080f3fc8d21513328cac3a81.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Jackson's Chameleon Jackson's Chameleon",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        26.7,
+        29.4
+      ]
+    },
+    "humidity": null,
+    "minimumEnclosureCm": [
+      61.0,
+      61.0,
+      121.9
+    ],
+    "adultSizeCm": [
+      17.8,
+      35.6
+    ],
+    "lifespanYears": [
+      9,
+      9
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          26.7,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": " Basking area temperature: 80-85°F (26-29°C)"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          61.0,
+          61.0,
+          121.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "The minimum recommended enclosure size for a single Jackson’s chameleon is 24”L x 24”W x 48”H. If"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Rhacodactylus leachianus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/78695dbedd363bef6521810b5e28006e79544e69.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Leachie Gecko Leachie Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        30.0,
+        31.1
+      ],
+      "ambient": [
+        22.2,
+        25.6
+      ]
+    },
+    "humidity": [
+      60,
+      80
+    ],
+    "minimumEnclosureCm": [
+      121.9,
+      61.0,
+      121.9
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      20,
+      30
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "night"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          30.0,
+          31.1
+        ],
+        "unit": "°C",
+        "statement": "• Basking area temperature: 86-88°F (30-31°C)"
+      },
+      {
+        "label": "ambient",
+        "range": [
+          22.2,
+          25.6
+        ],
+        "unit": "°C",
+        "statement": "• Ambient temperature: 72-78°F (22-26°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          80
+        ],
+        "unit": "%",
+        "statement": "in a high-humidity environment, with an average humidity of 60-80% as measured by a digital probe hygrometer with the probe placed in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          121.9,
+          61.0,
+          121.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "•   Front-opening 48”L x 24”W x 48”H terrarium"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Eublepharis macularius": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/886009b215bcdc8e9ce3737d0d62a0a8bdaf9d36.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Leopard Gecko Leopard Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        34.4,
+        36.1
+      ],
+      "warmHide": [
+        32.2,
+        33.3
+      ],
+      "coolAir": [
+        21.1,
+        25.0
+      ]
+    },
+    "humidity": [
+      30,
+      40
+    ],
+    "minimumEnclosureCm": [
+      91.4,
+      45.7,
+      45.7
+    ],
+    "adultSizeCm": [
+      17.8,
+      25.4
+    ],
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          34.4,
+          36.1
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface temperature: 94-97°F (34-36°C)"
+      },
+      {
+        "label": "warmHide",
+        "range": [
+          32.2,
+          33.3
+        ],
+        "unit": "°C",
+        "statement": "   Warm hide temperature: 90-92°F (32-33°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          25.0
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 70-77°F (21-25°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          30,
+          40
+        ],
+        "unit": "%",
+        "statement": "ckets of higher humidity. Ideal average ambient humidity is 30-40%. Humidity levels that are consistently too high or low can cause heal"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          91.4,
+          45.7,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 36” x 18” x 18” glass terrarium"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ]
+  },
+  "Phelsuma lineata": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/d1272fe39cc063b2a1cdbc38cbb4de676dadbc1b.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Lined Day Gecko Lined Day Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        27.8,
+        30.0
+      ]
+    },
+    "humidity": [
+      50,
+      80
+    ],
+    "minimumEnclosureCm": [
+      30.5,
+      30.5,
+      45.7
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      15,
+      15
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          27.8,
+          30.0
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 82-86°F (28-30°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          50,
+          80
+        ],
+        "unit": "%",
+        "statement": "- to high-humidity environment, with an average humidity of 50-80% as measured by a digital probe hygrometer with the probe placed in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          30.5,
+          30.5,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 12”L x 12”W x 18”H terrarium, or larger"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Uroplatus lineatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/f77daf7c09f4da7dd686c33069425d7d9c726df5.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Lined Leaf-Tailed Gecko Lined Leaf-Tailed Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        26.7,
+        27.8
+      ],
+      "ambient": [
+        23.9,
+        25.6
+      ],
+      "coolAir": [
+        22.2,
+        23.9
+      ]
+    },
+    "humidity": null,
+    "minimumEnclosureCm": [
+      45.7,
+      45.7,
+      91.4
+    ],
+    "adultSizeCm": [
+      25.4,
+      27.9
+    ],
+    "lifespanYears": [
+      15,
+      15
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          26.7,
+          27.8
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 80-82°F (28-29°C)"
+      },
+      {
+        "label": "ambient",
+        "range": [
+          23.9,
+          25.6
+        ],
+        "unit": "°C",
+        "statement": "   Average air temperature: 75-78°F (24-25°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          22.2,
+          23.9
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 72-75°F (22-24°C)"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          45.7,
+          45.7,
+          91.4
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 18” x 18” x 36” glass terrarium"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ]
+  },
+  "Uroplatus sikorae": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/2f8abaefe7745d61db41170228c06a69d5a9ce52.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Mossy Leaf-Tailed Gecko Mossy Leaf-Tailed Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        27.8,
+        28.9
+      ],
+      "ambient": [
+        22.2,
+        25.6
+      ],
+      "coolAir": [
+        20.0,
+        22.2
+      ]
+    },
+    "humidity": [
+      70,
+      75
+    ],
+    "minimumEnclosureCm": [
+      45.7,
+      45.7,
+      61.0
+    ],
+    "adultSizeCm": [
+      15.2,
+      20.3
+    ],
+    "lifespanYears": [
+      15,
+      15
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          27.8,
+          28.9
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 82-84°F (27-29°C)"
+      },
+      {
+        "label": "ambient",
+        "range": [
+          22.2,
+          25.6
+        ],
+        "unit": "°C",
+        "statement": "   Average air temperature: 72-78°F (22-25°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          20.0,
+          22.2
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 68-72°F (20-22°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          70,
+          75
+        ],
+        "unit": "%",
+        "statement": "in a high-humidity environment, with an average humidity of 70-75% during the day and 80-85% at night, as measured by a digital probe hy"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          45.7,
+          45.7,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 18” x 18” x 24” glass terrarium"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ]
+  },
+  "Lepidodactylus lugubris": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/eb0549b515c4cbb06ead266d4e87e4413620f4a4.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Mourning Gecko Mourning Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        26.7,
+        29.4
+      ],
+      "coolAir": [
+        21.1,
+        23.9
+      ]
+    },
+    "humidity": [
+      60,
+      80
+    ],
+    "minimumEnclosureCm": [
+      30,
+      30,
+      45
+    ],
+    "adultSizeCm": [
+      10.2,
+      10.2
+    ],
+    "lifespanYears": [
+      10,
+      10
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [
+      "humid"
+    ],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": "앞문식 사육장·미세 메시 환기와 유체 탈출 방지 틈새 처리를 원문에서 권고",
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          26.7,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 80-85°F (26-29°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          23.9
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 70-75°F (21-24°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          80
+        ],
+        "unit": "%",
+        "statement": "in a high-humidity environment, with an average humidity of 60-80% as measured by a digital probe hygrometer with the probe placed in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          30,
+          30,
+          45
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "Adults 2–3: 12×12×18 in (30×30×45 cm); fine mesh ventilation; escape prevention",
+        "sourceUrl": "https://reptifiles.com/mourning-gecko/care-guide/mourning-gecko-enclosure-size"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ],
+    "minimumEnclosureScope": "원문은 성체 2–3마리 그룹 예시. 실제 개체수·번식·합사 위험은 별도 검토",
+    "ventilationSource": "https://reptifiles.com/mourning-gecko/care-guide/mourning-gecko-enclosure-size",
+    "minimumEnclosureSource": "https://reptifiles.com/mourning-gecko/care-guide/mourning-gecko-enclosure-size"
+  },
+  "Phelsuma klemmeri": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/4a190795a6642af2c5c868874e76bd29ec045d76.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Neon Day Gecko Neon Day Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        32.2
+      ]
+    },
+    "humidity": [
+      60,
+      80
+    ],
+    "minimumEnclosureCm": [
+      30.5,
+      30.5,
+      45.7
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      15,
+      15
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 90°F (32°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          80
+        ],
+        "unit": "%",
+        "statement": "- to high-humidity environment, with an average humidity of 60-80% as measured by a digital probe hygrometer with the probe placed in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          30.5,
+          30.5,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 12”L x 12”W x 18”H terrarium, or larger"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Tiliqua scincoides": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/d86901ef1ce40bdab9577f9ce89fa4b75945ca3e.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Northern Blue Tongue Skink Northern Blue Tongue Skink",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        40.6,
+        46.1
+      ],
+      "coolAir": [
+        21.1,
+        26.7
+      ]
+    },
+    "humidity": [
+      40,
+      60
+    ],
+    "minimumEnclosureCm": [
+      121.9,
+      61.0,
+      61.0
+    ],
+    "adultSizeCm": [
+      45.7,
+      61.0
+    ],
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          40.6,
+          46.1
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface temperature: 105-115°F (40-46°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          26.7
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 70-80°F (21-27°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          40,
+          60
+        ],
+        "unit": "%",
+        "statement": "ue tongue skinks should have an average ambient humidity of 40-60%, as measured by a digital probe hygrometer with the probe placed on t"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          121.9,
+          61.0,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   48”x24”x24” reptile enclosure (preferably front-opening)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Chalcides ocellatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/64ae355fee3f58a83605740f79e3b5cedc2b233f.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Ocellated Skink Ocellated Skink",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        43.3,
+        48.9
+      ],
+      "coolAir": [
+        23.9,
+        29.4
+      ]
+    },
+    "humidity": [
+      15,
+      35
+    ],
+    "minimumEnclosureCm": [
+      61.0,
+      45.7,
+      30.5
+    ],
+    "adultSizeCm": [
+      17.8,
+      22.9
+    ],
+    "lifespanYears": null,
+    "habitats": [],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          43.3,
+          48.9
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface temperature: 110-120°F / 43-49°C"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "   Cool side temperature: 75-85°F / 24-29°C"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          15,
+          35
+        ],
+        "unit": "%",
+        "statement": "Ocellated skinks should have a daily humidity cycle of 15-35% during the day and a spike up to 90-100% in the evening. Humidity lev"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          61.0,
+          45.7,
+          30.5
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Exo Terra Glass Terrarium, 24”L x 18”W x 12”H (OR LARGER)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Furcifer pardalis": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/0a2447c21c2c323a3a572fe1cecb496b9622cc75.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Panther Chameleon Panther Chameleon",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        29.4,
+        32.2
+      ]
+    },
+    "humidity": [
+      50,
+      60
+    ],
+    "minimumEnclosureCm": [
+      61.0,
+      61.0,
+      121.9
+    ],
+    "adultSizeCm": [
+      40.6,
+      50.8
+    ],
+    "lifespanYears": [
+      6,
+      6
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          29.4,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 85-90°F (29-32°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          50,
+          60
+        ],
+        "unit": "%",
+        "statement": "in a high-humidity environment, with a relative humidity of 50-60% during the day, and 75-100% at night as measured by a digital probe h"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          61.0,
+          61.0,
+          121.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "wide. The minimum recommended enclosure size for a single panther chameleon is 24”L x 24”W x 48”H."
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Phelsuma quadriocellata": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/66f83adb31aef3fc15f1e2b6a3f553c9d0570fde.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Peacock Day Gecko Peacock Day Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        27.8,
+        30.0
+      ]
+    },
+    "humidity": [
+      40,
+      75
+    ],
+    "minimumEnclosureCm": [
+      30.5,
+      30.5,
+      45.7
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      15,
+      15
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          27.8,
+          30.0
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 82-86°F (28-30°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          40,
+          75
+        ],
+        "unit": "%",
+        "statement": "h-humidity environment, with an average daytime humidity of 40-75% as measured by a digital probe hygrometer with the probe placed in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          30.5,
+          30.5,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 12”L x 12”W x 18”H terrarium, or larger"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Tribolonotus gracilis": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/fee8eb348b136cc829e8ce37aadf77ad9fb2d072.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Red-Eyed Crocodile Skink Red-Eyed Crocodile Skink",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "warmHide": [
+        26.7,
+        27.8
+      ],
+      "coolAir": [
+        23.9,
+        25.6
+      ]
+    },
+    "humidity": [
+      70,
+      80
+    ],
+    "minimumEnclosureCm": [
+      45.7,
+      45.7,
+      45.7
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      10,
+      10
+    ],
+    "habitats": [
+      "terrestrial",
+      "fossorial"
+    ],
+    "climates": [],
+    "activities": [
+      "night"
+    ],
+    "diets": [
+      "insectivore"
+    ],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "warmHide",
+        "range": [
+          26.7,
+          27.8
+        ],
+        "unit": "°C",
+        "statement": "   Warm hide temperature: 80-82°F (27-28°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          25.6
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 75-78°F (24-26°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          70,
+          80
+        ],
+        "unit": "%",
+        "statement": "very sensitive to dehydration. Keep humidity levels around 70-80% during the day, and higher (80-100%) at night. Ambient humidity shoul"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          45.7,
+          45.7,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 18”L x 18”W x 18”H terrarium, or larger"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다. 원자료의 도입부(반지중성)와 일부 사육장 문장(수목성) 표현이 충돌하므로 수목성 태그는 제외했습니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ]
+  },
+  "Uroplatus phantasticus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/ec74d65ba4f9a8a62ba5873048266442c4f44a01.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Satanic Leaf-Tailed Gecko Satanic Leaf-Tailed Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        26.7,
+        29.4
+      ],
+      "ambient": [
+        20.0,
+        25.0
+      ],
+      "coolAir": [
+        18.3,
+        20.0
+      ]
+    },
+    "humidity": [
+      75,
+      80
+    ],
+    "minimumEnclosureCm": [
+      45.7,
+      45.7,
+      45.7
+    ],
+    "adultSizeCm": [
+      10.2,
+      10.2
+    ],
+    "lifespanYears": [
+      15,
+      15
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          26.7,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 80-85°F (27-29°C)"
+      },
+      {
+        "label": "ambient",
+        "range": [
+          20.0,
+          25.0
+        ],
+        "unit": "°C",
+        "statement": "   Average air temperature: 68-77°F (20-25°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          18.3,
+          20.0
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 65-68°F (18-20°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          75,
+          80
+        ],
+        "unit": "%",
+        "statement": "in a high-humidity environment, with an average humidity of 75-80% during the day and 90-100% at night, as measured by a digital probe h"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          45.7,
+          45.7,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 18” x 18” x 18” glass terrarium"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ]
+  },
+  "Phelsuma standingi": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/dba9198082310ac647d372dcafd68fbba0ea57c1.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Standing's Day Gecko Standing's Day Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        35.0
+      ],
+      "coolAir": [
+        23.9,
+        31.1
+      ]
+    },
+    "humidity": [
+      40,
+      75
+    ],
+    "minimumEnclosureCm": [
+      61.0,
+      61.0,
+      121.9
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [
+      "omnivore"
+    ],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          35.0
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 90-95°F (32-35°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          31.1
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 75-88°F (24-31°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          40,
+          75
+        ],
+        "unit": "%",
+        "statement": "high-humidity environment, with an average humidity between 40-75% as measured by a digital probe hygrometer with the probe placed in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          61.0,
+          61.0,
+          121.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 24”L x 24”W x 48”H terrarium, or larger"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      3.0,
+      4.0
+    ]
+  },
+  "Gekko gecko": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/3c94644181085c7f3df3c3d21bd3038cf28d07fa.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Tokay Gecko Tokay Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        37.8
+      ],
+      "coolAir": [
+        26.7,
+        29.4
+      ]
+    },
+    "humidity": [
+      60,
+      80
+    ],
+    "minimumEnclosureCm": [
+      61.0,
+      61.0,
+      121.9
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "night"
+    ],
+    "diets": [
+      "carnivore"
+    ],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          37.8
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 90-100°F (32-38°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          26.7,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 80-85°F (26-29°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          80
+        ],
+        "unit": "%",
+        "statement": "in a high-humidity environment with humidity levels between 60-80% as measured by a digital probe hygrometer with the probe placed in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          61.0,
+          61.0,
+          121.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 24”L x 24”W x 48”H terrarium, or larger"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ]
+  },
+  "Chamaeleo calyptratus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/96fc1ea5c2a5e879af73ebe6572fd989199a28b1.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Veiled Chameleon Veiled Chameleon",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        29.4,
+        29.4
+      ]
+    },
+    "humidity": [
+      40,
+      50
+    ],
+    "minimumEnclosureCm": [
+      61.0,
+      61.0,
+      121.9
+    ],
+    "adultSizeCm": [
+      55.9,
+      55.9
+    ],
+    "lifespanYears": [
+      6,
+      8
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          29.4,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 85°F (29°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          40,
+          50
+        ],
+        "unit": "%",
+        "statement": "rly low humidity during the day and high humidity at night: 40-50% during the day, and 80-100% at night as measured by a digital probe h"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          61.0,
+          61.0,
+          121.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "recommended enclosure size for a single veiled chameleon is 24”L x 24”W x 48”H. If possible, larger is"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  },
+  "Hemidactylus imbricatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/7516ce8db9658c2bf20bd2651d9bd7c420b01b00.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Carrot-Tail Viper Gecko Viper Gecko",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        35.0
+      ],
+      "coolAir": [
+        23.9,
+        29.4
+      ]
+    },
+    "humidity": null,
+    "minimumEnclosureCm": [
+      61.0,
+      45.7,
+      45.7
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      10,
+      15
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [
+      "insectivore"
+    ],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          35.0
+        ],
+        "unit": "°C",
+        "statement": "   Basking temperature: 90-95°F (33-35°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 75-85°F (24-29°C)"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          61.0,
+          45.7,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   Front-opening 24” x 18” x 18” glass terrarium"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      1.0,
+      2.0
+    ]
+  },
+  "Python regius": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/d65b64aeee0c4ae85af237331a8eb555daadfcc4.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Ball Python Ball Python",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        35.0,
+        40.0
+      ],
+      "warmHide": [
+        30.0,
+        32.2
+      ],
+      "coolHide": [
+        22.2,
+        26.7
+      ]
+    },
+    "humidity": [
+      45,
+      75
+    ],
+    "minimumEnclosureCm": [
+      121.9,
+      61.0,
+      61.0
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      30,
+      30
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          35.0,
+          40.0
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface temperature: 95-104°F (35-40°C)"
+      },
+      {
+        "label": "warmHide",
+        "range": [
+          30.0,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": "   Warm hide temperature: 86-90°F (30-32°C)"
+      },
+      {
+        "label": "coolHide",
+        "range": [
+          22.2,
+          26.7
+        ],
+        "unit": "°C",
+        "statement": "   Cool hide temperature: 72-80°F (22-27°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          45,
+          75
+        ],
+        "unit": "%",
+        "statement": "Ball pythons need a range of humidity levels from 45-75% in their enclosure, as measured by a digital probe hygrometer with th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          121.9,
+          61.0,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   48”x24”x24” reptile enclosure (preferably front-opening)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Pantherophis obsoletus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/b1d320b41f7e816c8bcd4c20dd28d9af01be8b65.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Black Ratsnake Black Ratsnake",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        29.4,
+        32.2
+      ],
+      "coolAir": [
+        22.2,
+        25.0
+      ]
+    },
+    "humidity": [
+      50,
+      70
+    ],
+    "minimumEnclosureCm": [
+      182.9,
+      91.4,
+      121.9
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      15,
+      15
+    ],
+    "habitats": [],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          29.4,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": "   Basking area: 85-90°F (29-32°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          22.2,
+          25.0
+        ],
+        "unit": "°C",
+        "statement": "   Cool side: 72-77°F (22-25°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          50,
+          70
+        ],
+        "unit": "%",
+        "statement": "Black ratsnakes need an average humidity of 50-70%, as measured by a digital probe hygrometer with the probe place in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          182.9,
+          91.4,
+          121.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   6’ x 3’ x 4’ reptile enclosure, front-opening, mesh top"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Epicrates cenchria": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/445ac77085bf5355ae66c75e6e81e8c9238667a4.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Brazilian Rainbow Boa Brazilian Rainbow Boa",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        32.2
+      ],
+      "ambient": [
+        25.6,
+        30.0
+      ]
+    },
+    "humidity": null,
+    "minimumEnclosureCm": [
+      182.9,
+      91.4,
+      182.9
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      30,
+      30
+    ],
+    "habitats": [
+      "arboreal",
+      "terrestrial"
+    ],
+    "climates": [],
+    "activities": [
+      "night"
+    ],
+    "diets": [],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": "   Basking area: 90°F (32°C)"
+      },
+      {
+        "label": "ambient",
+        "range": [
+          25.6,
+          30.0
+        ],
+        "unit": "°C",
+        "statement": "   Daytime ambient temperature: 78-86°F (26-30°C)"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          182.9,
+          91.4,
+          182.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   6’ x 3’ x 6’ reptile enclosure (front-opening)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Morelia bredli": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/7205ee46ddf654eca7c0751b284f20873be33027.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Bredl's Python Bredl's Python",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        36.7,
+        40.0
+      ],
+      "coolAir": [
+        27.8,
+        28.9
+      ]
+    },
+    "humidity": null,
+    "minimumEnclosureCm": [
+      243.8,
+      121.9,
+      121.9
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": null,
+    "habitats": [
+      "arboreal",
+      "terrestrial"
+    ],
+    "climates": [],
+    "activities": [],
+    "diets": [],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          36.7,
+          40.0
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface: 98-104°F (37-40°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          27.8,
+          28.9
+        ],
+        "unit": "°C",
+        "statement": "   Cool end: 82-84°F (28-29°C)"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          243.8,
+          121.9,
+          121.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   8’ x 4’ x 4’ reptile enclosure (front-opening)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Morelia spilota": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/61348cab69f02ba29d8c896803d6c8248168ef2f.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Carpet Python Carpet Python",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        35.0,
+        37.8
+      ],
+      "coolAir": [
+        23.9,
+        26.7
+      ]
+    },
+    "humidity": [
+      40,
+      60
+    ],
+    "minimumEnclosureCm": [
+      243.8,
+      121.9,
+      121.9
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": null,
+    "habitats": [
+      "arboreal",
+      "terrestrial"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "night"
+    ],
+    "diets": [],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          35.0,
+          37.8
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface: 95-100°F (35-38°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          26.7
+        ],
+        "unit": "°C",
+        "statement": "   Cool end: 75-80°F (24-26°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          40,
+          60
+        ],
+        "unit": "%",
+        "statement": "not picky about humidity, but they seem to do best between 40-60%, with free access to a humid hide lined by moistened sphagnum moss or"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          243.8,
+          121.9,
+          121.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   8’ x 4’ x 4’ reptile enclosure (front-opening)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Epicrates maurus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/200d87a7011201b1f72f196ca8df6ae7068ebdd4.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Colombian Rainbow Boa Colombian Rainbow Boa",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        30.0,
+        31.1
+      ],
+      "ambient": [
+        23.9,
+        27.8
+      ]
+    },
+    "humidity": [
+      60,
+      70
+    ],
+    "minimumEnclosureCm": [
+      182.9,
+      91.4,
+      182.9
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      30,
+      30
+    ],
+    "habitats": [
+      "arboreal",
+      "terrestrial"
+    ],
+    "climates": [],
+    "activities": [
+      "night"
+    ],
+    "diets": [],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          30.0,
+          31.1
+        ],
+        "unit": "°C",
+        "statement": "   Basking area: 86-88°F (30-31°C)"
+      },
+      {
+        "label": "ambient",
+        "range": [
+          23.9,
+          27.8
+        ],
+        "unit": "°C",
+        "statement": "   Daytime ambient temperature: 75-82°F (24-28°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          70
+        ],
+        "unit": "%",
+        "statement": "re a high-humidity environment. Keep humidity levels around 60-70% during the day, and higher (80- 100%) at night. Ambient humidity shou"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          182.9,
+          91.4,
+          182.9
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   6’ x 3’ x 6’ reptile enclosure (front-opening)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Pantherophis guttatus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/cfc7ff04b48a7e3e03fb8a1f269af910eb8e829f.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Corn Snake Corn Snake",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        32.2
+      ],
+      "coolAir": [
+        23.9,
+        23.9
+      ]
+    },
+    "humidity": [
+      65,
+      75
+    ],
+    "minimumEnclosureCm": [
+      121.9,
+      61.0,
+      61.0
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      25,
+      25
+    ],
+    "habitats": [
+      "arboreal",
+      "terrestrial"
+    ],
+    "climates": [],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface: 90°F (32°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          23.9
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone: 75°F (23-24°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          65,
+          75
+        ],
+        "unit": "%",
+        "statement": "Corn snakes need an average humidity of 65-75% in their enclosure, as measured by a digital probe hygrometer with th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          121.9,
+          61.0,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   48” x 24” x 24” reptile enclosure (preferably front-opening)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Acrantophis dumerili": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/7ba52a0c9c5c31383b059b92a870b2877c18c4fc.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Dumeril's Boa Dumeril's Boa",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        30.0,
+        31.1
+      ],
+      "coolAir": [
+        21.1,
+        23.9
+      ]
+    },
+    "humidity": [
+      40,
+      60
+    ],
+    "minimumEnclosureCm": null,
+    "adultSizeCm": null,
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          30.0,
+          31.1
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface temperature: 86-88°F (30-31°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          23.9
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone/nighttime temperature: 70-75°F (21-24°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          40,
+          60
+        ],
+        "unit": "%",
+        "statement": "Dumeril’s boas need an average humidity between 40-60%, as measured by a digital probe hygrometer with the probe placed in t"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Heterodon platirhinos": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/84bab0adf70ffea38919f558c9389763eb48e7b3.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Eastern Hognose Snake Eastern Hognose Snake",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        30.0,
+        31.1
+      ],
+      "coolAir": [
+        21.1,
+        23.9
+      ]
+    },
+    "humidity": [
+      50,
+      60
+    ],
+    "minimumEnclosureCm": [
+      121.9,
+      61.0,
+      61.0
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      10,
+      15
+    ],
+    "habitats": [
+      "fossorial"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          30.0,
+          31.1
+        ],
+        "unit": "°C",
+        "statement": " Basking surface: 86-88°F"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          23.9
+        ],
+        "unit": "°C",
+        "statement": " Cool zone: 70-75°F"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          50,
+          60
+        ],
+        "unit": "%",
+        "statement": "Eastern hognoses prefer an average humidity of 50-60% in their enclosure, as measured by a digital probe hygrometer with th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          121.9,
+          61.0,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "    48”L x 24”W x 24”H reptile enclosure (preferably front-opening with screen top)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  },
+  "Morelia viridis": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/c81744e39e62a691db732e0ade197e9e23412b6f.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Green Tree Python Green Tree Python",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        26.7,
+        30.0
+      ],
+      "coolAir": [
+        21.1,
+        26.7
+      ]
+    },
+    "humidity": [
+      40,
+      70
+    ],
+    "minimumEnclosureCm": [
+      91.4,
+      61.0,
+      61.0
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      15,
+      20
+    ],
+    "habitats": [
+      "arboreal"
+    ],
+    "climates": [],
+    "activities": [
+      "day",
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": "충분한 환기가 필요함 · 원자료 사육장 지침 확인",
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          26.7,
+          30.0
+        ],
+        "unit": "°C",
+        "statement": " Basking: 80-86°F (27-30°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          26.7
+        ],
+        "unit": "°C",
+        "statement": " Cool end: 70-80°F (21-26°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          40,
+          70
+        ],
+        "unit": "%",
+        "statement": "kely to do best with humidity levels that fluctuate between 40-70%. Higher right after a misting is fine as long as the enclosure is all"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          91.4,
+          61.0,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   3’L x 2’W x 2’H reptile enclosure (front-opening)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Eryx colubrinus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/819d9c07057f5aa5a13b3dfdb06f9a27e7a8e465.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Kenyan Sand Boa Kenyan Sand Boa",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        33.9,
+        35.0
+      ],
+      "coolAir": [
+        25.6,
+        28.3
+      ]
+    },
+    "humidity": null,
+    "minimumEnclosureCm": [
+      61.0,
+      45.7,
+      45.7
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      30,
+      30
+    ],
+    "habitats": [
+      "fossorial",
+      "terrestrial"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "twilight"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          33.9,
+          35.0
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface: 93-95°F (34-35°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          25.6,
+          28.3
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone: 78-83°F (26-28°C)"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          61.0,
+          45.7,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   24”L x 18”W x 18”H reptile enclosure (preferably front-opening)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Lampropeltis triangulum": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/1bca28a02dc7516231e6590deb2ed13c8d7b2f35.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Milksnake Milksnake",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        29.4,
+        32.2
+      ],
+      "coolAir": [
+        23.9,
+        26.7
+      ]
+    },
+    "humidity": [
+      40,
+      60
+    ],
+    "minimumEnclosureCm": [
+      121.9,
+      61.0,
+      61.0
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      20,
+      20
+    ],
+    "habitats": [],
+    "climates": [],
+    "activities": [],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          29.4,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface: 85-90°F (29-32°C)"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          26.7
+        ],
+        "unit": "°C",
+        "statement": "   Cool side: 75-80°F (23-27°C)"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          40,
+          60
+        ],
+        "unit": "%",
+        "statement": "Milksnakes generally need an average humidity of 40-60%, as measured by a digital probe hygrometer with the probe place in th"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          121.9,
+          61.0,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   48” x 24” x 24” reptile enclosure (preferably front-opening)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  },
+  "Antaresia maculosa": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/324716124f7939a31fafe0e3fc67e9dbf712ab67.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Spotted Python Spotted Python",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        32.2
+      ],
+      "warmHide": [
+        32.2,
+        32.2
+      ],
+      "coolAir": [
+        25.6,
+        28.9
+      ]
+    },
+    "humidity": [
+      20,
+      80
+    ],
+    "minimumEnclosureCm": null,
+    "adultSizeCm": null,
+    "lifespanYears": [
+      30,
+      30
+    ],
+    "habitats": [
+      "arboreal",
+      "terrestrial"
+    ],
+    "climates": [
+      "humid"
+    ],
+    "activities": [
+      "night"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": " Basking surface: ~90°F"
+      },
+      {
+        "label": "warmHide",
+        "range": [
+          32.2,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": " Warm hide: 90°F"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          25.6,
+          28.9
+        ],
+        "unit": "°C",
+        "statement": " Cool zone (ambient): 78-84°F"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          20,
+          80
+        ],
+        "unit": "%",
+        "statement": "access to a humid hide and ambient humidity levels between 20-80%. To measure humidity levels, use a digital probe hygrometer with the"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      2.0,
+      3.0
+    ]
+  },
+  "Heterodon nasicus": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/b841e27176992c0737ec5bf7a037c3c95810bdff.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Western Hognose Snake Western Hognose Snake",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        35.0
+      ],
+      "coolAir": [
+        21.1,
+        23.9
+      ]
+    },
+    "humidity": [
+      30,
+      50
+    ],
+    "minimumEnclosureCm": [
+      91.4,
+      45.7,
+      45.7
+    ],
+    "adultSizeCm": [
+      88.9,
+      88.9
+    ],
+    "lifespanYears": [
+      10,
+      15
+    ],
+    "habitats": [
+      "fossorial"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          35.0
+        ],
+        "unit": "°C",
+        "statement": " Basking surface: 90-95°F"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          23.9
+        ],
+        "unit": "°C",
+        "statement": " Cool zone: 70-75°F"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          30,
+          50
+        ],
+        "unit": "%",
+        "statement": "s, and seem to do best in relatively dry conditions between 30-50% on average, ranging toward more dry during the day and more humid dur"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          91.4,
+          45.7,
+          45.7
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "    36” x 18” x 18” reptile enclosure (preferably front-opening with screen top)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  },
+  "Terrapene carolina": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/b26453f7d02cf55c7215359055440857293a271d.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Eastern Box Turtle Eastern Box Turtle",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        28.9,
+        31.1
+      ],
+      "coolAir": [
+        21.1,
+        23.9
+      ]
+    },
+    "humidity": [
+      60,
+      80
+    ],
+    "minimumEnclosureCm": [
+      198.1,
+      106.7,
+      61.0
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": null,
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          28.9,
+          31.1
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 84-88°F / 29-31°C"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          23.9
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 70-75°F / 21-24°C"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          80
+        ],
+        "unit": "%",
+        "statement": "umidity levels and plenty of moisture. Target an average of 60-80%, with daytime humidity never dropping below 51%. You can monitor humi"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          198.1,
+          106.7,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   6.5'L x 3.5'W x 2'H enclosure                                 Leaf litter"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  },
+  "Terrapene ornata": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/a9b439a084ea07aefd9b7ae040e9b1c1dca96d01.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Ornate Box Turtle Ornate Box Turtle",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        35.0
+      ],
+      "coolAir": [
+        21.1,
+        25.0
+      ]
+    },
+    "humidity": [
+      60,
+      70
+    ],
+    "minimumEnclosureCm": [
+      152.4,
+      76.2,
+      61.0
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      100,
+      100
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          35.0
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 90-95°F / 32-35°C"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          21.1,
+          25.0
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 70-77°F / 21-25°C"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          60,
+          70
+        ],
+        "unit": "%",
+        "statement": "r targets for average humidity levels:  Hatchlings: 60-70%  Adults: 30-60% You can monitor humidity levels with a digita"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          152.4,
+          76.2,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   5'L x 2.5'W x 2'H enclosure                                    4 ft³ 60:40 sand/soil mix"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  },
+  "Chrysemys picta": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/340223830b1f5150d1683f6816dc133c71cc8c0b.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Painted Turtle Painted Turtle",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        35.0,
+        40.0
+      ]
+    },
+    "humidity": null,
+    "minimumEnclosureCm": null,
+    "adultSizeCm": [
+      12.7,
+      25.4
+    ],
+    "lifespanYears": [
+      40,
+      40
+    ],
+    "habitats": [
+      "aquatic",
+      "semiaquatic"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          35.0,
+          40.0
+        ],
+        "unit": "°C",
+        "statement": "   Basking surface temperature: 95-104°F (35-40°C)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  },
+  "Malacochersus tornieri": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/3f466b5058825d40bd4e38eba486023d5e2b704e.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Pancake Tortoise Pancake Tortoise",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        37.8,
+        42.2
+      ],
+      "coolAir": [
+        23.9,
+        29.4
+      ]
+    },
+    "humidity": null,
+    "minimumEnclosureCm": [
+      121.9,
+      61.0,
+      61.0
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": null,
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          37.8,
+          42.2
+        ],
+        "unit": "°C",
+        "statement": "Basking area temperature: 100-108°F / 38-42°C"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "Cool zone temperature: 75-85°F / 24-30°C"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          121.9,
+          61.0,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "4’L x 2’W x 2’H enclosure with mesh top, preferably larger"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species",
+    "uvbTarget": [
+      4.0,
+      6.0
+    ]
+  },
+  "Chelonoidis carbonarius": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/de60f6f0661b0154cbbe5851dcae23173c59e6d4.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Red-Footed Tortoise Red-Footed Tortoise",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        32.2,
+        35.0
+      ],
+      "coolAir": [
+        23.9,
+        29.4
+      ]
+    },
+    "humidity": [
+      70,
+      90
+    ],
+    "minimumEnclosureCm": [
+      243.8,
+      121.9,
+      61.0
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      50,
+      50
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [
+      "humid"
+    ],
+    "activities": [],
+    "diets": [
+      "omnivore"
+    ],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          32.2,
+          35.0
+        ],
+        "unit": "°C",
+        "statement": " Basking area temperature: 90-95°F / 32-35°C"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": " Ambient/cool zone temperature: 75-85°F / 24-29°C"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          70,
+          90
+        ],
+        "unit": "%",
+        "statement": "plenty of moisture. Indoor conditions should remain between 70-90%, although spikes up to 100% are acceptable. You can monitor humidity"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          243.8,
+          121.9,
+          61.0
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": " 8’L x 4’W x 2’H enclosure, or larger (taller if no            Humidity Gauge, x2"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  },
+  "Testudo horsfieldii": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/506790fe95ce65e866ec7470673fb2d269d70178.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Russian Tortoise Russian Tortoise",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        35.0,
+        35.0
+      ],
+      "coolAir": [
+        23.9,
+        29.4
+      ]
+    },
+    "humidity": [
+      40,
+      75
+    ],
+    "minimumEnclosureCm": [
+      243.8,
+      121.9,
+      76.2
+    ],
+    "adultSizeCm": [
+      12.7,
+      25.4
+    ],
+    "lifespanYears": [
+      50,
+      50
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "day"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "ventilation": null,
+    "difficulty": "보통",
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          35.0,
+          35.0
+        ],
+        "unit": "°C",
+        "statement": "   Basking area temperature: 95°F / 35°C"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          23.9,
+          29.4
+        ],
+        "unit": "°C",
+        "statement": "   Cool zone temperature: 75-85°F / 24-29°C"
+      },
+      {
+        "label": "humidity",
+        "range": [
+          40,
+          75
+        ],
+        "unit": "%",
+        "statement": "an required for an adult. Target humidity should be between 40-75%, lower during the day and higher at night. You can monitor humidity l"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          243.8,
+          121.9,
+          76.2
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "   8'L x 4'W x 2.5'H enclosure                                   Digital light timer power strip"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  },
+  "Clemmys guttata": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/7136986ca3cfb486328db1437aefd78841e8bb97.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Spotted Turtle Spotted Turtle",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        30.0,
+        32.2
+      ]
+    },
+    "humidity": null,
+    "minimumEnclosureCm": null,
+    "adultSizeCm": null,
+    "lifespanYears": [
+      50,
+      50
+    ],
+    "habitats": [
+      "aquatic",
+      "semiaquatic"
+    ],
+    "climates": [],
+    "activities": [
+      "day"
+    ],
+    "diets": [],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          30.0,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": " Basking temperature: 86-90°F (30-32°C)"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  },
+  "Centrochelys sulcata": {
+    "sourceUrl": "https://cdn.sanity.io/files/o8d5jv4e/production/799019ffd2abae7841ad350a48d91c8c163cd230.pdf",
+    "sourceIndex": "https://reptifiles.com/care-sheets",
+    "sourceTitle": "Sulcata Tortoise Sulcata Tortoise",
+    "reviewedAt": "2026-11-05",
+    "profile": {
+      "baskingSurface": [
+        37.8,
+        40.6
+      ],
+      "coolAir": [
+        26.7,
+        32.2
+      ]
+    },
+    "humidity": null,
+    "minimumEnclosureCm": [
+      243.8,
+      121.9,
+      76.2
+    ],
+    "adultSizeCm": null,
+    "lifespanYears": [
+      70,
+      70
+    ],
+    "habitats": [
+      "terrestrial"
+    ],
+    "climates": [
+      "dry"
+    ],
+    "activities": [
+      "day"
+    ],
+    "diets": [
+      "herbivore"
+    ],
+    "ventilation": null,
+    "difficulty": null,
+    "facts": [
+      {
+        "label": "baskingSurface",
+        "range": [
+          37.8,
+          40.6
+        ],
+        "unit": "°C",
+        "statement": "• Basking area temperature: 100-105°F / 38-41°C"
+      },
+      {
+        "label": "coolAir",
+        "range": [
+          26.7,
+          32.2
+        ],
+        "unit": "°C",
+        "statement": "• Ambient/cool zone temperature: 80-90°F / 27-32°C"
+      },
+      {
+        "label": "minimumEnclosureCm",
+        "range": [
+          243.8,
+          121.9,
+          76.2
+        ],
+        "unit": "cm (W×D×H)",
+        "statement": "•   8'L x 4'W x 2.5'H enclosure, or larger                     •   Digital probe thermometer/hygrometer, x2"
+      }
+    ],
+    "caution": "출처의 종·아종과 개체 연령, 계절별 주기를 확인하세요. 가열 지점과 서늘한 구역을 구분하고 원자료 전체 지침을 함께 검토해야 합니다.",
+    "scope": "species"
+  }
+}
