@@ -22,3 +22,4 @@
 .taxonomy-section{scroll-margin-top:24px}.facet-grid{max-height:580px;overflow-y:auto;scrollbar-width:thin}@media(max-width:700px){.facet-grid{max-height:410px}.taxonomy-section{scroll-margin-top:15px}}
 .photo-credit{overflow-wrap:anywhere}
 .card-metrics>span{min-width:0;max-width:100%;white-space:normal;overflow-wrap:anywhere}.card-metrics .icon{flex-shrink:0}
+.vivarium-intro{padding:22px;background:#edf3e5;border:1px solid #dce7ce;border-radius:10px}.vivarium-intro p{max-width:900px;line-height:1.9;color:#64735d}.habitat-guide strong,.habitat-guide em{font-family:inherit;text-align:center}.habitat-guide em{font-size:12px;font-style:normal;padding:0 18px;line-height:1.6}.habitat-guide .placeholder-taxonomy{font-size:10px}

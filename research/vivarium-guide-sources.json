@@ -1,0 +1,35 @@
+{
+  "scope": "편집한 환경 구성 설명의 참고 사례. 유형 전체의 온습도·사육 규격·적합종 근거가 아님. 원문 전체나 사진을 복제하지 않음.",
+  "references": [
+    {
+      "sourceUrl": "https://reptifiles.com/crested-gecko-care/crested-gecko-temperatures-humidity/",
+      "topic": "분무·건조 주기 사례",
+      "reviewedAt": "2026-11-06",
+      "sourceSha256": "22988cb41214bf9653e4e36f3b2e67d9fd9cea74920884eba924078c695a7525"
+    },
+    {
+      "sourceUrl": "https://reptifiles.com/crested-gecko/care-guide/crested-gecko-substrate-options",
+      "topic": "보습 배지·배수 사례",
+      "reviewedAt": "2026-11-06",
+      "sourceSha256": "e39e7195ca5642740185ec33df7fa96d294eb82e79d120fe4b2c47be70a98417"
+    },
+    {
+      "sourceUrl": "https://reptifiles.com/leopard-gecko/care-guide/leopard-gecko-lighting-heating-humidity",
+      "topic": "건조 공간·습식 은신처 사례",
+      "reviewedAt": "2026-11-06",
+      "sourceSha256": "a070aba618181b7c760dfabbce8c9011fced7be73e944da308faf3f9a194a71c"
+    },
+    {
+      "sourceUrl": "https://tropica.com/en/guide/",
+      "topic": "수생식물·수조 관리 참고",
+      "reviewedAt": "2026-11-06",
+      "sourceSha256": "110bc1807c16d9bcdfe4171b2a72484535cb6f72837fd52dcaae42380390f07e"
+    },
+    {
+      "sourceUrl": "https://www.caudata.org/cc/species/Triturus/T_marmoratus.shtml",
+      "sourceTitle": "Caudata Culture · Triturus marmoratus",
+      "reviewedAt": "2026-11-05",
+      "sourceSha256": "519364c14ac9dbf18c731638b4ee83b7b5d380af3ab0bbacd38355f08a204c94"
+    }
+  ]
+}

@@ -10,7 +10,7 @@ test('minimum counts use distinct binomial species, never morphs or duplicate ID
  }
  assert.equal(new Set(entries.map(e=>e.id)).size,entries.length);
  assert.equal(new Set(entries.map(e=>e.latin)).size,entries.length);
- assert.equal(catalogCounts.vivarium,3);
+ assert.equal(catalogCounts.vivarium,7);
 });
 test('requested reptile, amphibian and arthropod sections are present',()=>{
  for(const [kind,groups] of [['reptile',['도마뱀','뱀','거북']],['amphibian',['개구리','도롱뇽','무족영원']],['arthropod',['등각류','거미']]])for(const group of groups)assert.ok(entries.some(e=>e.kind===kind&&e.group===group));
@@ -51,6 +51,10 @@ test('comparison distinguishes missing and unverified values from incompatibilit
  assert.equal(compareEnvironment(snake,get('fittonia')).status,'insufficient');
  const base={...get('fittonia'),comparisonEligible:false};
  assert.equal(compareEnvironment(base,get('crested-gecko')).status,'insufficient');
+ for(const setup of entries.filter(e=>e.kind==='vivarium')){
+  assert.equal(setup.temp,null);assert.equal(setup.humidity,null);
+  assert.equal(compareEnvironment(setup,get('crested-gecko')).status,'insufficient');
+ }
  assert.equal(overlap(null,[20,30]),null);assert.deepEqual(overlap([20,24],[24,28]),[24,24]);
  assert.equal(formatRange(null,' °C'),'확인 필요');
 });
